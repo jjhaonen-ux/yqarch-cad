@@ -48,7 +48,7 @@
   "build": {
     "appId": "com.yqarch.webcad",
     "productName": "YQArch CAD",
-    "artifactName": "${productName}-${version}-${arch}-${target}.${ext}",
+    "artifactName": "${productName}-${version}-${arch}.${ext}",
     "directories": {
       "output": "release",
       "buildResources": "build"
@@ -89,10 +89,11 @@
         "ar_SA",
         "en_US"
       ],
-      "multiLanguageInstaller": true
+      "multiLanguageInstaller": true,
+      "artifactName": "${productName}-${version}-${arch}-setup.${ext}"
     },
     "portable": {
-      "artifactName": "${productName}-${version}-portable.${ext}"
+      "artifactName": "${productName}-${version}-${arch}-portable.${ext}"
     }
   }
 }
