@@ -1,0 +1,21 @@
+{
+  "source": "user1/settings.txt",
+  "data": {
+    "yq_dwgframe": [
+      "TK",
+      6,
+      4,
+      0,
+      true,
+      null,
+      true,
+      null,
+      null,
+      25,
+      25,
+      10,
+      5,
+      1
+    ]
+  }
+}

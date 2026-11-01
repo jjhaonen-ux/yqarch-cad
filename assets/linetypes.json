@@ -1,0 +1,1696 @@
+{
+  "sources": [
+    "library/yqarch.lin"
+  ],
+  "linetypes": [
+    {
+      "source": "library/yqarch.lin",
+      "name": "A1",
+      "description": "A1 -- A1 -- A1 -- A1 --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 6
+        },
+        {
+          "kind": "dash",
+          "length": -0.508
+        },
+        {
+          "kind": "text",
+          "text": "A1",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": 0,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -4.197
+        }
+      ],
+      "patternLength": 10.705
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "B1",
+      "description": "B1 -- B1 -- B1 -- B1 --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 6
+        },
+        {
+          "kind": "dash",
+          "length": -0.508
+        },
+        {
+          "kind": "text",
+          "text": "B1",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": 0,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3.895
+        }
+      ],
+      "patternLength": 10.403
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "B2",
+      "description": "B2 -- B2 -- B2 -- B2 --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 6
+        },
+        {
+          "kind": "dash",
+          "length": -0.508
+        },
+        {
+          "kind": "text",
+          "text": "B2",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": 0,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -4.741
+        }
+      ],
+      "patternLength": 11.248999999999999
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "•",
+      "description": "• -- • -- • -- • --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 0
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "•",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": 0,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -1
+        }
+      ],
+      "patternLength": 4
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "A2",
+      "description": "A2 -- A2 -- A2 -- A2 --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 6
+        },
+        {
+          "kind": "dash",
+          "length": -0.508
+        },
+        {
+          "kind": "text",
+          "text": "A2",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": 0,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -4.661
+        }
+      ],
+      "patternLength": 11.169
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "A3",
+      "description": "A3 -- A3 -- A3 -- A3 --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 6
+        },
+        {
+          "kind": "dash",
+          "length": -0.508
+        },
+        {
+          "kind": "text",
+          "text": "A3",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": 0,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3.665
+        }
+      ],
+      "patternLength": 10.173
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "A8",
+      "description": "A8 -- A8 -- A8 -- A8 --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 6
+        },
+        {
+          "kind": "dash",
+          "length": -0.508
+        },
+        {
+          "kind": "text",
+          "text": "A8",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": 0,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -4.692
+        }
+      ],
+      "patternLength": 11.2
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "A9",
+      "description": "A9 -- A9 -- A9 -- A9 --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 6
+        },
+        {
+          "kind": "dash",
+          "length": -0.508
+        },
+        {
+          "kind": "text",
+          "text": "A9",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": 0,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -4.692
+        }
+      ],
+      "patternLength": 11.2
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "1",
+      "description": "1 -- 1 -- 1 -- 1 --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 6
+        },
+        {
+          "kind": "dash",
+          "length": -0.508
+        },
+        {
+          "kind": "text",
+          "text": "1",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": 0,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -1.83
+        }
+      ],
+      "patternLength": 8.338000000000001
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "2",
+      "description": "2 -- 2 -- 2 -- 2 --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 6
+        },
+        {
+          "kind": "dash",
+          "length": -0.508
+        },
+        {
+          "kind": "text",
+          "text": "2",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": 0,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -2.294
+        }
+      ],
+      "patternLength": 8.802
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "DOTE",
+      "description": "____ . ____ . ____ . ____ . ____ . ____ . ____ . ____",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 2
+        },
+        {
+          "kind": "dash",
+          "length": -0.2
+        },
+        {
+          "kind": "dash",
+          "length": 0.02
+        },
+        {
+          "kind": "dash",
+          "length": -0.2
+        }
+      ],
+      "patternLength": 2.4200000000000004
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "自然土壤",
+      "description": "自然土壤",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 0
+        },
+        {
+          "kind": "dash",
+          "length": -5
+        },
+        {
+          "kind": "shape",
+          "shape": "tu2",
+          "file": "yqshape.shx",
+          "params": {
+            "S": 10
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -5
+        }
+      ],
+      "patternLength": 10
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "素土夯实1",
+      "description": "素土夯实",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 0
+        },
+        {
+          "kind": "dash",
+          "length": -5
+        },
+        {
+          "kind": "shape",
+          "shape": "tu1",
+          "file": "yqshape.shx",
+          "params": {
+            "S": 10
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -5
+        }
+      ],
+      "patternLength": 10
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "素土夯实2",
+      "description": "素土夯实///\\\\\\///\\\\\\",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 0.0001
+        },
+        {
+          "kind": "dash",
+          "length": -0.0001
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "Y": -0.14142,
+            "R": -45,
+            "S": 0.2
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.15
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "Y": -0.14142,
+            "R": -45,
+            "S": 0.2
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.15
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "Y": -0.14142,
+            "R": -45,
+            "S": 0.2
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.0001
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 45,
+            "Y": -0.24142,
+            "S": 0.06
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.115
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 45,
+            "Y": -0.19642,
+            "S": 0.1
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.085
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 45,
+            "Y": -0.10642,
+            "S": 0.1
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.12
+        }
+      ],
+      "patternLength": 0.6203
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "小草",
+      "description": "小草\\|/ \\|/",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 15,
+            "Y": 0.45,
+            "S": 0.4
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.3
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 10,
+            "Y": 0.45,
+            "S": 0.45
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.3
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": -5,
+            "Y": 0.45,
+            "S": 0.5
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.3
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 1,
+            "Y": 0.45,
+            "S": 0.5
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.3
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 5,
+            "Y": 0.45,
+            "S": 0.45
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.3
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": -12,
+            "Y": 0.45,
+            "S": 0.45
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.5
+        }
+      ],
+      "patternLength": 2.00001
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "地毯",
+      "description": "地毯\\\\\\\\////\\\\\\\\////",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 12,
+            "Y": 0.5,
+            "S": 0.5
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.3
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 10,
+            "Y": 0.5,
+            "S": 0.5
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.3
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": -5,
+            "Y": 0.5,
+            "S": 0.5
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.3
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 1,
+            "Y": 0.5,
+            "S": 0.5
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.3
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 5,
+            "Y": 0.5,
+            "S": 0.5
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.3
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": -12,
+            "Y": 0.5,
+            "S": 0.5
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.3
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 1,
+            "Y": 0.5,
+            "S": 0.5
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.3
+        }
+      ],
+      "patternLength": 2.10001
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "鹅卵石",
+      "description": "鹅卵石O.oO.oOO.o",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 0.0001
+        },
+        {
+          "kind": "shape",
+          "shape": "CIRC1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "X": 0.11,
+            "Y": 0.3216,
+            "S": 0.11
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "CIRC1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "X": 0.1507,
+            "Y": 0.0456,
+            "S": 0.12
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "CIRC1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "X": 0.0946,
+            "Y": -0.416,
+            "S": 0.07
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "CIRC1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "X": 0.2,
+            "Y": -0.238,
+            "S": 0.14
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "CIRC1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "X": 0.3234,
+            "Y": 0.4202,
+            "S": 0.07
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "CIRC1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "X": 0.43,
+            "Y": 0.1106,
+            "S": 0.15
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "CIRC1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "X": 0.5082,
+            "Y": 0.3919,
+            "S": 0.08
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "CIRC1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "X": 0.46,
+            "Y": -0.3852,
+            "S": 0.11
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "CIRC1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "X": 0.6,
+            "Y": -0.164,
+            "S": 0.1
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.6
+        }
+      ],
+      "patternLength": 0.6001799999999999
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "斜线",
+      "description": "斜线/////",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 0.0001
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": -45,
+            "S": 0.7071
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -0.5
+        }
+      ],
+      "patternLength": 0.5001
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "行道树1",
+      "description": "行道树0A _o_o_o_o_o_",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 1
+        },
+        {
+          "kind": "shape",
+          "shape": "CIRC1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "X": -0.5,
+            "Y": 0.65,
+            "S": 0.5
+          }
+        },
+        {
+          "kind": "dash",
+          "length": 0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "Y": 0.65,
+            "S": 0.05
+          }
+        },
+        {
+          "kind": "dash",
+          "length": 0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 90,
+            "Y": 0.65,
+            "S": 0.05
+          }
+        },
+        {
+          "kind": "dash",
+          "length": 0.2
+        }
+      ],
+      "patternLength": 1.20002
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "行道树2",
+      "description": "行道树0B -o-o-o-o-o-",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 1
+        },
+        {
+          "kind": "shape",
+          "shape": "CIRC1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "X": -0.5,
+            "Y": -0.65,
+            "S": 0.5
+          }
+        },
+        {
+          "kind": "dash",
+          "length": 0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "Y": -0.65,
+            "S": 0.05
+          }
+        },
+        {
+          "kind": "dash",
+          "length": 0.00001
+        },
+        {
+          "kind": "shape",
+          "shape": "TRACK1",
+          "file": "ltypeshp.shx",
+          "params": {
+            "R": 90,
+            "Y": -0.65,
+            "S": 0.05
+          }
+        },
+        {
+          "kind": "dash",
+          "length": 0.2
+        }
+      ],
+      "patternLength": 1.20002
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "GIVE_LINE",
+      "description": "Give line ---- J ---- J ---- J ---- J ---- J --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "J",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -0.85,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "DRAIN_LINE",
+      "description": "Drain line ---- W ---- W ---- W ---- W ---- W --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "W",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -0.85,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "RAIN_LINE",
+      "description": "Rain line ---- Y ---- Y ---- Y ---- Y ---- Y --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "Y",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -0.85,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "AIR_LINE",
+      "description": "Air line ---- T ---- T ---- T ---- T ---- T --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "T",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -0.85,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "PREVENT_LINE",
+      "description": "Prevent line ---- X ---- X ---- X ---- X --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "X",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -0.85,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "STEAM_LINE",
+      "description": "Steam line ---- Z ---- Z ---- Z ---- Z ---- Z --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "Z",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -0.85,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "WASTE_LINE",
+      "description": "Waste line ---- F ---- F ---- F ---- F ---- F --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "F",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -0.85,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "HOT_WATER",
+      "description": "Hot water ---- RJ ---- RJ ---- RJ ---- RJ --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "RJ",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.1,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "CIRCLE_WATER",
+      "description": "Circle water ---- XJ ---- XJ ---- XJ ---- XJ --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "XJ",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.1,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "CIRCLE_RETURN",
+      "description": "Circle return ---- XH ---- XH ---- XH --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "XH",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.1,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "HOT_RETURN",
+      "description": "Hot return ---- RH ---- RH ---- RH ---- RH --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "RH",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.1,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "MID_WATER",
+      "description": "Mid water ---- ZJ ---- ZJ ---- ZJ ---- ZJ --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "ZJ",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.1,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "AUTO_SPRAY",
+      "description": "Auto Spray ---- ZP ---- ZP ---- ZP ---- ZP --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "ZP",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.1,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "RAIN_POUR",
+      "description": "Rain Pour ---- YL ---- YL ---- YL ---- YL --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "YL",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.1,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "WATER_CURTAIN",
+      "description": "Water Curtain ---- SM ---- SM ---- SM ---- SM --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "SM",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.1,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "WATER_CANNON",
+      "description": "Water CANNON ---- SP ---- SP ---- SP ---- SP --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "SP",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.1,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "AIR_CONDITIONER",
+      "description": "Air conditioner ---- KN ---- KN ---- KN --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 30
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "KN",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.1,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        }
+      ],
+      "patternLength": 36
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "HOT_WATER_SUPPLY",
+      "description": "Hot water supply ---- HW ---- HW ---- HW ----",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 12.7
+        },
+        {
+          "kind": "dash",
+          "length": -5.08
+        },
+        {
+          "kind": "text",
+          "text": "HW",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.54,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -5.08
+        }
+      ],
+      "patternLength": 22.86
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "GAS_LINE",
+      "description": "Gas line ----GAS----GAS----GAS----GAS----GAS----GAS--",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 12.7
+        },
+        {
+          "kind": "dash",
+          "length": -5.08
+        },
+        {
+          "kind": "text",
+          "text": "GAS",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.54,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -6.35
+        }
+      ],
+      "patternLength": 24.130000000000003
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "LED",
+      "description": "LED -- LED -- LED -- LED --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 6
+        },
+        {
+          "kind": "dash",
+          "length": -3.5
+        },
+        {
+          "kind": "text",
+          "text": "LED",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.54,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -4.8
+        }
+      ],
+      "patternLength": 14.3
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "T5",
+      "description": "T5 -- T5 -- T5 -- T5 --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 6
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "T5",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.54,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -2
+        }
+      ],
+      "patternLength": 11
+    },
+    {
+      "source": "library/yqarch.lin",
+      "name": "T8",
+      "description": "T8 -- T8 -- T8 -- T8 --",
+      "alignment": "A",
+      "elements": [
+        {
+          "kind": "dash",
+          "length": 6
+        },
+        {
+          "kind": "dash",
+          "length": -3
+        },
+        {
+          "kind": "text",
+          "text": "T8",
+          "style": "STANDARD",
+          "params": {
+            "S": 2.54,
+            "R": 0,
+            "X": -2.54,
+            "Y": -1.27
+          }
+        },
+        {
+          "kind": "dash",
+          "length": -2
+        }
+      ],
+      "patternLength": 11
+    }
+  ]
+}

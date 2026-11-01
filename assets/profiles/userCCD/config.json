@@ -1,0 +1,2684 @@
+{
+  "source": "userCCD/config.txt",
+  "data": {
+    "sections": [
+      {
+        "title": "系统设定 YQARCH SYSTEM SETTINGS",
+        "keys": [
+          "LANGUAGE",
+          "YQARCH_MENU",
+          "YQARCH_SHORTCUT_PRIORITY",
+          "YQARCH_SEARCHPATH_TOP",
+          "DRAWING_SCALE_LIST",
+          "DRAWING_UNITS",
+          "DRAWING_SCALE"
+        ]
+      },
+      {
+        "title": "通用图层设定 GENERAL LAYER SETTINGS",
+        "keys": [
+          "AXIS_LAYER_NAME",
+          "AXIS_LAYER_COLOR",
+          "AXIS_LAYER_LINETYPE",
+          "VIEWPORT_LAYER_NAME",
+          "VIEWPORT_LAYER_COLOR",
+          "VIEWPORT_LAYER_PRINT",
+          "DWGRANGE_LAYER_NAME",
+          "DWGRANGE_LAYER_COLOR",
+          "ORDINARY_LAYER_NAME",
+          "ORDINARY_LAYER_COLOR",
+          "STAIR_LAYER_NAME",
+          "STAIR_LAYER_COLOR",
+          "SANITARY_LAYER_NAME",
+          "SANITARY_LAYER_COLOR",
+          "TILING_LAYER_NAME",
+          "TILING_LAYER_COLOR",
+          "FURNITURE_LAYER_NAME",
+          "FURNITURE_LAYER_COLOR",
+          "FURNITURE_HATCH_LAYER",
+          "FURNITURE_HATCH_COLOR",
+          "FIXEDFURNITURE_LAYER_NAME",
+          "FIXEDFURNITURE_LAYER_COLOR",
+          "FIXEDFURNITURE_HATCH_LAYER",
+          "FIXEDFURNITURE_HATCH_COLOR",
+          "WOOD_LAYER_NAME",
+          "WOOD_LAYER_COLOR",
+          "WOOD_HATCH_LAYER",
+          "WOOD_HATCH_COLOR",
+          "ALUMINIUM_LAYER_NAME",
+          "ALUMINIUM_LAYER_COLOR",
+          "ALUMINIUM_HATCH_LAYER",
+          "ALUMINIUM_HATCH_COLOR",
+          "STEEL_LAYER_NAME",
+          "STEEL_LAYER_COLOR",
+          "STEEL_HATCH_LAYER",
+          "STEEL_HATCH_COLOR",
+          "LIGHTSTEEL_LAYER_NAME",
+          "LIGHTSTEEL_LAYER_COLOR",
+          "SHUTTER_LAYER_NAME",
+          "SHUTTER_LAYER_COLOR",
+          "SHUTTER_HATCH_LAYER",
+          "SHUTTER_HATCH_COLOR",
+          "GLASS_LAYER_NAME",
+          "GLASS_LAYER_COLOR",
+          "GLASS_HATCH_LAYER",
+          "GLASS_HATCH_COLOR",
+          "GYPSUM_LAYER_NAME",
+          "GYPSUM_LAYER_COLOR",
+          "GYPSUM_HATCH_LAYER",
+          "GYPSUM_HATCH_COLOR",
+          "STONE_LAYER_NAME",
+          "STONE_LAYER_COLOR",
+          "STONE_HATCH_LAYER",
+          "STONE_HATCH_COLOR"
+        ]
+      },
+      {
+        "title": "平面墙设定 WALL SETTINGS",
+        "keys": [
+          "WALL_LAYER_LIST",
+          "WALL_LAYER_NAME",
+          "WALL_FILL_LAYER_NAME",
+          "WALL_FILL_LAYER_COLOR",
+          "WALL_THICKNESS_LIST",
+          "WALL_DEFAULT_THICKNESS",
+          "WALL_PIER_WIDTH_LIST",
+          "WALL_HOLE_WIDTH_LIST"
+        ]
+      },
+      {
+        "title": "平面柱子设定 COLUMN SETTINGS",
+        "keys": [
+          "COLUMN_BOUNDARY_LAYER_NAME",
+          "COLUMN_BOUNDARY_LAYER_COLOR",
+          "COLUMN_BOUNDARY_THICKNESS",
+          "COLUMN_FILL_LAYER_NAME",
+          "COLUMN_FILL_LAYER_COLOR",
+          "COLUMN_AUTO_FILL_IN",
+          "COLUMN_AUTO_TRIM"
+        ]
+      },
+      {
+        "title": "平面门窗设定 WINDOW/DOOR SETTINGS",
+        "keys": [
+          "DOOR_LAYER_NAME",
+          "DOOR_LAYER_COLOR",
+          "DOOR_LEAF_WIDTH_LIST",
+          "DOORSILL_LAYER_NAME",
+          "DOORSILL_LAYER_COLOR",
+          "DOORPOCKET_LAYER_NAME",
+          "DOORPOCKET_LAYER_COLOR",
+          "DOORLEAF_LAYER_NAME",
+          "DOORLEAF_LAYER_COLOR",
+          "OPENINGLINE_LAYER_NAME",
+          "OPENINGLINE_LAYER_COLOR",
+          "DOOR_POCKET_PARAMETERS",
+          "WINDOW_LAYER_NAME",
+          "WINDOW_LAYER_COLOR",
+          "WINDOWLEAF_LAYER_NAME",
+          "WINDOWLEAF_LAYER_COLOR",
+          "WINDOW_TEXT_LAYER_NAME",
+          "WINDOW_TEXT_LAYER_COLOR",
+          "DEFAULT_DOOR",
+          "DEFAULT_WINDOW"
+        ]
+      },
+      {
+        "title": "尺寸标注设定 DIMENSION SETTINGS",
+        "keys": [
+          "YQARCH_DIMENSTION_STYLE",
+          "YQARCH_DIMENSTION_LAYER",
+          "DIMENSION_STYLE_PREFIX",
+          "DIMENSION_FIX_PSSCALE",
+          "DIMENSION_FORCE_2D",
+          "DIMENSION_LAYER_LIST",
+          "DIMENSION_LAYER_NAME",
+          "DIMENSION_DIMLINE_COLOR",
+          "DIMENSION_EXTLINE_COLOR",
+          "DIMENSION_TEXT_COLOR",
+          "DIMENSION_TEXT_STYLE",
+          "DIMENSION_TEXT_FONTS",
+          "DIMENSION_TEXT_HEIGHT",
+          "DIMENSION_TEXT_ASPECT",
+          "DIMENSION_BASELINE_SPACING",
+          "DIMENSION_FIRST_BASELINE",
+          "DIMENSION_ORIGIN_OFFSET",
+          "DIMENSION_EXTEND_LENGTH",
+          "DIMENSION_TEXT_GAP",
+          "DIMENSION_EXTLINE_FIXLENGTH",
+          "DIMENSION_ARROW_BLOCK",
+          "DIMENSION_DIMLINE_EXTENSION",
+          "DIMENSION_ARROW_SIZE",
+          "DIMENSION_LEADER_BLOCK",
+          "DIMENSION_DECIMAL_DIGITS",
+          "DIMENSION_ROUNDING",
+          "DIMENSION_FOLLOWING_ZERO",
+          "DIMENSION_ANGLE_DIGITS",
+          "DIMENSION_DIMTAD",
+          "DIMENSION_DIMARCSYM"
+        ]
+      },
+      {
+        "title": "标高设定 SYMBOL ELEVATIO SETTINGS",
+        "keys": [
+          "SYMBOL_ELEVATION_LAYER_NAME",
+          "SYMBOL_ELEVATION_LAYER_COLOR",
+          "SYMBOL_ELEVATION_ARROW_HEIGHT",
+          "SYMBOL_ELEVATION_TEXT_COLOR",
+          "SYMBOL_ELEVATION_TEXT_STYLE",
+          "SYMBOL_ELEVATION_TEXT_FONTS",
+          "SYMBOL_ELEVATION_TEXT_ASPECT",
+          "SYMBOL_ELEVATION_TEXT_HEIGHT"
+        ]
+      },
+      {
+        "title": "坐标设定 SYMBOL COORDINATE SETTINGS",
+        "keys": [
+          "SYMBOL_COORDINATE_LAYER_NAME",
+          "SYMBOL_COORDINATE_LAYER_COLOR",
+          "SYMBOL_COORDINATE_TEXT_COLOR",
+          "SYMBOL_COORDINATE_TEXT_STYLE",
+          "SYMBOL_COORDINATE_TEXT_FONTS",
+          "SYMBOL_COORDINATE_TEXT_ASPECT",
+          "SYMBOL_COORDINATE_TEXT_HEIGHT"
+        ]
+      },
+      {
+        "title": "轴号设定 SYMBOL AXIS SETTING",
+        "keys": [
+          "SYMBOL_AXIS_LAYER_NAME",
+          "SYMBOL_AXIS_LAYER_COLOR",
+          "SYMBOL_AXIS_TEXT_COLOR",
+          "SYMBOL_AXIS_TEXT_STYLE",
+          "SYMBOL_AXIS_TEXT_FONTS",
+          "SYMBOL_AXIS_TEXT_HEIGHT",
+          "SYMBOL_AXIS_TEXT_JUSTIFY",
+          "SYMBOL_AXIS_TEXT_ASPECT",
+          "SYMBOL_AXIS_DIM_DISTANCE",
+          "SYMBOL_AXIS_DIM_EXTEND",
+          "SYMBOL_AXIS_RADIUS",
+          "SYMBOL_AXIS_LETTERS"
+        ]
+      },
+      {
+        "title": "索引标识号设定 SYMBOL IDENTIFIER SETTING",
+        "keys": [
+          "SYMBOL_IDENTIFIER_LAYER_NAME",
+          "SYMBOL_IDENTIFIER_LAYER_COLOR",
+          "SYMBOL_IDENTIFIER_TEXT_COLOR",
+          "SYMBOL_IDENTIFIER_TEXT_STYLE",
+          "SYMBOL_IDENTIFIER_TEXT_FONTS",
+          "SYMBOL_IDENTIFIER_TEXT_HEIGHT",
+          "SYMBOL_IDENTIFIER_TEXT_JUSTIFY",
+          "SYMBOL_IDENTIFIER_TEXT_ASPECT",
+          "SYMBOL_IDENTIFIER_TEXT2_ASPECT",
+          "SYMBOL_IDENTIFIER_RADIUS",
+          "SYMBOL_IDENTIFIER_TITLE_RADIUS",
+          "SYMBOL_IDENTIFIER_ELLIPSE",
+          "SYMBOL_IDENTIFIER_RECTANGLE",
+          "SYMBOL_INDEXBOX_PARAMETERS"
+        ]
+      },
+      {
+        "title": "引线箭头设定 LEADER ARROW SETTING",
+        "keys": [
+          "LEADER_ARROW_SIZE"
+        ]
+      },
+      {
+        "title": "其他符号层设定 OTHER SYMBOL SETTINGS",
+        "keys": [
+          "SYMBOL_LAYER_NAME",
+          "SYMBOL_LAYER_COLOR"
+        ]
+      },
+      {
+        "title": "一般说明注释设定 COMMENT SETTINGS",
+        "keys": [
+          "COMMENT_LAYER_NAME",
+          "COMMENT_LAYER_COLOR",
+          "COMMENT_TEXT_COLOR",
+          "COMMENT_TEXT_STYLE",
+          "COMMENT_TEXT_FONTS",
+          "COMMENT_TEXT_HEIGHT",
+          "COMMENT_TEXT_GAP",
+          "COMMENT_TEXT_ASPECT",
+          "COMMENT_TEXT_ROW_SPACING",
+          "SQUARE_METER_STRING",
+          "UNITS_LIST"
+        ]
+      },
+      {
+        "title": "标题文字设定 DRAWING TITLE SETTINGS",
+        "keys": [
+          "TITLE_LAYER_NAME",
+          "TITLE_LAYER_COLOR",
+          "TITLE_TEXT_COLOR",
+          "TITLE_TEXT_STYLE",
+          "TITLE_TEXT_FONTS",
+          "TITLE_TEXT_HEIGHT",
+          "TITLE_TEXT_ASPECT"
+        ]
+      },
+      {
+        "title": "其他设定  OTHER SETTINGS",
+        "keys": [
+          "DYNAMIC_COMMANDS",
+          "BLOCKVIEWER_36THUMBNAILS",
+          "DOUBLELINE_THICKNESS_LIST",
+          "AUTO_REPLACE_FONTS",
+          "LINETYPE_SCALE_FACTOR",
+          "TEXT_EDITER_FULLNAME",
+          "EXCEL_FULLNAME",
+          "WPSET_FULLNAME",
+          "DOUBLECLICK_COMMAND"
+        ]
+      }
+    ],
+    "entries": [
+      {
+        "key": "LANGUAGE",
+        "raw": "1",
+        "value": 1,
+        "label": "当前语言",
+        "comment": "0:English 1:中文",
+        "notes": [],
+        "section": "系统设定 YQARCH SYSTEM SETTINGS"
+      },
+      {
+        "key": "YQARCH_MENU",
+        "raw": "yes",
+        "value": true,
+        "label": "是否显示源泉菜单栏",
+        "comment": "值范围是 yes/no (缺省yes)",
+        "notes": [],
+        "section": "系统设定 YQARCH SYSTEM SETTINGS"
+      },
+      {
+        "key": "YQARCH_SHORTCUT_PRIORITY",
+        "raw": "no",
+        "value": false,
+        "label": "源泉快捷键优先级是否超越acad.pgp",
+        "comment": "值范围是 yes/no (缺省no)",
+        "notes": [],
+        "section": "系统设定 YQARCH SYSTEM SETTINGS"
+      },
+      {
+        "key": "YQARCH_SEARCHPATH_TOP",
+        "raw": "yes",
+        "value": true,
+        "label": "AutoCAD搜索路径中自动前置源泉",
+        "comment": "值范围是 yes/no (缺省no)",
+        "notes": [],
+        "section": "系统设定 YQARCH SYSTEM SETTINGS"
+      },
+      {
+        "key": "DRAWING_SCALE_LIST",
+        "raw": "0,1,2,3,4,5,6,8,10,15,20,25,30,40,50,60,75,80,100,120,150,200,250,300,400,500,600,1000,2000,5000,10000",
+        "value": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          10,
+          15,
+          20,
+          25,
+          30,
+          40,
+          50,
+          60,
+          75,
+          80,
+          100,
+          120,
+          150,
+          200,
+          250,
+          300,
+          400,
+          500,
+          600,
+          1000,
+          2000,
+          5000,
+          10000
+        ],
+        "label": null,
+        "comment": null,
+        "notes": [
+          "【常用图纸比例】设定(以毫米图为准,厘米图自动降)"
+        ],
+        "section": "系统设定 YQARCH SYSTEM SETTINGS"
+      },
+      {
+        "key": "DRAWING_UNITS",
+        "raw": "4",
+        "value": 4,
+        "label": "缺省图纸单位",
+        "comment": "填空则不改 0:无单位/1:英寸/4:毫米/5:厘米/14:分米/6:米",
+        "notes": [],
+        "section": "系统设定 YQARCH SYSTEM SETTINGS"
+      },
+      {
+        "key": "DRAWING_SCALE",
+        "raw": "",
+        "value": null,
+        "label": "缺省图纸比例",
+        "comment": "填空则不改 100表示1:100",
+        "notes": [],
+        "section": "系统设定 YQARCH SYSTEM SETTINGS"
+      },
+      {
+        "key": "AXIS_LAYER_NAME",
+        "raw": "DOTE",
+        "value": "DOTE",
+        "label": "轴线层名",
+        "comment": "不能空, 用于自动布置柱子及自动布置轴号尺寸时作定位",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "AXIS_LAYER_COLOR",
+        "raw": "8",
+        "value": 8,
+        "label": "轴线层颜色",
+        "comment": "所有层颜色值的范围都是 1-255",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "AXIS_LAYER_LINETYPE",
+        "raw": "CENTER",
+        "value": "CENTER",
+        "label": "轴线层线型",
+        "comment": "请选择AutoCAD自带线型",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "VIEWPORT_LAYER_NAME",
+        "raw": "VIEWPORT",
+        "value": "VIEWPORT",
+        "label": "新视口层名",
+        "comment": "层名可填空，表示使用当前层、忽略层颜色，下同",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "VIEWPORT_LAYER_COLOR",
+        "raw": "250",
+        "value": 250,
+        "label": "新视口层颜色",
+        "comment": "所有层颜色值的范围都是 1-255",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "VIEWPORT_LAYER_PRINT",
+        "raw": "yes",
+        "value": true,
+        "label": "视口层是否打印",
+        "comment": "值范围是 yes/no (缺省yes)",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "DWGRANGE_LAYER_NAME",
+        "raw": "RANGE",
+        "value": "RANGE",
+        "label": "图幅分隔线层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "DWGRANGE_LAYER_COLOR",
+        "raw": "6",
+        "value": 6,
+        "label": "图幅分隔线层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "ORDINARY_LAYER_NAME",
+        "raw": "LINE",
+        "value": "LINE",
+        "label": "普通看线层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "ORDINARY_LAYER_COLOR",
+        "raw": "2",
+        "value": 2,
+        "label": "普通看线层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "STAIR_LAYER_NAME",
+        "raw": "STAIR",
+        "value": "STAIR",
+        "label": "楼梯层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "STAIR_LAYER_COLOR",
+        "raw": "44",
+        "value": 44,
+        "label": "楼梯层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "SANITARY_LAYER_NAME",
+        "raw": "SANITARY",
+        "value": "SANITARY",
+        "label": "洁具层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "SANITARY_LAYER_COLOR",
+        "raw": "146",
+        "value": 146,
+        "label": "洁具层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "TILING_LAYER_NAME",
+        "raw": "TILING",
+        "value": "TILING",
+        "label": "铺设砖石层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "TILING_LAYER_COLOR",
+        "raw": "250",
+        "value": 250,
+        "label": "铺设砖石层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "FURNITURE_LAYER_NAME",
+        "raw": "FURNITURE",
+        "value": "FURNITURE",
+        "label": "活动家具层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "FURNITURE_LAYER_COLOR",
+        "raw": "146",
+        "value": 146,
+        "label": "活动家具层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "FURNITURE_HATCH_LAYER",
+        "raw": "FURHATCH",
+        "value": "FURHATCH",
+        "label": "活动家具填充层名",
+        "comment": "(新添 ●●2019/5/31)",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "FURNITURE_HATCH_COLOR",
+        "raw": "250",
+        "value": 250,
+        "label": "活动家具填充层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "FIXEDFURNITURE_LAYER_NAME",
+        "raw": "FFURNITURE",
+        "value": "FFURNITURE",
+        "label": "固定家具层名",
+        "comment": "(新添 ●●●2021/5/14)",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "FIXEDFURNITURE_LAYER_COLOR",
+        "raw": "146",
+        "value": 146,
+        "label": "固定家具层颜色",
+        "comment": "(可填与活动家具层一样)",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "FIXEDFURNITURE_HATCH_LAYER",
+        "raw": "FFHATCH",
+        "value": "FFHATCH",
+        "label": "固定家具填充层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "FIXEDFURNITURE_HATCH_COLOR",
+        "raw": "250",
+        "value": 250,
+        "label": "固定家具填充层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "WOOD_LAYER_NAME",
+        "raw": "WD",
+        "value": "WD",
+        "label": "木材层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "WOOD_LAYER_COLOR",
+        "raw": "52",
+        "value": 52,
+        "label": "木材层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "WOOD_HATCH_LAYER",
+        "raw": "WDHATCH",
+        "value": "WDHATCH",
+        "label": "木材填充层名",
+        "comment": "(新添 ●●2019/5/31)",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "WOOD_HATCH_COLOR",
+        "raw": "250",
+        "value": 250,
+        "label": "木材填充层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "ALUMINIUM_LAYER_NAME",
+        "raw": "AL",
+        "value": "AL",
+        "label": "铝合金层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "ALUMINIUM_LAYER_COLOR",
+        "raw": "4",
+        "value": 4,
+        "label": "铝合金层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "ALUMINIUM_HATCH_LAYER",
+        "raw": "ALHATCH",
+        "value": "ALHATCH",
+        "label": "铝合金填充层名",
+        "comment": "(新添 ●●2019/5/31)",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "ALUMINIUM_HATCH_COLOR",
+        "raw": "8",
+        "value": 8,
+        "label": "铝合金填充层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "STEEL_LAYER_NAME",
+        "raw": "MT",
+        "value": "MT",
+        "label": "不锈钢/铁层名",
+        "comment": "(新添 ●●2019/6/4)",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "STEEL_LAYER_COLOR",
+        "raw": "4",
+        "value": 4,
+        "label": "不锈钢/铁层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "STEEL_HATCH_LAYER",
+        "raw": "MTHATCH",
+        "value": "MTHATCH",
+        "label": "不锈钢/铁填充层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "STEEL_HATCH_COLOR",
+        "raw": "8",
+        "value": 8,
+        "label": "不锈钢/铁填充层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "LIGHTSTEEL_LAYER_NAME",
+        "raw": "LS",
+        "value": "LS",
+        "label": "轻钢龙骨层名",
+        "comment": "(新添 ●●2019/6/4)",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "LIGHTSTEEL_LAYER_COLOR",
+        "raw": "4",
+        "value": 4,
+        "label": "轻钢龙骨层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "SHUTTER_LAYER_NAME",
+        "raw": "SHUTTER",
+        "value": "SHUTTER",
+        "label": "百叶层名",
+        "comment": "(新添 ●●2019/6/4)",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "SHUTTER_LAYER_COLOR",
+        "raw": "134",
+        "value": 134,
+        "label": "百叶层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "SHUTTER_HATCH_LAYER",
+        "raw": "SHTRHATCH",
+        "value": "SHTRHATCH",
+        "label": "百叶填充层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "SHUTTER_HATCH_COLOR",
+        "raw": "8",
+        "value": 8,
+        "label": "百叶填充层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "GLASS_LAYER_NAME",
+        "raw": "GL",
+        "value": "GL",
+        "label": "玻璃层名",
+        "comment": "(新添 ●●2019/6/3)",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "GLASS_LAYER_COLOR",
+        "raw": "171",
+        "value": 171,
+        "label": "玻璃层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "GLASS_HATCH_LAYER",
+        "raw": "GLHATCH",
+        "value": "GLHATCH",
+        "label": "玻璃填充层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "GLASS_HATCH_COLOR",
+        "raw": "8",
+        "value": 8,
+        "label": "玻璃填充层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "GYPSUM_LAYER_NAME",
+        "raw": "GYP",
+        "value": "GYP",
+        "label": "石膏板层名",
+        "comment": "(新添 ●●2019/6/3)",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "GYPSUM_LAYER_COLOR",
+        "raw": "52",
+        "value": 52,
+        "label": "石膏板层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "GYPSUM_HATCH_LAYER",
+        "raw": "GYPHATCH",
+        "value": "GYPHATCH",
+        "label": "石膏板填充层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "GYPSUM_HATCH_COLOR",
+        "raw": "8",
+        "value": 8,
+        "label": "石膏板填充层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "STONE_LAYER_NAME",
+        "raw": "ST",
+        "value": "ST",
+        "label": "石材层名",
+        "comment": "(新添 ●●2019/6/3)",
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "STONE_LAYER_COLOR",
+        "raw": "52",
+        "value": 52,
+        "label": "石材层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "STONE_HATCH_LAYER",
+        "raw": "STHATCH",
+        "value": "STHATCH",
+        "label": "石材填充层名",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "STONE_HATCH_COLOR",
+        "raw": "8",
+        "value": 8,
+        "label": "石材填充层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "通用图层设定 GENERAL LAYER SETTINGS"
+      },
+      {
+        "key": "WALL_LAYER_LIST",
+        "raw": "COLUMN,40,WALL,160,wall1,2,WALL2,4",
+        "value": [
+          "COLUMN",
+          "40",
+          "WALL",
+          "160",
+          "wall1",
+          "2",
+          "WALL2",
+          "4"
+        ],
+        "label": "墙层列表",
+        "comment": "优先级按列表顺序,墙层数不限",
+        "notes": [
+          "格式: 混凝土墙层名称,层颜色,普通墙层名称,层颜色,次墙层名称,层颜色...等"
+        ],
+        "section": "平面墙设定 WALL SETTINGS"
+      },
+      {
+        "key": "WALL_LAYER_NAME",
+        "raw": "WALL",
+        "value": "WALL",
+        "label": "当前墙层名",
+        "comment": "此名需要在上述列表中",
+        "notes": [],
+        "section": "平面墙设定 WALL SETTINGS"
+      },
+      {
+        "key": "WALL_FILL_LAYER_NAME",
+        "raw": "WALL_FILL",
+        "value": "WALL_FILL",
+        "label": "墙填充层名",
+        "comment": "墙内部填充所在层的层名",
+        "notes": [],
+        "section": "平面墙设定 WALL SETTINGS"
+      },
+      {
+        "key": "WALL_FILL_LAYER_COLOR",
+        "raw": "251",
+        "value": 251,
+        "label": "墙填充层颜色 ",
+        "comment": null,
+        "notes": [],
+        "section": "平面墙设定 WALL SETTINGS"
+      },
+      {
+        "key": "WALL_THICKNESS_LIST",
+        "raw": "50,60,90,100,120,140,150,180,200,240,250,300,360,480",
+        "value": [
+          50,
+          60,
+          90,
+          100,
+          120,
+          140,
+          150,
+          180,
+          200,
+          240,
+          250,
+          300,
+          360,
+          480
+        ],
+        "label": null,
+        "comment": null,
+        "notes": [
+          "【墙厚表】(单位:毫米, 台湾用户也需填实际毫米数)",
+          "只有这些墙厚的墙能在门/窗/墙/柱的程序中被识别修剪"
+        ],
+        "section": "平面墙设定 WALL SETTINGS"
+      },
+      {
+        "key": "WALL_DEFAULT_THICKNESS",
+        "raw": "200",
+        "value": 200,
+        "label": "缺省墙厚",
+        "comment": "(单位:毫米) 此数值一定要在上述墙厚表中",
+        "notes": [],
+        "section": "平面墙设定 WALL SETTINGS"
+      },
+      {
+        "key": "WALL_PIER_WIDTH_LIST",
+        "raw": "0,50,60,100,120,200,240,300,400,500,600,700,800,900,1000",
+        "value": [
+          0,
+          50,
+          60,
+          100,
+          120,
+          200,
+          240,
+          300,
+          400,
+          500,
+          600,
+          700,
+          800,
+          900,
+          1000
+        ],
+        "label": null,
+        "comment": null,
+        "notes": [
+          "【墙跺宽度表】(单位:毫米) 在门窗程序中供选择用的墙跺宽度列表"
+        ],
+        "section": "平面墙设定 WALL SETTINGS"
+      },
+      {
+        "key": "WALL_HOLE_WIDTH_LIST",
+        "raw": "600,700,750,800,850,900,1000,1100,1200,1500,1600,1800,2000,2100,2400,3000,3200,3600,5400",
+        "value": [
+          600,
+          700,
+          750,
+          800,
+          850,
+          900,
+          1000,
+          1100,
+          1200,
+          1500,
+          1600,
+          1800,
+          2000,
+          2100,
+          2400,
+          3000,
+          3200,
+          3600,
+          5400
+        ],
+        "label": null,
+        "comment": null,
+        "notes": [
+          "【墙洞宽度表】(单位:毫米) 在门窗程序中供选择用的墙洞宽度列表"
+        ],
+        "section": "平面墙设定 WALL SETTINGS"
+      },
+      {
+        "key": "COLUMN_BOUNDARY_LAYER_NAME",
+        "raw": "COLUMN",
+        "value": "COLUMN",
+        "label": "柱子外框层名",
+        "comment": null,
+        "notes": [],
+        "section": "平面柱子设定 COLUMN SETTINGS"
+      },
+      {
+        "key": "COLUMN_BOUNDARY_LAYER_COLOR",
+        "raw": "6",
+        "value": 6,
+        "label": "柱子外框层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "平面柱子设定 COLUMN SETTINGS"
+      },
+      {
+        "key": "COLUMN_BOUNDARY_THICKNESS",
+        "raw": "0",
+        "value": 0,
+        "label": "柱子外框线宽度 ",
+        "comment": "(单位:毫米) 柱子外框复线的宽度",
+        "notes": [],
+        "section": "平面柱子设定 COLUMN SETTINGS"
+      },
+      {
+        "key": "COLUMN_FILL_LAYER_NAME",
+        "raw": "COL_FILL",
+        "value": "COL_FILL",
+        "label": "柱子填充层名",
+        "comment": "柱子内部填充所在层的层名",
+        "notes": [],
+        "section": "平面柱子设定 COLUMN SETTINGS"
+      },
+      {
+        "key": "COLUMN_FILL_LAYER_COLOR",
+        "raw": "251",
+        "value": 251,
+        "label": "柱子填充层颜色 ",
+        "comment": null,
+        "notes": [],
+        "section": "平面柱子设定 COLUMN SETTINGS"
+      },
+      {
+        "key": "COLUMN_AUTO_FILL_IN",
+        "raw": "yes",
+        "value": true,
+        "label": "是否自动填充柱子",
+        "comment": "值范围是 yes/no (缺省no)",
+        "notes": [],
+        "section": "平面柱子设定 COLUMN SETTINGS"
+      },
+      {
+        "key": "COLUMN_AUTO_TRIM",
+        "raw": "yes",
+        "value": true,
+        "label": "是否自动修剪柱子内部墙体",
+        "comment": "值范围是 yes/no (缺省no)",
+        "notes": [],
+        "section": "平面柱子设定 COLUMN SETTINGS"
+      },
+      {
+        "key": "DOOR_LAYER_NAME",
+        "raw": "WINDOW",
+        "value": "WINDOW",
+        "label": "门层名 ",
+        "comment": "若门窗不想分层，可设置为同名、同色",
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "DOOR_LAYER_COLOR",
+        "raw": "2",
+        "value": 2,
+        "label": "门层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "DOOR_LEAF_WIDTH_LIST",
+        "raw": "1499,2399,3199,4799",
+        "value": [
+          1499,
+          2399,
+          3199,
+          4799
+        ],
+        "label": "门扇数自动变换最大宽度列表",
+        "comment": "(单位:毫米)",
+        "notes": [
+          "1扇门宽,2扇门宽,3扇门宽,4扇门宽,其他6扇门宽"
+        ],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "DOORSILL_LAYER_NAME",
+        "raw": "SILL",
+        "value": "SILL",
+        "label": "门槛线层名 ",
+        "comment": "不能与门窗同层",
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "DOORSILL_LAYER_COLOR",
+        "raw": "251",
+        "value": 251,
+        "label": "门槛线层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "DOORPOCKET_LAYER_NAME",
+        "raw": "0",
+        "value": 0,
+        "label": "门套层名",
+        "comment": "随图块层可填0",
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "DOORPOCKET_LAYER_COLOR",
+        "raw": "35",
+        "value": 35,
+        "label": "门套层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "DOORLEAF_LAYER_NAME",
+        "raw": "LEAF",
+        "value": "LEAF",
+        "label": "门扇层名",
+        "comment": "随图块层可填0",
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "DOORLEAF_LAYER_COLOR",
+        "raw": "60",
+        "value": 60,
+        "label": "门扇层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "OPENINGLINE_LAYER_NAME",
+        "raw": "OPENING",
+        "value": "OPENING",
+        "label": "开启线层名",
+        "comment": "不填则同门扇层",
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "OPENINGLINE_LAYER_COLOR",
+        "raw": "251",
+        "value": 251,
+        "label": "开启线层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "DOOR_POCKET_PARAMETERS",
+        "raw": "50,15,10",
+        "value": [
+          50,
+          15,
+          10
+        ],
+        "label": "门套尺寸参数",
+        "comment": "(单位:毫米)",
+        "notes": [
+          "参数:门套夹板厚,止口宽,线条退后宽"
+        ],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "WINDOW_LAYER_NAME",
+        "raw": "WINDOW",
+        "value": "WINDOW",
+        "label": "窗层名 ",
+        "comment": null,
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "WINDOW_LAYER_COLOR",
+        "raw": "2",
+        "value": 2,
+        "label": "窗层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "WINDOWLEAF_LAYER_NAME",
+        "raw": "LEAF",
+        "value": "LEAF",
+        "label": "窗扇层名 ",
+        "comment": null,
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "WINDOWLEAF_LAYER_COLOR",
+        "raw": "251",
+        "value": 251,
+        "label": "窗扇层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "WINDOW_TEXT_LAYER_NAME",
+        "raw": "WINDOW_TEXT",
+        "value": "WINDOW_TEXT",
+        "label": "门窗编号图层名",
+        "comment": null,
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "WINDOW_TEXT_LAYER_COLOR",
+        "raw": "2",
+        "value": 2,
+        "label": "门窗编号层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "DEFAULT_DOOR",
+        "raw": "dr_d01.dwg",
+        "value": "dr_d01.dwg",
+        "label": "缺省门图块",
+        "comment": "可按编号自动变换门扇数",
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "DEFAULT_WINDOW",
+        "raw": "wd_win4.dwg",
+        "value": "wd_win4.dwg",
+        "label": "缺省窗图块",
+        "comment": "(普通窗还可以使用)",
+        "notes": [],
+        "section": "平面门窗设定 WINDOW/DOOR SETTINGS"
+      },
+      {
+        "key": "YQARCH_DIMENSTION_STYLE",
+        "raw": "yes",
+        "value": true,
+        "label": "是否自动设置及使用源泉标注样式",
+        "comment": "(缺省yes)",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "YQARCH_DIMENSTION_LAYER",
+        "raw": "yes",
+        "value": true,
+        "label": "不用源泉标注样式时仍使用源泉标注图层",
+        "comment": "(缺省no)",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_STYLE_PREFIX",
+        "raw": "yq",
+        "value": "yq",
+        "label": "尺寸标注样式名前缀",
+        "comment": null,
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_FIX_PSSCALE",
+        "raw": "yes",
+        "value": true,
+        "label": "在图纸空间固定标注比例",
+        "comment": "值范围是 yes/no (缺省yes)",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_FORCE_2D",
+        "raw": "yes",
+        "value": true,
+        "label": "自动拍平标注",
+        "comment": "值范围是 yes/no (缺省yes)",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_LAYER_LIST",
+        "raw": "YQ_DIM,2,YQ_DIM2,134,YQ_DIM3,214,YQ_DIM4,14",
+        "value": [
+          "YQ_DIM",
+          "2",
+          "YQ_DIM2",
+          "134",
+          "YQ_DIM3",
+          "214",
+          "YQ_DIM4",
+          "14"
+        ],
+        "label": "尺寸标注层列表",
+        "comment": "层数不限",
+        "notes": [
+          "格式: 标注图层1名称,层颜色,层2名称,层颜色,层3名称,层颜色...等"
+        ],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_LAYER_NAME",
+        "raw": "YQ_DIM",
+        "value": "YQ_DIM",
+        "label": "尺寸标注当前层名",
+        "comment": "此名需要在上述列表中",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_DIMLINE_COLOR",
+        "raw": "44",
+        "value": 44,
+        "label": "尺寸主线颜色",
+        "comment": "颜色值范围是1-256, 跟随所在图层颜色填256或置空",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_EXTLINE_COLOR",
+        "raw": "44",
+        "value": 44,
+        "label": "尺寸界线颜色",
+        "comment": "颜色值范围是1-256, 跟随所在图层颜色填256或置空",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_TEXT_COLOR",
+        "raw": "50",
+        "value": 50,
+        "label": "尺寸标注文字颜色",
+        "comment": "图元颜色值范围是1-256, 跟随所在图层颜色填256或置空",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_TEXT_STYLE",
+        "raw": "YQ_DIM",
+        "value": "YQ_DIM",
+        "label": "尺寸标注文字样式名",
+        "comment": "必须有",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_TEXT_FONTS",
+        "raw": "archs.shx,hzdx.shx",
+        "value": [
+          "archs.shx",
+          "hzdx.shx"
+        ],
+        "label": null,
+        "comment": "可选: gbenor.shx,gbcbig.shx ; 可选: 黑体",
+        "notes": [
+          "【尺寸标注文字字体组合】字体组合格式: 英文字体.shx,中文字体.shx",
+          "若用Windows系统的宋体/黑体/隶书/仿宋/楷体/幼圆,可按以下填(填1个):",
+          "宋体/黑体/隶书/仿宋/楷体/幼圆",
+          "也可以用AutoCAD自带的 gbenor.shx,gbcbig.shx"
+        ],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_TEXT_HEIGHT",
+        "raw": "3",
+        "value": 3,
+        "label": "尺寸标注文字高度",
+        "comment": "(单位:毫米) 指最终打印输出的高度, 必须有",
+        "notes": [
+          "若选superos.shx，字体稍小,3mm实际约等于2.5mm"
+        ],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_TEXT_ASPECT",
+        "raw": "0.8",
+        "value": 0.8,
+        "label": "尺寸标注文字宽高比",
+        "comment": "必须有",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_BASELINE_SPACING",
+        "raw": "6",
+        "value": 6,
+        "label": "基线标注中尺寸线间的间距",
+        "comment": "(单位:毫米)",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_FIRST_BASELINE",
+        "raw": "6",
+        "value": 6,
+        "label": "自动标注时，第一条尺寸线间距",
+        "comment": "(单位:毫米)",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_ORIGIN_OFFSET",
+        "raw": "3",
+        "value": 3,
+        "label": "尺寸界线偏离原点(脚点)的距离",
+        "comment": "(单位:毫米)",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_EXTEND_LENGTH",
+        "raw": "1.5",
+        "value": 1.5,
+        "label": "尺寸界线超出尺寸线的距离",
+        "comment": null,
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_TEXT_GAP",
+        "raw": "0.5",
+        "value": 0.5,
+        "label": "文字与尺寸线的空隙",
+        "comment": "(单位:毫米)",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_EXTLINE_FIXLENGTH",
+        "raw": "0",
+        "value": 0,
+        "label": "固定尺寸界线的长度",
+        "comment": "(单位:毫米)(缺省0)",
+        "notes": [
+          "填0表示不固定尺寸界线的长度"
+        ],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_ARROW_BLOCK",
+        "raw": "yqtick",
+        "value": "yqtick",
+        "label": "尺寸标注箭头块名",
+        "comment": "yqtick 是源泉缺省值",
+        "notes": [
+          "也可使用AutoCAD的: _ARCHTICK/_Dot 等，空置为箭头"
+        ],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_DIMLINE_EXTENSION",
+        "raw": "0",
+        "value": 0,
+        "label": "尺寸线两端超出尺寸界线的距离",
+        "comment": "(缺省0)",
+        "notes": [
+          "箭头块是系统短斜线(如:_ARCHTICK)时才起作用"
+        ],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_ARROW_SIZE",
+        "raw": "1",
+        "value": 1,
+        "label": "箭头块名的尺寸",
+        "comment": "(单位:毫米)",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_LEADER_BLOCK",
+        "raw": ".",
+        "value": ".",
+        "label": "缺省引线箭头块名",
+        "comment": ".为AutoCAD缺省值箭头,源泉引线不用此块",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_DECIMAL_DIGITS",
+        "raw": "0,1,2,3,1",
+        "value": [
+          0,
+          1,
+          2,
+          3,
+          1
+        ],
+        "label": "标注及输出表格在各种单位下的保留小数位",
+        "comment": "(缺省：0,1,2,3,1)",
+        "notes": [
+          "5个数字分别对应于在(毫米,厘米,分米,米,英寸)时保留的小数位数"
+        ],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_ROUNDING",
+        "raw": "0",
+        "value": 0,
+        "label": "数字舍入精度",
+        "comment": "(缺省0:为自动),可输入5/1/0.5等",
+        "notes": [
+          "注: 如果设置此精度，要与上一行保留小数位配合才有意义"
+        ],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_FOLLOWING_ZERO",
+        "raw": "no",
+        "value": false,
+        "label": "是否保留标注数字小数点后续0",
+        "comment": "(缺省no)",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_ANGLE_DIGITS",
+        "raw": "1",
+        "value": 1,
+        "label": "角度标注保留小数位",
+        "comment": null,
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_DIMTAD",
+        "raw": "1",
+        "value": 1,
+        "label": "控制文字相对于尺寸线的垂直位置",
+        "comment": "(缺省1: 文字放置在尺寸线上方) (新添 ●●2020/5/11)",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "DIMENSION_DIMARCSYM",
+        "raw": "0",
+        "value": 0,
+        "label": "弧长符号放置位置",
+        "comment": "(缺省0:弧长符号在文字前面) 1:上面 2:无 (新添 ●●2020/12/2)",
+        "notes": [],
+        "section": "尺寸标注设定 DIMENSION SETTINGS"
+      },
+      {
+        "key": "SYMBOL_ELEVATION_LAYER_NAME",
+        "raw": "YQ_ELEV",
+        "value": "YQ_ELEV",
+        "label": "标高层名",
+        "comment": "层名不可填空",
+        "notes": [],
+        "section": "标高设定 SYMBOL ELEVATIO SETTINGS"
+      },
+      {
+        "key": "SYMBOL_ELEVATION_LAYER_COLOR",
+        "raw": "50",
+        "value": 50,
+        "label": "标高层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "标高设定 SYMBOL ELEVATIO SETTINGS"
+      },
+      {
+        "key": "SYMBOL_ELEVATION_ARROW_HEIGHT",
+        "raw": "3",
+        "value": 3,
+        "label": "标高符号小三角垂直高度",
+        "comment": "(单位:毫米) 指最终打印输出的高度",
+        "notes": [],
+        "section": "标高设定 SYMBOL ELEVATIO SETTINGS"
+      },
+      {
+        "key": "SYMBOL_ELEVATION_TEXT_COLOR",
+        "raw": "50",
+        "value": 50,
+        "label": "标高文字颜色",
+        "comment": "图元颜色值范围是1-256, 跟随所在图层颜色填256",
+        "notes": [],
+        "section": "标高设定 SYMBOL ELEVATIO SETTINGS"
+      },
+      {
+        "key": "SYMBOL_ELEVATION_TEXT_STYLE",
+        "raw": "YQ_ELEV",
+        "value": "YQ_ELEV",
+        "label": "标高文字样式名",
+        "comment": null,
+        "notes": [],
+        "section": "标高设定 SYMBOL ELEVATIO SETTINGS"
+      },
+      {
+        "key": "SYMBOL_ELEVATION_TEXT_FONTS",
+        "raw": "superos.shx,hzdx.shx",
+        "value": [
+          "superos.shx",
+          "hzdx.shx"
+        ],
+        "label": null,
+        "comment": "可选: gbenor.shx,gbcbig.shx ; 可选: 黑体",
+        "notes": [
+          "【标高文字字体组合】字体组合"
+        ],
+        "section": "标高设定 SYMBOL ELEVATIO SETTINGS"
+      },
+      {
+        "key": "SYMBOL_ELEVATION_TEXT_ASPECT",
+        "raw": "0.8",
+        "value": 0.8,
+        "label": "标高文字宽高比",
+        "comment": null,
+        "notes": [],
+        "section": "标高设定 SYMBOL ELEVATIO SETTINGS"
+      },
+      {
+        "key": "SYMBOL_ELEVATION_TEXT_HEIGHT",
+        "raw": "3.5",
+        "value": 3.5,
+        "label": "标高文字高度",
+        "comment": "(单位:毫米) 指最终打印输出的高度",
+        "notes": [],
+        "section": "标高设定 SYMBOL ELEVATIO SETTINGS"
+      },
+      {
+        "key": "SYMBOL_COORDINATE_LAYER_NAME",
+        "raw": "YQ_COOR",
+        "value": "YQ_COOR",
+        "label": "坐标层名",
+        "comment": "层名不可填空",
+        "notes": [],
+        "section": "坐标设定 SYMBOL COORDINATE SETTINGS"
+      },
+      {
+        "key": "SYMBOL_COORDINATE_LAYER_COLOR",
+        "raw": "2",
+        "value": 2,
+        "label": "坐标层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "坐标设定 SYMBOL COORDINATE SETTINGS"
+      },
+      {
+        "key": "SYMBOL_COORDINATE_TEXT_COLOR",
+        "raw": "2",
+        "value": 2,
+        "label": "坐标文字颜色",
+        "comment": "图元颜色值范围是1-256, 跟随所在图层颜色填256",
+        "notes": [],
+        "section": "坐标设定 SYMBOL COORDINATE SETTINGS"
+      },
+      {
+        "key": "SYMBOL_COORDINATE_TEXT_STYLE",
+        "raw": "YQ_COOR",
+        "value": "YQ_COOR",
+        "label": "坐标文字样式名",
+        "comment": null,
+        "notes": [],
+        "section": "坐标设定 SYMBOL COORDINATE SETTINGS"
+      },
+      {
+        "key": "SYMBOL_COORDINATE_TEXT_FONTS",
+        "raw": "superos.shx,hzdx.shx",
+        "value": [
+          "superos.shx",
+          "hzdx.shx"
+        ],
+        "label": null,
+        "comment": "可选: gbenor.shx,gbcbig.shx ; 可选: 黑体",
+        "notes": [
+          "【坐标文字字体组合】字体组合"
+        ],
+        "section": "坐标设定 SYMBOL COORDINATE SETTINGS"
+      },
+      {
+        "key": "SYMBOL_COORDINATE_TEXT_ASPECT",
+        "raw": "0.8",
+        "value": 0.8,
+        "label": "坐标文字宽高比",
+        "comment": null,
+        "notes": [],
+        "section": "坐标设定 SYMBOL COORDINATE SETTINGS"
+      },
+      {
+        "key": "SYMBOL_COORDINATE_TEXT_HEIGHT",
+        "raw": "3.5",
+        "value": 3.5,
+        "label": "坐标文字高度",
+        "comment": "(单位:毫米) 指最终打印输出的高度",
+        "notes": [],
+        "section": "坐标设定 SYMBOL COORDINATE SETTINGS"
+      },
+      {
+        "key": "SYMBOL_AXIS_LAYER_NAME",
+        "raw": "YQ_AXIS",
+        "value": "YQ_AXIS",
+        "label": "轴号层名",
+        "comment": "层名不可填空",
+        "notes": [],
+        "section": "轴号设定 SYMBOL AXIS SETTING"
+      },
+      {
+        "key": "SYMBOL_AXIS_LAYER_COLOR",
+        "raw": "4",
+        "value": 4,
+        "label": "轴号层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "轴号设定 SYMBOL AXIS SETTING"
+      },
+      {
+        "key": "SYMBOL_AXIS_TEXT_COLOR",
+        "raw": "35",
+        "value": 35,
+        "label": "轴号文字颜色",
+        "comment": "图元颜色值范围是1-256, 跟随所在图层颜色填256",
+        "notes": [],
+        "section": "轴号设定 SYMBOL AXIS SETTING"
+      },
+      {
+        "key": "SYMBOL_AXIS_TEXT_STYLE",
+        "raw": "YQ_AXIS",
+        "value": "YQ_AXIS",
+        "label": "轴号文字样式名",
+        "comment": null,
+        "notes": [],
+        "section": "轴号设定 SYMBOL AXIS SETTING"
+      },
+      {
+        "key": "SYMBOL_AXIS_TEXT_FONTS",
+        "raw": "complex.shx,gbcbig.shx",
+        "value": [
+          "complex.shx",
+          "gbcbig.shx"
+        ],
+        "label": null,
+        "comment": "可选: gbenor.shx,gbcbig.shx ; 可选: 黑体",
+        "notes": [
+          "【轴号文字字体组合】"
+        ],
+        "section": "轴号设定 SYMBOL AXIS SETTING"
+      },
+      {
+        "key": "SYMBOL_AXIS_TEXT_HEIGHT",
+        "raw": "4.5",
+        "value": 4.5,
+        "label": "轴号文字高度",
+        "comment": "(单位:毫米) 指最终打印输出的高度",
+        "notes": [],
+        "section": "轴号设定 SYMBOL AXIS SETTING"
+      },
+      {
+        "key": "SYMBOL_AXIS_TEXT_JUSTIFY",
+        "raw": "center",
+        "value": "center",
+        "label": "轴号文字对正方式",
+        "comment": "(fit:定宽,缺省/center:中心)",
+        "notes": [],
+        "section": "轴号设定 SYMBOL AXIS SETTING"
+      },
+      {
+        "key": "SYMBOL_AXIS_TEXT_ASPECT",
+        "raw": "0.8",
+        "value": 0.8,
+        "label": "轴号文字宽高比",
+        "comment": "填空则为1",
+        "notes": [],
+        "section": "轴号设定 SYMBOL AXIS SETTING"
+      },
+      {
+        "key": "SYMBOL_AXIS_DIM_DISTANCE",
+        "raw": "15",
+        "value": 15,
+        "label": "轴号中脚点到尺寸线间距",
+        "comment": "(单位:毫米)",
+        "notes": [],
+        "section": "轴号设定 SYMBOL AXIS SETTING"
+      },
+      {
+        "key": "SYMBOL_AXIS_DIM_EXTEND",
+        "raw": "4",
+        "value": 4,
+        "label": "轴号到尺寸线间距",
+        "comment": "(单位:毫米)",
+        "notes": [],
+        "section": "轴号设定 SYMBOL AXIS SETTING"
+      },
+      {
+        "key": "SYMBOL_AXIS_RADIUS",
+        "raw": "4",
+        "value": 4,
+        "label": "轴号圆半径",
+        "comment": "(单位:毫米)",
+        "notes": [],
+        "section": "轴号设定 SYMBOL AXIS SETTING"
+      },
+      {
+        "key": "SYMBOL_AXIS_LETTERS",
+        "raw": "ABCDEFGHJKLMNPQRSTUVWXY",
+        "value": "ABCDEFGHJKLMNPQRSTUVWXY",
+        "label": "轴号允许字母",
+        "comment": null,
+        "notes": [],
+        "section": "轴号设定 SYMBOL AXIS SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_LAYER_NAME",
+        "raw": "YQ_IDEN",
+        "value": "YQ_IDEN",
+        "label": "索引标识层名",
+        "comment": "层名不可填空",
+        "notes": [],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_LAYER_COLOR",
+        "raw": "2",
+        "value": 2,
+        "label": "索引标识层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_TEXT_COLOR",
+        "raw": "2",
+        "value": 2,
+        "label": "索引标识文字颜色",
+        "comment": "颜色值范围是1-256, 跟随所在图层颜色填256",
+        "notes": [],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_TEXT_STYLE",
+        "raw": "YQ_IDEN",
+        "value": "YQ_IDEN",
+        "label": "索引标识文字样式名",
+        "comment": null,
+        "notes": [],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_TEXT_FONTS",
+        "raw": "complex.shx,gbcbig.shx",
+        "value": [
+          "complex.shx",
+          "gbcbig.shx"
+        ],
+        "label": null,
+        "comment": "可选: gbenor.shx,gbcbig.shx ; 可选: 黑体",
+        "notes": [
+          "【索引标识文字字体组合】"
+        ],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_TEXT_HEIGHT",
+        "raw": "4.5",
+        "value": 4.5,
+        "label": "索引标识文字高度",
+        "comment": "(单位:毫米)      (目前只有平面剖切符用到)",
+        "notes": [],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_TEXT_JUSTIFY",
+        "raw": "fit",
+        "value": "fit",
+        "label": "圆索引号文字对正方式",
+        "comment": "(fit:定宽,缺省/center:中心)",
+        "notes": [],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_TEXT_ASPECT",
+        "raw": "1",
+        "value": 1,
+        "label": "圆索引号主文字宽高比",
+        "comment": "对正方式不为fit才起作用,填空则为1",
+        "notes": [],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_TEXT2_ASPECT",
+        "raw": "0.6",
+        "value": 0.6,
+        "label": "圆索引号下文字宽高比",
+        "comment": "对正方式不为fit才起作用,填空则为0.6",
+        "notes": [],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_RADIUS",
+        "raw": "5",
+        "value": 5,
+        "label": "圆索引号半径",
+        "comment": "(单位:毫米) 原值:5",
+        "notes": [],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_TITLE_RADIUS",
+        "raw": "7",
+        "value": 7,
+        "label": "标题圆索引号半径",
+        "comment": "(单位:毫米) 原值:7",
+        "notes": [],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_ELLIPSE",
+        "raw": "10",
+        "value": 10,
+        "label": "椭圆材料索引号长度",
+        "comment": "(单位:毫米) 原值:10",
+        "notes": [],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_IDENTIFIER_RECTANGLE",
+        "raw": "14",
+        "value": 14,
+        "label": "矩形材料索引号长度",
+        "comment": "(单位:毫米) 原值:14",
+        "notes": [],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "SYMBOL_INDEXBOX_PARAMETERS",
+        "raw": "HIDDEN,15,0.5,0.4,4",
+        "value": [
+          "HIDDEN",
+          "15",
+          "0.5",
+          "0.4",
+          "4"
+        ],
+        "label": "矩形/圆形引出框参数",
+        "comment": "原值:HIDDEN,15,0.5,0.4,4",
+        "notes": [
+          "参数:线型名称,模型空间线型比例,图纸空间线型比例,线宽,矩形框倒圆角半径"
+        ],
+        "section": "索引标识号设定 SYMBOL IDENTIFIER SETTING"
+      },
+      {
+        "key": "LEADER_ARROW_SIZE",
+        "raw": "2",
+        "value": 2,
+        "label": "引线箭头大小",
+        "comment": "(单位:毫米)",
+        "notes": [],
+        "section": "引线箭头设定 LEADER ARROW SETTING"
+      },
+      {
+        "key": "SYMBOL_LAYER_NAME",
+        "raw": "YQ_SYMB",
+        "value": "YQ_SYMB",
+        "label": "其他符号层名",
+        "comment": "层名不可填空",
+        "notes": [
+          "暂时只用在折断线、对称轴、中心线等符号"
+        ],
+        "section": "其他符号层设定 OTHER SYMBOL SETTINGS"
+      },
+      {
+        "key": "SYMBOL_LAYER_COLOR",
+        "raw": "2",
+        "value": 2,
+        "label": "其他符号层颜色",
+        "comment": null,
+        "notes": [],
+        "section": "其他符号层设定 OTHER SYMBOL SETTINGS"
+      },
+      {
+        "key": "COMMENT_LAYER_NAME",
+        "raw": "YQ_TEXT",
+        "value": "YQ_TEXT",
+        "label": "说明注释层名",
+        "comment": "层名不可填空",
+        "notes": [],
+        "section": "一般说明注释设定 COMMENT SETTINGS"
+      },
+      {
+        "key": "COMMENT_LAYER_COLOR",
+        "raw": "35",
+        "value": 35,
+        "label": "说明注释层颜色",
+        "comment": "所有层颜色值的范围都是 1-255",
+        "notes": [],
+        "section": "一般说明注释设定 COMMENT SETTINGS"
+      },
+      {
+        "key": "COMMENT_TEXT_COLOR",
+        "raw": "2",
+        "value": 2,
+        "label": "说明注释文字颜色",
+        "comment": "图元颜色值范围是1-256, 跟随所在图层颜色填256",
+        "notes": [],
+        "section": "一般说明注释设定 COMMENT SETTINGS"
+      },
+      {
+        "key": "COMMENT_TEXT_STYLE",
+        "raw": "YQ_TEXT",
+        "value": "YQ_TEXT",
+        "label": "说明注释文字样式名",
+        "comment": "样式名可填空，表示使用当前样式",
+        "notes": [],
+        "section": "一般说明注释设定 COMMENT SETTINGS"
+      },
+      {
+        "key": "COMMENT_TEXT_FONTS",
+        "raw": "superos.shx,hzdx.shx",
+        "value": [
+          "superos.shx",
+          "hzdx.shx"
+        ],
+        "label": null,
+        "comment": "可选: gbenor.shx,gbcbig.shx ; 可选: 黑体",
+        "notes": [
+          "【说明注释文字字体组合】"
+        ],
+        "section": "一般说明注释设定 COMMENT SETTINGS"
+      },
+      {
+        "key": "COMMENT_TEXT_HEIGHT",
+        "raw": "3.5",
+        "value": 3.5,
+        "label": "说明注释文字高度",
+        "comment": "(单位:毫米)",
+        "notes": [
+          "指最终打印输出的高度"
+        ],
+        "section": "一般说明注释设定 COMMENT SETTINGS"
+      },
+      {
+        "key": "COMMENT_TEXT_GAP",
+        "raw": "1",
+        "value": 1,
+        "label": "文字与箭头引线的空隙",
+        "comment": "(单位:毫米)",
+        "notes": [],
+        "section": "一般说明注释设定 COMMENT SETTINGS"
+      },
+      {
+        "key": "COMMENT_TEXT_ASPECT",
+        "raw": "0.8",
+        "value": 0.8,
+        "label": "说明注释文字宽高比",
+        "comment": "填空则为1",
+        "notes": [],
+        "section": "一般说明注释设定 COMMENT SETTINGS"
+      },
+      {
+        "key": "COMMENT_TEXT_ROW_SPACING",
+        "raw": "1.38",
+        "value": 1.38,
+        "label": "文字行距高度比",
+        "comment": "外挂文字编辑器增加行数时使用此值",
+        "notes": [
+          "一般SHX字库为1.38，TTF字库为2"
+        ],
+        "section": "一般说明注释设定 COMMENT SETTINGS"
+      },
+      {
+        "key": "SQUARE_METER_STRING",
+        "raw": "m%%142",
+        "value": "m%%142",
+        "label": "平方米符号",
+        "comment": "平方米符号在字串中的写法",
+        "notes": [
+          "(superos.shx用m%%142, 宋体用m\\u+00b2)"
+        ],
+        "section": "一般说明注释设定 COMMENT SETTINGS"
+      },
+      {
+        "key": "UNITS_LIST",
+        "raw": "m,M,m2,M2,mm,MM,方,度,米,毫米,厘米,平方,平方米,%%d,m%%142,m\\U+00B2,m\\U+00B3,m\\u+00b2,m\\u+00b3",
+        "value": [
+          "m",
+          "M",
+          "m2",
+          "M2",
+          "mm",
+          "MM",
+          "方",
+          "度",
+          "米",
+          "毫米",
+          "厘米",
+          "平方",
+          "平方米",
+          "%%d",
+          "m%%142",
+          "m\\U+00B2",
+          "m\\U+00B3",
+          "m\\u+00b2",
+          "m\\u+00b3"
+        ],
+        "label": null,
+        "comment": null,
+        "notes": [
+          "【单位符号表】如果数字串中含有这些单位后缀,不影响加减乘除数学计算"
+        ],
+        "section": "一般说明注释设定 COMMENT SETTINGS"
+      },
+      {
+        "key": "TITLE_LAYER_NAME",
+        "raw": "YQ_TITLE",
+        "value": "YQ_TITLE",
+        "label": "标题文字层名",
+        "comment": "层名不可填空",
+        "notes": [],
+        "section": "标题文字设定 DRAWING TITLE SETTINGS"
+      },
+      {
+        "key": "TITLE_LAYER_COLOR",
+        "raw": "2",
+        "value": 2,
+        "label": "标题文字层颜色",
+        "comment": "所有层颜色值的范围都是 1-255",
+        "notes": [],
+        "section": "标题文字设定 DRAWING TITLE SETTINGS"
+      },
+      {
+        "key": "TITLE_TEXT_COLOR",
+        "raw": "2",
+        "value": 2,
+        "label": "标题文字颜色",
+        "comment": "图元颜色值范围是1-256, 跟随所在图层颜色填256",
+        "notes": [],
+        "section": "标题文字设定 DRAWING TITLE SETTINGS"
+      },
+      {
+        "key": "TITLE_TEXT_STYLE",
+        "raw": "YQ_TITLE",
+        "value": "YQ_TITLE",
+        "label": "标题文字样式名",
+        "comment": "样式名可填空，表示使用当前样式",
+        "notes": [],
+        "section": "标题文字设定 DRAWING TITLE SETTINGS"
+      },
+      {
+        "key": "TITLE_TEXT_FONTS",
+        "raw": "黑体",
+        "value": "黑体",
+        "label": "标题文字字体组合",
+        "comment": null,
+        "notes": [],
+        "section": "标题文字设定 DRAWING TITLE SETTINGS"
+      },
+      {
+        "key": "TITLE_TEXT_HEIGHT",
+        "raw": "5",
+        "value": 5,
+        "label": "标题文字高度",
+        "comment": "(单位:毫米) 指最终打印输出的高度，填空则用当前字高",
+        "notes": [],
+        "section": "标题文字设定 DRAWING TITLE SETTINGS"
+      },
+      {
+        "key": "TITLE_TEXT_ASPECT",
+        "raw": "1",
+        "value": 1,
+        "label": "标题文字宽高比",
+        "comment": "填空则为1",
+        "notes": [],
+        "section": "标题文字设定 DRAWING TITLE SETTINGS"
+      },
+      {
+        "key": "DYNAMIC_COMMANDS",
+        "raw": "yes",
+        "value": true,
+        "label": "是否使用动态命令",
+        "comment": "(缺省yes)",
+        "notes": [],
+        "section": "其他设定  OTHER SETTINGS"
+      },
+      {
+        "key": "BLOCKVIEWER_36THUMBNAILS",
+        "raw": "no",
+        "value": false,
+        "label": "图库管理使用36个缩略图",
+        "comment": "(缺省no,25个缩略图) (新添 ●●2019/3/26)",
+        "notes": [],
+        "section": "其他设定  OTHER SETTINGS"
+      },
+      {
+        "key": "DOUBLELINE_THICKNESS_LIST",
+        "raw": "0,10,15,20,25,30,40,50,60,80,90,100,120,140,150,180,200",
+        "value": [
+          0,
+          10,
+          15,
+          20,
+          25,
+          30,
+          40,
+          50,
+          60,
+          80,
+          90,
+          100,
+          120,
+          140,
+          150,
+          180,
+          200
+        ],
+        "label": "双线厚度表",
+        "comment": null,
+        "notes": [],
+        "section": "其他设定  OTHER SETTINGS"
+      },
+      {
+        "key": "AUTO_REPLACE_FONTS",
+        "raw": "SUPEROS.SHX,HZDX.SHX,宋体",
+        "value": [
+          "SUPEROS.SHX",
+          "HZDX.SHX",
+          "宋体"
+        ],
+        "label": "设置自动替换文字档",
+        "comment": null,
+        "notes": [
+          "(格式：\"英文字体.SHX,中文字体.SHX,TTF字体[.TTF]\")"
+        ],
+        "section": "其他设定  OTHER SETTINGS"
+      },
+      {
+        "key": "LINETYPE_SCALE_FACTOR",
+        "raw": "0",
+        "value": 0,
+        "label": "线型的图纸比例系数",
+        "comment": "此系数用于设定“全局线型比例因子ltscale”",
+        "notes": [
+          "的值, 即：系统变量ltscale的值＝此系数×图纸比例",
+          "若填0或留空则不自动设定ltscale的值"
+        ],
+        "section": "其他设定  OTHER SETTINGS"
+      },
+      {
+        "key": "TEXT_EDITER_FULLNAME",
+        "raw": "",
+        "value": null,
+        "label": "文本编辑器全路径",
+        "comment": "填空则为WINDOWS内置笔记本",
+        "notes": [],
+        "section": "其他设定  OTHER SETTINGS"
+      },
+      {
+        "key": "EXCEL_FULLNAME",
+        "raw": "",
+        "value": null,
+        "label": "Execl全路径",
+        "comment": "正常时请空置",
+        "notes": [
+          "如:C:\\Program Files\\Microsoft Office\\Office11\\Excel.exe"
+        ],
+        "section": "其他设定  OTHER SETTINGS"
+      },
+      {
+        "key": "WPSET_FULLNAME",
+        "raw": "",
+        "value": null,
+        "label": "WPS表格全路径",
+        "comment": "正常时请空置",
+        "notes": [
+          "如:C:\\Users\\Administrator\\AppData\\Local\\Kingsoft\\WPS Office\\10.1.0.5554\\office6\\et.exe"
+        ],
+        "section": "其他设定  OTHER SETTINGS"
+      },
+      {
+        "key": "DOUBLECLICK_COMMAND",
+        "raw": "ESC",
+        "value": "ESC",
+        "label": "鼠标双击时命令串",
+        "comment": "2015以后可能要四击",
+        "notes": [
+          "例子：发动总览命令填:YQARCH; 取消当前选择集填:ESC; 填空不设置"
+        ],
+        "section": "其他设定  OTHER SETTINGS"
+      }
+    ],
+    "values": {
+      "LANGUAGE": 1,
+      "YQARCH_MENU": true,
+      "YQARCH_SHORTCUT_PRIORITY": false,
+      "YQARCH_SEARCHPATH_TOP": true,
+      "DRAWING_SCALE_LIST": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        10,
+        15,
+        20,
+        25,
+        30,
+        40,
+        50,
+        60,
+        75,
+        80,
+        100,
+        120,
+        150,
+        200,
+        250,
+        300,
+        400,
+        500,
+        600,
+        1000,
+        2000,
+        5000,
+        10000
+      ],
+      "DRAWING_UNITS": 4,
+      "DRAWING_SCALE": null,
+      "AXIS_LAYER_NAME": "DOTE",
+      "AXIS_LAYER_COLOR": 8,
+      "AXIS_LAYER_LINETYPE": "CENTER",
+      "VIEWPORT_LAYER_NAME": "VIEWPORT",
+      "VIEWPORT_LAYER_COLOR": 250,
+      "VIEWPORT_LAYER_PRINT": true,
+      "DWGRANGE_LAYER_NAME": "RANGE",
+      "DWGRANGE_LAYER_COLOR": 6,
+      "ORDINARY_LAYER_NAME": "LINE",
+      "ORDINARY_LAYER_COLOR": 2,
+      "STAIR_LAYER_NAME": "STAIR",
+      "STAIR_LAYER_COLOR": 44,
+      "SANITARY_LAYER_NAME": "SANITARY",
+      "SANITARY_LAYER_COLOR": 146,
+      "TILING_LAYER_NAME": "TILING",
+      "TILING_LAYER_COLOR": 250,
+      "FURNITURE_LAYER_NAME": "FURNITURE",
+      "FURNITURE_LAYER_COLOR": 146,
+      "FURNITURE_HATCH_LAYER": "FURHATCH",
+      "FURNITURE_HATCH_COLOR": 250,
+      "FIXEDFURNITURE_LAYER_NAME": "FFURNITURE",
+      "FIXEDFURNITURE_LAYER_COLOR": 146,
+      "FIXEDFURNITURE_HATCH_LAYER": "FFHATCH",
+      "FIXEDFURNITURE_HATCH_COLOR": 250,
+      "WOOD_LAYER_NAME": "WD",
+      "WOOD_LAYER_COLOR": 52,
+      "WOOD_HATCH_LAYER": "WDHATCH",
+      "WOOD_HATCH_COLOR": 250,
+      "ALUMINIUM_LAYER_NAME": "AL",
+      "ALUMINIUM_LAYER_COLOR": 4,
+      "ALUMINIUM_HATCH_LAYER": "ALHATCH",
+      "ALUMINIUM_HATCH_COLOR": 8,
+      "STEEL_LAYER_NAME": "MT",
+      "STEEL_LAYER_COLOR": 4,
+      "STEEL_HATCH_LAYER": "MTHATCH",
+      "STEEL_HATCH_COLOR": 8,
+      "LIGHTSTEEL_LAYER_NAME": "LS",
+      "LIGHTSTEEL_LAYER_COLOR": 4,
+      "SHUTTER_LAYER_NAME": "SHUTTER",
+      "SHUTTER_LAYER_COLOR": 134,
+      "SHUTTER_HATCH_LAYER": "SHTRHATCH",
+      "SHUTTER_HATCH_COLOR": 8,
+      "GLASS_LAYER_NAME": "GL",
+      "GLASS_LAYER_COLOR": 171,
+      "GLASS_HATCH_LAYER": "GLHATCH",
+      "GLASS_HATCH_COLOR": 8,
+      "GYPSUM_LAYER_NAME": "GYP",
+      "GYPSUM_LAYER_COLOR": 52,
+      "GYPSUM_HATCH_LAYER": "GYPHATCH",
+      "GYPSUM_HATCH_COLOR": 8,
+      "STONE_LAYER_NAME": "ST",
+      "STONE_LAYER_COLOR": 52,
+      "STONE_HATCH_LAYER": "STHATCH",
+      "STONE_HATCH_COLOR": 8,
+      "WALL_LAYER_LIST": [
+        "COLUMN",
+        "40",
+        "WALL",
+        "160",
+        "wall1",
+        "2",
+        "WALL2",
+        "4"
+      ],
+      "WALL_LAYER_NAME": "WALL",
+      "WALL_FILL_LAYER_NAME": "WALL_FILL",
+      "WALL_FILL_LAYER_COLOR": 251,
+      "WALL_THICKNESS_LIST": [
+        50,
+        60,
+        90,
+        100,
+        120,
+        140,
+        150,
+        180,
+        200,
+        240,
+        250,
+        300,
+        360,
+        480
+      ],
+      "WALL_DEFAULT_THICKNESS": 200,
+      "WALL_PIER_WIDTH_LIST": [
+        0,
+        50,
+        60,
+        100,
+        120,
+        200,
+        240,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800,
+        900,
+        1000
+      ],
+      "WALL_HOLE_WIDTH_LIST": [
+        600,
+        700,
+        750,
+        800,
+        850,
+        900,
+        1000,
+        1100,
+        1200,
+        1500,
+        1600,
+        1800,
+        2000,
+        2100,
+        2400,
+        3000,
+        3200,
+        3600,
+        5400
+      ],
+      "COLUMN_BOUNDARY_LAYER_NAME": "COLUMN",
+      "COLUMN_BOUNDARY_LAYER_COLOR": 6,
+      "COLUMN_BOUNDARY_THICKNESS": 0,
+      "COLUMN_FILL_LAYER_NAME": "COL_FILL",
+      "COLUMN_FILL_LAYER_COLOR": 251,
+      "COLUMN_AUTO_FILL_IN": true,
+      "COLUMN_AUTO_TRIM": true,
+      "DOOR_LAYER_NAME": "WINDOW",
+      "DOOR_LAYER_COLOR": 2,
+      "DOOR_LEAF_WIDTH_LIST": [
+        1499,
+        2399,
+        3199,
+        4799
+      ],
+      "DOORSILL_LAYER_NAME": "SILL",
+      "DOORSILL_LAYER_COLOR": 251,
+      "DOORPOCKET_LAYER_NAME": 0,
+      "DOORPOCKET_LAYER_COLOR": 35,
+      "DOORLEAF_LAYER_NAME": "LEAF",
+      "DOORLEAF_LAYER_COLOR": 60,
+      "OPENINGLINE_LAYER_NAME": "OPENING",
+      "OPENINGLINE_LAYER_COLOR": 251,
+      "DOOR_POCKET_PARAMETERS": [
+        50,
+        15,
+        10
+      ],
+      "WINDOW_LAYER_NAME": "WINDOW",
+      "WINDOW_LAYER_COLOR": 2,
+      "WINDOWLEAF_LAYER_NAME": "LEAF",
+      "WINDOWLEAF_LAYER_COLOR": 251,
+      "WINDOW_TEXT_LAYER_NAME": "WINDOW_TEXT",
+      "WINDOW_TEXT_LAYER_COLOR": 2,
+      "DEFAULT_DOOR": "dr_d01.dwg",
+      "DEFAULT_WINDOW": "wd_win4.dwg",
+      "YQARCH_DIMENSTION_STYLE": true,
+      "YQARCH_DIMENSTION_LAYER": true,
+      "DIMENSION_STYLE_PREFIX": "yq",
+      "DIMENSION_FIX_PSSCALE": true,
+      "DIMENSION_FORCE_2D": true,
+      "DIMENSION_LAYER_LIST": [
+        "YQ_DIM",
+        "2",
+        "YQ_DIM2",
+        "134",
+        "YQ_DIM3",
+        "214",
+        "YQ_DIM4",
+        "14"
+      ],
+      "DIMENSION_LAYER_NAME": "YQ_DIM",
+      "DIMENSION_DIMLINE_COLOR": 44,
+      "DIMENSION_EXTLINE_COLOR": 44,
+      "DIMENSION_TEXT_COLOR": 50,
+      "DIMENSION_TEXT_STYLE": "YQ_DIM",
+      "DIMENSION_TEXT_FONTS": [
+        "archs.shx",
+        "hzdx.shx"
+      ],
+      "DIMENSION_TEXT_HEIGHT": 3,
+      "DIMENSION_TEXT_ASPECT": 0.8,
+      "DIMENSION_BASELINE_SPACING": 6,
+      "DIMENSION_FIRST_BASELINE": 6,
+      "DIMENSION_ORIGIN_OFFSET": 3,
+      "DIMENSION_EXTEND_LENGTH": 1.5,
+      "DIMENSION_TEXT_GAP": 0.5,
+      "DIMENSION_EXTLINE_FIXLENGTH": 0,
+      "DIMENSION_ARROW_BLOCK": "yqtick",
+      "DIMENSION_DIMLINE_EXTENSION": 0,
+      "DIMENSION_ARROW_SIZE": 1,
+      "DIMENSION_LEADER_BLOCK": ".",
+      "DIMENSION_DECIMAL_DIGITS": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ],
+      "DIMENSION_ROUNDING": 0,
+      "DIMENSION_FOLLOWING_ZERO": false,
+      "DIMENSION_ANGLE_DIGITS": 1,
+      "DIMENSION_DIMTAD": 1,
+      "DIMENSION_DIMARCSYM": 0,
+      "SYMBOL_ELEVATION_LAYER_NAME": "YQ_ELEV",
+      "SYMBOL_ELEVATION_LAYER_COLOR": 50,
+      "SYMBOL_ELEVATION_ARROW_HEIGHT": 3,
+      "SYMBOL_ELEVATION_TEXT_COLOR": 50,
+      "SYMBOL_ELEVATION_TEXT_STYLE": "YQ_ELEV",
+      "SYMBOL_ELEVATION_TEXT_FONTS": [
+        "superos.shx",
+        "hzdx.shx"
+      ],
+      "SYMBOL_ELEVATION_TEXT_ASPECT": 0.8,
+      "SYMBOL_ELEVATION_TEXT_HEIGHT": 3.5,
+      "SYMBOL_COORDINATE_LAYER_NAME": "YQ_COOR",
+      "SYMBOL_COORDINATE_LAYER_COLOR": 2,
+      "SYMBOL_COORDINATE_TEXT_COLOR": 2,
+      "SYMBOL_COORDINATE_TEXT_STYLE": "YQ_COOR",
+      "SYMBOL_COORDINATE_TEXT_FONTS": [
+        "superos.shx",
+        "hzdx.shx"
+      ],
+      "SYMBOL_COORDINATE_TEXT_ASPECT": 0.8,
+      "SYMBOL_COORDINATE_TEXT_HEIGHT": 3.5,
+      "SYMBOL_AXIS_LAYER_NAME": "YQ_AXIS",
+      "SYMBOL_AXIS_LAYER_COLOR": 4,
+      "SYMBOL_AXIS_TEXT_COLOR": 35,
+      "SYMBOL_AXIS_TEXT_STYLE": "YQ_AXIS",
+      "SYMBOL_AXIS_TEXT_FONTS": [
+        "complex.shx",
+        "gbcbig.shx"
+      ],
+      "SYMBOL_AXIS_TEXT_HEIGHT": 4.5,
+      "SYMBOL_AXIS_TEXT_JUSTIFY": "center",
+      "SYMBOL_AXIS_TEXT_ASPECT": 0.8,
+      "SYMBOL_AXIS_DIM_DISTANCE": 15,
+      "SYMBOL_AXIS_DIM_EXTEND": 4,
+      "SYMBOL_AXIS_RADIUS": 4,
+      "SYMBOL_AXIS_LETTERS": "ABCDEFGHJKLMNPQRSTUVWXY",
+      "SYMBOL_IDENTIFIER_LAYER_NAME": "YQ_IDEN",
+      "SYMBOL_IDENTIFIER_LAYER_COLOR": 2,
+      "SYMBOL_IDENTIFIER_TEXT_COLOR": 2,
+      "SYMBOL_IDENTIFIER_TEXT_STYLE": "YQ_IDEN",
+      "SYMBOL_IDENTIFIER_TEXT_FONTS": [
+        "complex.shx",
+        "gbcbig.shx"
+      ],
+      "SYMBOL_IDENTIFIER_TEXT_HEIGHT": 4.5,
+      "SYMBOL_IDENTIFIER_TEXT_JUSTIFY": "fit",
+      "SYMBOL_IDENTIFIER_TEXT_ASPECT": 1,
+      "SYMBOL_IDENTIFIER_TEXT2_ASPECT": 0.6,
+      "SYMBOL_IDENTIFIER_RADIUS": 5,
+      "SYMBOL_IDENTIFIER_TITLE_RADIUS": 7,
+      "SYMBOL_IDENTIFIER_ELLIPSE": 10,
+      "SYMBOL_IDENTIFIER_RECTANGLE": 14,
+      "SYMBOL_INDEXBOX_PARAMETERS": [
+        "HIDDEN",
+        "15",
+        "0.5",
+        "0.4",
+        "4"
+      ],
+      "LEADER_ARROW_SIZE": 2,
+      "SYMBOL_LAYER_NAME": "YQ_SYMB",
+      "SYMBOL_LAYER_COLOR": 2,
+      "COMMENT_LAYER_NAME": "YQ_TEXT",
+      "COMMENT_LAYER_COLOR": 35,
+      "COMMENT_TEXT_COLOR": 2,
+      "COMMENT_TEXT_STYLE": "YQ_TEXT",
+      "COMMENT_TEXT_FONTS": [
+        "superos.shx",
+        "hzdx.shx"
+      ],
+      "COMMENT_TEXT_HEIGHT": 3.5,
+      "COMMENT_TEXT_GAP": 1,
+      "COMMENT_TEXT_ASPECT": 0.8,
+      "COMMENT_TEXT_ROW_SPACING": 1.38,
+      "SQUARE_METER_STRING": "m%%142",
+      "UNITS_LIST": [
+        "m",
+        "M",
+        "m2",
+        "M2",
+        "mm",
+        "MM",
+        "方",
+        "度",
+        "米",
+        "毫米",
+        "厘米",
+        "平方",
+        "平方米",
+        "%%d",
+        "m%%142",
+        "m\\U+00B2",
+        "m\\U+00B3",
+        "m\\u+00b2",
+        "m\\u+00b3"
+      ],
+      "TITLE_LAYER_NAME": "YQ_TITLE",
+      "TITLE_LAYER_COLOR": 2,
+      "TITLE_TEXT_COLOR": 2,
+      "TITLE_TEXT_STYLE": "YQ_TITLE",
+      "TITLE_TEXT_FONTS": "黑体",
+      "TITLE_TEXT_HEIGHT": 5,
+      "TITLE_TEXT_ASPECT": 1,
+      "DYNAMIC_COMMANDS": true,
+      "BLOCKVIEWER_36THUMBNAILS": false,
+      "DOUBLELINE_THICKNESS_LIST": [
+        0,
+        10,
+        15,
+        20,
+        25,
+        30,
+        40,
+        50,
+        60,
+        80,
+        90,
+        100,
+        120,
+        140,
+        150,
+        180,
+        200
+      ],
+      "AUTO_REPLACE_FONTS": [
+        "SUPEROS.SHX",
+        "HZDX.SHX",
+        "宋体"
+      ],
+      "LINETYPE_SCALE_FACTOR": 0,
+      "TEXT_EDITER_FULLNAME": null,
+      "EXCEL_FULLNAME": null,
+      "WPSET_FULLNAME": null,
+      "DOUBLECLICK_COMMAND": "ESC"
+    }
+  }
+}

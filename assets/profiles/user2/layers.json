@@ -1,0 +1,245 @@
+{
+  "source": "user2/layers.txt",
+  "data": [
+    {
+      "name": "0",
+      "color": 7,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "1",
+      "color": 1,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "2",
+      "color": 2,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "3",
+      "color": 3,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "4",
+      "color": 4,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "5",
+      "color": 5,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "6",
+      "color": 6,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "7",
+      "color": 7,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "8",
+      "color": 8,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "9",
+      "color": 9,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "COLUMN",
+      "color": 7,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "COL_FILL",
+      "color": 8,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "DOTE",
+      "color": 1,
+      "linetype": "CENTER",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "FURNITURE",
+      "color": 53,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "NOPRINT",
+      "color": 1,
+      "linetype": "HIDDEN",
+      "lineweight": null,
+      "plot": false,
+      "description": "不打印"
+    },
+    {
+      "name": "SANITARY",
+      "color": 151,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "STAIR",
+      "color": 2,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "TILING",
+      "color": 8,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "WALL",
+      "color": 7,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "WALL_FILL",
+      "color": 8,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "WINDOW",
+      "color": 2,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "WOOD",
+      "color": 2,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "YQ_AXIS",
+      "color": 74,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "YQ_COOR",
+      "color": 200,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "YQ_DIM",
+      "color": 3,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "YQ_ELEV",
+      "color": 150,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "YQ_IDEN",
+      "color": 3,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "YQ_SYMB",
+      "color": 3,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "YQ_TEXT",
+      "color": 6,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    },
+    {
+      "name": "YQ_TITLE",
+      "color": 6,
+      "linetype": "Continuous",
+      "lineweight": null,
+      "plot": true,
+      "description": ""
+    }
+  ]
+}

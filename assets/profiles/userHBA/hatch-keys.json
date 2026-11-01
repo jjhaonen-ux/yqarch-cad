@@ -1,0 +1,35 @@
+{
+  "source": "userHBA/hatchkey.txt",
+  "data": [
+    {
+      "alias": "hnt",
+      "pattern": "钢筋混凝土",
+      "scale": 10,
+      "angle": 0,
+      "extra": [
+        "no",
+        "no"
+      ]
+    },
+    {
+      "alias": "mjb",
+      "pattern": "夹板12厘",
+      "scale": 12,
+      "angle": 0,
+      "extra": [
+        "yes",
+        "yes"
+      ]
+    },
+    {
+      "alias": "dxb",
+      "pattern": "大芯板12厘",
+      "scale": 12,
+      "angle": 0,
+      "extra": [
+        "yes",
+        "yes"
+      ]
+    }
+  ]
+}

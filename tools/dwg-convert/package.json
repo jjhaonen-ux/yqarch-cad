@@ -1,0 +1,15 @@
+{
+  "name": "yqweb-dwg-convert",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Isolated DWG -> normalized JSON converter for YQArch block libraries (uses libredwg-web, GPL-3.0)",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "convert": "node convert-dwg.mjs"
+  },
+  "dependencies": {
+    "@mlightcad/libredwg-web": "0.8.3"
+  }
+}

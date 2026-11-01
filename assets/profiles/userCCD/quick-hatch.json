@@ -1,0 +1,167 @@
+{
+  "source": "userCCD/hatching.txt",
+  "data": [
+    {
+      "label": "混凝土",
+      "pattern": "混凝土",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "钢筋混凝土",
+      "pattern": "钢筋混凝土",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "加气混凝土",
+      "pattern": "加气混凝土",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "粉刷",
+      "pattern": "粉刷",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "普通砖",
+      "pattern": "普通砖",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "耐火砖",
+      "pattern": "耐火砖",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "天然石材",
+      "pattern": "天然石材",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "木材",
+      "pattern": "木材",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "夯实土壤",
+      "pattern": "夯实土壤",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "金属",
+      "pattern": "金属",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "水",
+      "pattern": "水",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "S形人行道砖",
+      "pattern": "S形人行道砖",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "弯瓦屋面",
+      "pattern": "弯瓦屋面",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "西班牙屋面",
+      "pattern": "西班牙屋面",
+      "angle": 0,
+      "scale": 1,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "实木地板",
+      "pattern": "实木地板",
+      "angle": 0,
+      "scale": 0,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "立面砖240",
+      "pattern": "立面砖240",
+      "angle": 0,
+      "scale": 0,
+      "extra": [
+        "100"
+      ]
+    },
+    {
+      "label": "草地",
+      "pattern": "GRASS",
+      "angle": 0,
+      "scale": 0,
+      "extra": [
+        "20"
+      ]
+    },
+    {
+      "label": "大理石",
+      "pattern": "大理石",
+      "angle": 0,
+      "scale": 0,
+      "extra": [
+        "200"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "source": "userHBA/patterns3.txt",
+  "data": [
+    {
+      "pattern": "ENGINE",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": "说明要自己写，按[确定]钮后才能保存"
+    },
+    {
+      "pattern": "雕花",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "乱理石",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "圆圈铺地",
+      "fields": [
+        "0",
+        "0",
+        "2"
+      ],
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,939 @@
+{
+  "source": "user1/userpanel.txt",
+  "data": [
+    {
+      "zh": "杂项面板快捷键u1",
+      "en": "Misc Panel u1",
+      "buttonsPerColumn": 26,
+      "alias": "u1",
+      "sections": [
+        {
+          "zh": "设置/修改/复制",
+          "en": "Settings/Modify/Copy",
+          "hint": null,
+          "items": [
+            {
+              "zh": "插入日期时间字串",
+              "en": "Date String",
+              "command": "yq_date",
+              "alias": "day",
+              "separator": false
+            },
+            {
+              "zh": "Excel表格转入",
+              "en": "Excel Import",
+              "command": "yq_excel2table",
+              "alias": "e2t",
+              "separator": false
+            },
+            {
+              "zh": "保存/还原捕捉",
+              "en": "Save/Restore OSmode",
+              "command": "yq_osmode",
+              "alias": "oos",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "次数复制",
+              "en": "Copy & Array",
+              "command": "yq_cm",
+              "alias": "cn",
+              "separator": false
+            },
+            {
+              "zh": "内等分复制",
+              "en": "Copy & Divide Insided",
+              "command": "yq_copydivide",
+              "alias": "cdf",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "复制旋转对齐",
+              "en": "Copy and Rotate",
+              "command": "yq_copyandrotate",
+              "alias": "xzc",
+              "separator": false
+            },
+            {
+              "zh": "可镜像的复制",
+              "en": "Copy and Mirror",
+              "command": "yq_xcopy",
+              "alias": "yc",
+              "separator": false
+            },
+            {
+              "zh": "等分角度",
+              "en": "Divide Angle",
+              "command": "yq_angledivide",
+              "alias": "dfa",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "动态修剪",
+              "en": "Dynamic Trim",
+              "command": "yq_dynamictrim",
+              "alias": "tv",
+              "separator": false
+            },
+            {
+              "zh": "动态延伸",
+              "en": "Dynamic Extend",
+              "command": "yq_dynamicextend",
+              "alias": "exv",
+              "separator": false
+            },
+            {
+              "zh": "改为定长",
+              "en": "Lengthen Object",
+              "command": "yq_len",
+              "alias": "lenx",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "填充拉伸",
+              "en": "Hatch Strecth",
+              "command": "yq_hhs",
+              "alias": "hhs",
+              "separator": false
+            }
+          ]
+        },
+        {
+          "zh": "曲线/图元",
+          "en": "Pline/Entity",
+          "hint": null,
+          "items": [
+            {
+              "zh": "多段线挤出",
+              "en": "Extrude a pline",
+              "command": "yq_plineextrude",
+              "alias": "jc",
+              "separator": false
+            },
+            {
+              "zh": "复制多段线的一段",
+              "en": "Copy a Pline Segment",
+              "command": "yq_copysegment",
+              "alias": "xxcc",
+              "separator": false
+            },
+            {
+              "zh": "等分多段线的一段",
+              "en": "Divide a Pline Segment",
+              "command": "yq_dividesegment",
+              "alias": "xxdf",
+              "separator": false
+            },
+            {
+              "zh": "交点间隔打断",
+              "en": "Interval Break",
+              "command": "yq_break_interval",
+              "alias": "bjx",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "圆弧等分曲线",
+              "en": "Spline/Ellipse to Arc Pline",
+              "command": "yq_s2a",
+              "alias": "s2a",
+              "separator": false
+            },
+            {
+              "zh": "线段等分曲线",
+              "en": "Spline/Ellipse to line Pline",
+              "command": "yq_s2x",
+              "alias": "s2x",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "整数矩形",
+              "en": "Integer Rectangle",
+              "command": "yq_irectangle",
+              "alias": "recz",
+              "separator": false
+            },
+            {
+              "zh": "三点矩形",
+              "en": "3 Point Rectangle",
+              "command": "yq_rect3pt",
+              "alias": "rec3",
+              "separator": false
+            },
+            {
+              "zh": "四边形对角线",
+              "en": "Quads to Diagonals",
+              "command": "yq_diagonal",
+              "alias": "djx",
+              "separator": false
+            },
+            {
+              "zh": "画格内线",
+              "en": "Draw Inside Line",
+              "command": "yq_insideline",
+              "alias": "rx",
+              "separator": false
+            },
+            {
+              "zh": "定角构造线",
+              "en": "Angle Xline",
+              "command": "yq_anglexline",
+              "alias": "gzx",
+              "separator": false
+            },
+            {
+              "zh": "选线画平滑连接弧",
+              "en": "Append Arc",
+              "command": "yq_appendarc",
+              "alias": "aj",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "文字沿曲线放置",
+              "en": "Text Along Curve",
+              "command": "yq_text2curve",
+              "alias": "tt2c",
+              "separator": false
+            }
+          ]
+        },
+        {
+          "zh": "标注/图块",
+          "en": "Dim/Block",
+          "hint": null,
+          "items": [
+            {
+              "zh": "切换固定图纸空间比例",
+              "en": "Switch PS Dimscale",
+              "command": "yq_fixpsdimscale",
+              "alias": "ddps",
+              "separator": false
+            },
+            {
+              "zh": "懒人标注",
+              "en": "Auto DIM",
+              "command": "yq_dim_auto",
+              "alias": "ddc",
+              "separator": false
+            },
+            {
+              "zh": "标注多边形内角",
+              "en": "DIM Polygon Angles",
+              "command": "yq_dim_polygonangles",
+              "alias": "ddans",
+              "separator": false
+            },
+            {
+              "zh": "标注批量圆弧长",
+              "en": "DIM Arcs Length",
+              "command": "yq_dim_arcs",
+              "alias": "ddars",
+              "separator": false
+            },
+            {
+              "zh": "0长度标注删除",
+              "en": "Erase 0 Length DIM",
+              "command": "yq_dim_del0",
+              "alias": "dde0",
+              "separator": false
+            },
+            {
+              "zh": "标注倾斜",
+              "en": "DIM Slope",
+              "command": "yq_dim_slope",
+              "alias": "ddo",
+              "separator": false
+            },
+            {
+              "zh": "尺寸驱动的拉伸",
+              "en": "Strech by Dimension",
+              "command": "yq_dimstretch",
+              "alias": "sdd",
+              "separator": false
+            },
+            {
+              "zh": "选尺寸画对齐线",
+              "en": "Dimensions to Lines",
+              "command": "yq_dim2lines",
+              "alias": "dd2x",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "炸块属性转文字",
+              "en": "Exp. Att Blk",
+              "command": "yq_expattblk",
+              "alias": "bbxt",
+              "separator": false
+            },
+            {
+              "zh": "替换块内颜色",
+              "en": "Replace color in block",
+              "command": "yq_blockchcolor",
+              "alias": "bbcc",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "炸开参照块",
+              "en": "Explode Reference Block",
+              "command": "yq_refx",
+              "alias": "refx",
+              "separator": false
+            },
+            {
+              "zh": "参照块改相对路径",
+              "en": "Xref to Relative",
+              "command": "yq_xref2rel",
+              "alias": "xf2r",
+              "separator": false
+            },
+            {
+              "zh": "参照块改绝对路径",
+              "en": "Xref to Absolute",
+              "command": "yq_xref2abs",
+              "alias": "xf2a",
+              "separator": false
+            }
+          ]
+        },
+        {
+          "zh": "特殊",
+          "en": "Extra",
+          "hint": null,
+          "items": [
+            {
+              "zh": "几个关联开关",
+              "en": "Relations Switches",
+              "command": "yq_relswitch",
+              "alias": "gl",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "快速切割图像",
+              "en": "Clip Image",
+              "command": "yq_qgtx",
+              "alias": "qgtx",
+              "separator": false
+            },
+            {
+              "zh": "拆分图像",
+              "en": "Image Splitting",
+              "command": "yq_imagesplit",
+              "alias": "cftx",
+              "separator": false
+            },
+            {
+              "zh": "拆分板材",
+              "en": "Board Splitting",
+              "command": "yq_boardsplit",
+              "alias": "cfb",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "绘制垫块",
+              "en": "Heel Block",
+              "command": "yq_heelblock",
+              "alias": "dk",
+              "separator": false
+            },
+            {
+              "zh": "画凹缝",
+              "en": "Draw Sawtooth",
+              "command": "yq_sawtooth",
+              "alias": "saw",
+              "separator": false
+            },
+            {
+              "zh": "倒海棠角",
+              "en": "Begonia Angle",
+              "command": "yq_begonia",
+              "alias": "htj",
+              "separator": false
+            },
+            {
+              "zh": "车边镜",
+              "en": "Beveled Plate Glass",
+              "command": "yq_cbj",
+              "alias": "cbj",
+              "separator": false
+            },
+            {
+              "zh": "修剪幕墙横竖线",
+              "en": "Curtainwall Scissor",
+              "command": "yq_trimcurtainwall",
+              "alias": "tq",
+              "separator": false
+            },
+            {
+              "zh": "图块/灯具连线",
+              "en": "Blocks Connection",
+              "command": "yq_linkblocks",
+              "alias": "lb",
+              "separator": false
+            },
+            {
+              "zh": "链式选取",
+              "en": "Get Linked Selection Sets",
+              "command": "yq_lsxq",
+              "alias": "lsxq",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "框内变虚线",
+              "en": "Hidden in frames",
+              "command": "yq_breakandhidden",
+              "alias": "bxx",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "检查是否封闭",
+              "en": "Check If Closed",
+              "command": "yq_chkclosed",
+              "alias": "bfb",
+              "separator": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zh": "杂项面板快捷键u2",
+      "en": "Misc Panel u2",
+      "buttonsPerColumn": 26,
+      "alias": "u2",
+      "sections": [
+        {
+          "zh": "文字特殊",
+          "en": "Text Extra",
+          "hint": null,
+          "items": [
+            {
+              "zh": "文字.普通匹配",
+              "en": "Match Text Mode1",
+              "command": "(yq_match_content0 1)",
+              "alias": "sst1",
+              "separator": false
+            },
+            {
+              "zh": "文字.单选匹配",
+              "en": "Match Text Mode2",
+              "command": "(yq_match_content0 2)",
+              "alias": "sst2",
+              "separator": false
+            },
+            {
+              "zh": "文字.多属性匹配",
+              "en": "Match Text Mode3",
+              "command": "(yq_match_content0 3)",
+              "alias": "sst3",
+              "separator": false
+            },
+            {
+              "zh": "拷贝翻译词组",
+              "en": "Copy & translate",
+              "command": "yq_copytranslate",
+              "alias": "xfy",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "对正左下",
+              "en": "Alignment Left",
+              "command": "(yq_text_alignment \"L\")",
+              "alias": "tt1",
+              "separator": false
+            },
+            {
+              "zh": "对正中下",
+              "en": "Alignment Center",
+              "command": "(yq_text_alignment \"C\")",
+              "alias": "tt2",
+              "separator": false
+            },
+            {
+              "zh": "对正右下",
+              "en": "Alignment Right",
+              "command": "(yq_text_alignment \"R\")",
+              "alias": "tt3",
+              "separator": false
+            },
+            {
+              "zh": "对正中央",
+              "en": "Alignment MiddleCenter",
+              "command": "(yq_text_alignment \"MC\")",
+              "alias": "tt4",
+              "separator": false
+            }
+          ]
+        },
+        {
+          "zh": "算量小工具",
+          "en": "Calculate Tools",
+          "hint": null,
+          "items": [
+            {
+              "zh": "文字放入粘贴板",
+              "en": "Text to Clipboard",
+              "command": "yq_text2clipboard",
+              "alias": "wz",
+              "separator": false
+            },
+            {
+              "zh": "单选文字追加Excel格",
+              "en": "Text to Excel",
+              "command": "yq_appendtext2cell",
+              "alias": "tce",
+              "separator": false
+            },
+            {
+              "zh": "数字部分追加Excel格",
+              "en": "Number to Excel",
+              "command": "yq_appendnum2cell",
+              "alias": "nce",
+              "separator": false
+            },
+            {
+              "zh": "尺寸数字追加Excel格",
+              "en": "Dim to Excel",
+              "command": "yq_appenddim2cell",
+              "alias": "ddce",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "求面积/周长/墙面积",
+              "en": "Get Area/Perimeter",
+              "command": "yq_areawall",
+              "alias": "wmj",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "点取面积输出Excel当前格",
+              "en": "Pickup Area to Excel",
+              "command": "yq_pickArea2excel",
+              "alias": "dmj",
+              "separator": false
+            },
+            {
+              "zh": "画矩形取面积输出Excel格",
+              "en": "Rectangle Area to Excel",
+              "command": "yq_RectangleArea",
+              "alias": "kmj",
+              "separator": false
+            },
+            {
+              "zh": "选曲线取面积输出Excel格",
+              "en": "Select Area to Excel",
+              "command": "yq_plineArea",
+              "alias": "smj",
+              "separator": false
+            },
+            {
+              "zh": "文字区域面积输出Excel格",
+              "en": "Cell Area to Excel",
+              "command": "yq_textCellArea",
+              "alias": "zmj",
+              "separator": false
+            },
+            {
+              "zh": "选填充取面积输出Excel格",
+              "en": "Select harching to Excel",
+              "command": "yq_hatchArea",
+              "alias": "hmj",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "选曲线取周长输出Excel格",
+              "en": "Select Perimeter to Excel",
+              "command": "yq_plinePerimeter",
+              "alias": "szc",
+              "separator": false
+            },
+            {
+              "zh": "画矩形取中线输出Excel格",
+              "en": "Rectangle Midline to Excel",
+              "command": "yq_RectangleMidline",
+              "alias": "kzc",
+              "separator": false
+            }
+          ]
+        },
+        {
+          "zh": "图层工具",
+          "en": "Layer Tools",
+          "hint": null,
+          "items": [
+            {
+              "zh": "全图改为指定图层",
+              "en": "All to A Layer",
+              "command": "yq_all2layer",
+              "alias": "er0",
+              "separator": false
+            },
+            {
+              "zh": "恢复颜色/线性/线宽",
+              "en": "Recover Color/Ltype/LW",
+              "command": "yq_00",
+              "alias": "00",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "系统分层-全选",
+              "en": "All Layers",
+              "command": "(yq_xtft \"QX\" \"\" \"*\")",
+              "alias": "vqx",
+              "separator": false
+            },
+            {
+              "zh": "系统分层-FF",
+              "en": "FF Layers",
+              "command": "(yq_xtft \"FF\" \"fc*||rc*||em*||ar*||ie*||id*\" \"ff*||f-*\")",
+              "alias": "vff",
+              "separator": false
+            },
+            {
+              "zh": "系统分层-RC",
+              "en": "RC Layers",
+              "command": "(yq_xtft \"RC\" \"ff*||fc*||em*||ar*||ie*||id*\" \"rc*\")",
+              "alias": "vrc",
+              "separator": false
+            },
+            {
+              "zh": "系统分层-FC",
+              "en": "FC Layers",
+              "command": "(yq_xtft \"FC\" \"ff*||rc*||em*||ar*||ie*||id*\" \"fc*\")",
+              "alias": "vfc",
+              "separator": false
+            },
+            {
+              "zh": "系统分层-AR",
+              "en": "AR Layers",
+              "command": "(yq_xtft \"AR\" \"ff*||rc*||fc*||em*||ie*||id*\" \"ar*\")",
+              "alias": "var",
+              "separator": false
+            },
+            {
+              "zh": "系统分层-EM",
+              "en": "EM Layers",
+              "command": "(yq_xtft \"EM\" \"ff*||rc*||fc*||ar*||ie*||id*\" \"em*||f-*\")",
+              "alias": "vem",
+              "separator": false
+            }
+          ]
+        },
+        {
+          "zh": "过滤选择",
+          "en": "Filter Select",
+          "hint": null,
+          "items": [
+            {
+              "zh": "图元过滤选择",
+              "en": "Ename Filter",
+              "command": "yq_enamefilter",
+              "alias": "xee",
+              "separator": false
+            },
+            {
+              "zh": "图层过滤选择",
+              "en": "Layer Filter",
+              "command": "yq_layerfilter",
+              "alias": "xer",
+              "separator": false
+            },
+            {
+              "zh": "颜色过滤选择",
+              "en": "Color Filter",
+              "command": "yq_colorfilter",
+              "alias": "xcr",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "图元过滤删除",
+              "en": "Filter Erase",
+              "command": "yq_filterErase",
+              "alias": "dee",
+              "separator": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "zh": "用户面板快捷键u3",
+      "en": "User Panel u3",
+      "buttonsPerColumn": 26,
+      "alias": "u3",
+      "sections": [
+        {
+          "zh": "天正工具",
+          "en": "Filter Erase",
+          "hint": null,
+          "items": [
+            {
+              "zh": "尝试炸开天正加密块",
+              "en": "Crack Tch Protect",
+              "command": "yq_tzcracker",
+              "alias": "tzx",
+              "separator": false
+            }
+          ]
+        },
+        {
+          "zh": "杂项其他",
+          "en": "Misc Others",
+          "hint": null,
+          "items": [
+            {
+              "zh": "用户配置",
+              "en": "User Preferences",
+              "command": "yqsys",
+              "alias": "pz",
+              "separator": false
+            },
+            {
+              "zh": "横构造线",
+              "en": "Horizontal xline",
+              "command": "(command \"xline\" \"h\")",
+              "alias": "xh",
+              "separator": false
+            },
+            {
+              "zh": "竖构造线",
+              "en": "Vertical xline",
+              "command": "(command \"xline\" \"v\")",
+              "alias": "xv",
+              "separator": false
+            },
+            {
+              "zh": "十字构造线",
+              "en": "Cross xline",
+              "command": "yq_Crossxline",
+              "alias": "x2",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "列表换字-管径",
+              "en": "Text List-DN",
+              "command": "(yq_mlstbox \"标题\" (list \"DN15 DN20 DN32 DN40 DN50 DN60 DN65 DN80 DN100 DN110 DN150 DN200 DN300\" \"Φ100 Φ200\" \"DE100 DE200\" \"D100 D200\" \"d100 d200\"))",
+              "alias": "dn",
+              "separator": false
+            },
+            {
+              "zh": "列表换字-材料",
+              "en": "Text List-Material",
+              "command": "(yq_mlstbox \"标题\" (list \"夹丝玻璃 钢化玻璃 茶镜 清镜 超白玻 中空玻璃\" \"大理石 花岗石 墙面砖 防滑砖\" \"镜面不锈钢 发丝不锈钢 黑钛不锈钢\"))",
+              "alias": "clmc",
+              "separator": false
+            },
+            {
+              "zh": "",
+              "en": "",
+              "command": "",
+              "alias": null,
+              "separator": true
+            },
+            {
+              "zh": "上边线对齐",
+              "en": "Top Aligning",
+              "command": "(yq_setdq 2)(c:yq_alignment)",
+              "alias": "dqt",
+              "separator": false
+            },
+            {
+              "zh": "左边线对齐",
+              "en": "Left Aligning",
+              "command": "(yq_setdq 3)(c:yq_alignment)",
+              "alias": "dql",
+              "separator": false
+            },
+            {
+              "zh": "右边线对齐",
+              "en": "Right Aligning",
+              "command": "(yq_setdq 5)(c:yq_alignment)",
+              "alias": "dqr",
+              "separator": false
+            },
+            {
+              "zh": "下边线对齐",
+              "en": "Bottom Aligning",
+              "command": "(yq_setdq 6)(c:yq_alignment)",
+              "alias": "dqb",
+              "separator": false
+            }
+          ]
+        },
+        {
+          "zh": "AutoCAD命令",
+          "en": "AutoCAD Commands",
+          "hint": null,
+          "items": [
+            {
+              "zh": "画线段",
+              "en": "Draw a Line",
+              "command": "line",
+              "alias": null,
+              "separator": false
+            },
+            {
+              "zh": "三点弧",
+              "en": "3 Points Arc",
+              "command": "arc",
+              "alias": null,
+              "separator": false
+            },
+            {
+              "zh": "拷贝",
+              "en": "Copy",
+              "command": "copy",
+              "alias": null,
+              "separator": false
+            },
+            {
+              "zh": "删除",
+              "en": "Erase",
+              "command": "erase",
+              "alias": null,
+              "separator": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

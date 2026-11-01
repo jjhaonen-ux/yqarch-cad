@@ -1,0 +1,615 @@
+{
+  "source": "userCCD/dwgtitle.txt",
+  "data": [
+    {
+      "title": "图名标题列表: 中文名=英文名",
+      "entries": [
+        {
+          "code": null,
+          "zh": "图纸目录",
+          "en": "DRAWING LIST"
+        },
+        {
+          "code": null,
+          "zh": "原始结构图",
+          "en": "EXISTING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "平面布置图",
+          "en": "LAYOUT PLAN"
+        },
+        {
+          "code": null,
+          "zh": "家具布置图",
+          "en": "FIXTURE & FURNITURE PLAN"
+        },
+        {
+          "code": null,
+          "zh": "天花布置图",
+          "en": "REFLECTED CEILING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "综合天花图",
+          "en": "COMPREHENSIVE CEILING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "灯具定位图",
+          "en": "LIGHTING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "灯具回路图",
+          "en": "LIGHTING CIRCUIT PLAN"
+        },
+        {
+          "code": null,
+          "zh": "插座布置图",
+          "en": "SOCKET PLAN"
+        },
+        {
+          "code": null,
+          "zh": "给排水布置图",
+          "en": "PLUMBING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "地坪饰面图",
+          "en": "FLOOR COVERING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "间墙尺寸图",
+          "en": "ARCHITECTURAL INFO. PLAN"
+        },
+        {
+          "code": null,
+          "zh": "机电平面图",
+          "en": "ELECTRICAL / MECH. PLAN"
+        },
+        {
+          "code": null,
+          "zh": "电气系统图",
+          "en": "ELECTRICAL SYSTEM DIAGRAM"
+        },
+        {
+          "code": null,
+          "zh": "墙身饰面图",
+          "en": "WALL FINISH PLAN"
+        },
+        {
+          "code": null,
+          "zh": "立面索引图",
+          "en": "INDEX PLAN"
+        },
+        {
+          "code": null,
+          "zh": "立面图",
+          "en": "ELEVATION"
+        },
+        {
+          "code": null,
+          "zh": "大样图",
+          "en": "DETAIL"
+        },
+        {
+          "code": null,
+          "zh": "剖面图",
+          "en": "SECTION"
+        },
+        {
+          "code": null,
+          "zh": "门类型列表",
+          "en": "DOOR SCHEDULE"
+        },
+        {
+          "code": null,
+          "zh": "门详图",
+          "en": "TYPICAL DOOR DETAIL"
+        },
+        {
+          "code": null,
+          "zh": "尺寸/隔断定位图",
+          "en": "DIMENSION / PARTITION PLAN"
+        },
+        {
+          "code": null,
+          "zh": "地面材料铺装图",
+          "en": "FLOOR FINISHING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "墙面/地面材料示意图",
+          "en": "WALL/FLOOR FINISHING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "门编号索引图",
+          "en": "DOOR SCHEDULE PLAN"
+        },
+        {
+          "code": null,
+          "zh": "家具平面图",
+          "en": "FURNITURE PLAN"
+        },
+        {
+          "code": null,
+          "zh": "家具现状平面图",
+          "en": "EXISTING FURNITURE PLAN"
+        },
+        {
+          "code": null,
+          "zh": "机电图",
+          "en": "MACHINE PLAN"
+        },
+        {
+          "code": null,
+          "zh": "强电回路图",
+          "en": "POWER CIRCUIT PLAN"
+        },
+        {
+          "code": null,
+          "zh": "线槽路由图",
+          "en": "TRUNK ROUTING MAP"
+        },
+        {
+          "code": null,
+          "zh": "原有天花平面图",
+          "en": "EXISTING CEILING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "灯具回路图",
+          "en": "LIGHTING CIRCUIT PLAN"
+        },
+        {
+          "code": null,
+          "zh": "烟感、喷林布置图",
+          "en": "FIRE PROTECTION PLAN"
+        },
+        {
+          "code": null,
+          "zh": "烟感回路图",
+          "en": "SMOKER DETECT WIRE DIAGRAM"
+        },
+        {
+          "code": null,
+          "zh": "喷淋管路图",
+          "en": "SPRINKLER PIPING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "空调管路图",
+          "en": "A/C DUCTING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "空调水管图",
+          "en": "A/C PIPING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "空调回路图",
+          "en": "A/C WIRE DIAGRAM"
+        },
+        {
+          "code": null,
+          "zh": "灯具开关回路图",
+          "en": "SWITCH CIRCUIT PLAN"
+        },
+        {
+          "code": null,
+          "zh": "排烟风管图",
+          "en": "EXHAUST DUCTING PLAN"
+        },
+        {
+          "code": null,
+          "zh": "现状平面图",
+          "en": "CURRENT CONDITION PLAN"
+        },
+        {
+          "code": null,
+          "zh": "配电箱系统图",
+          "en": "MCB BOARD SCHEDULE"
+        },
+        {
+          "code": null,
+          "zh": "保安系统平面图",
+          "en": "SECURITY LAYOUT PLAN"
+        }
+      ]
+    },
+    {
+      "title": "图号列表",
+      "entries": [
+        {
+          "code": null,
+          "zh": "-",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DL-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "AR-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FF-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FC-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "WD-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "RC-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "RC-02",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FC-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "KP-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "EM-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DR-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "EL-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "IE-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "IE-02",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "IE-03",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "IE-04",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "IE-05",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "IE-06",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "IE-07",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "IE-08",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "IE-09",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "IE-10",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DS-01",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DS-02",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DS-03",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DS-04",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DS-05",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DS-06",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DS-07",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DS-08",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DS-09",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DS-10",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "索引号列表",
+      "entries": [
+        {
+          "code": null,
+          "zh": "1",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "3",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "4",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "5",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "7",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "8",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "9",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "10",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "A",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "B",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "C",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "D",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "E",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "F",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "G",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "H",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "I",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "J",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "K",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "比例",
+      "entries": [
+        {
+          "code": null,
+          "zh": "SCALE 1:1",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:2",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:3",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:4",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:5",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:6",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:8",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:10",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:12",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:15",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:20",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:30",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:40",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:50",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:60",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:75",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:80",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:100",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:120",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:150",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCALE 1:200",
+          "en": null
+        }
+      ]
+    }
+  ]
+}

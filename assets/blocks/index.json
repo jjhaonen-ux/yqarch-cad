@@ -1,0 +1,4204 @@
+{
+  "generator": "tools/dwg-convert (libredwg-web 0.8.3)",
+  "generatedAt": "2026-11-01T01:24:09.200Z",
+  "files": [
+    {
+      "source": "blocks/00 动态块说明.dwg",
+      "file": "blocks/00_动态块说明.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -88876.5929,
+        -47263.5977,
+        44654.2541,
+        18915.6062
+      ],
+      "modelspace": 28,
+      "entities": 1194,
+      "blocks": 37,
+      "readerCode": 68
+    },
+    {
+      "source": "blocks/YQ_CENGBAN01.dwg",
+      "file": "blocks/YQ_CENGBAN01.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        400,
+        40
+      ],
+      "modelspace": 13,
+      "entities": 14,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/YQ_JINGGUI01.dwg",
+      "file": "blocks/YQ_JINGGUI01.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -1228.3131,
+        180,
+        0
+      ],
+      "modelspace": 42,
+      "entities": 160,
+      "blocks": 4,
+      "readerCode": 4
+    },
+    {
+      "source": "blocks/YQ_SHUGUI01.dwg",
+      "file": "blocks/YQ_SHUGUI01.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        600,
+        800
+      ],
+      "modelspace": 70,
+      "entities": 160,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/五金/4E9DQA21.dwg",
+      "file": "blocks/五金/4E9DQA21.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -7.8192,
+        0,
+        1.8192,
+        14.3947
+      ],
+      "modelspace": 6,
+      "entities": 8,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/五金/BVV93ZL3.dwg",
+      "file": "blocks/五金/BVV93ZL3.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -16.1926,
+        0,
+        0.1926,
+        21.8691
+      ],
+      "modelspace": 6,
+      "entities": 8,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/五金/JL075P21.dwg",
+      "file": "blocks/五金/JL075P21.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -11,
+        -10.76,
+        11,
+        17.6
+      ],
+      "modelspace": 21,
+      "entities": 23,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/五金/WO48N2Q1.dwg",
+      "file": "blocks/五金/WO48N2Q1.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -7.2692,
+        -8.5843,
+        7.2692,
+        24.5657
+      ],
+      "modelspace": 33,
+      "entities": 35,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/五金/YQ0921141991.dwg",
+      "file": "blocks/五金/YQ0921141991.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -115,
+        -75,
+        115,
+        75
+      ],
+      "modelspace": 4,
+      "entities": 31,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/五金/YQ0923100733.dwg",
+      "file": "blocks/五金/YQ0923100733.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -100,
+        -98.222,
+        100,
+        97.7067
+      ],
+      "modelspace": 9,
+      "entities": 121,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/五金/YQ1105151979.dwg",
+      "file": "blocks/五金/YQ1105151979.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -125,
+        -75,
+        125,
+        75
+      ],
+      "modelspace": 4,
+      "entities": 35,
+      "blocks": 5,
+      "readerCode": 4
+    },
+    {
+      "source": "blocks/五金/YSHA4HPJ.dwg",
+      "file": "blocks/五金/YSHA4HPJ.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -17.1429,
+        -97.6728,
+        17.1429,
+        27.4217
+      ],
+      "modelspace": 34,
+      "entities": 36,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/五金/ctls.dwg",
+      "file": "blocks/五金/ctls.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -5.9995,
+        -26.6863,
+        6.0005,
+        0
+      ],
+      "modelspace": 88,
+      "entities": 90,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/五金/不锈钢自攻螺钉1.dwg",
+      "file": "blocks/五金/不锈钢自攻螺钉1.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -6,
+        -18.0401,
+        6,
+        6.1426
+      ],
+      "modelspace": 57,
+      "entities": 58,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/五金/不锈钢自攻螺钉2.dwg",
+      "file": "blocks/五金/不锈钢自攻螺钉2.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -4,
+        -9.999,
+        4,
+        4.1606
+      ],
+      "modelspace": 52,
+      "entities": 53,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/五金/不锈钢螺栓组.dwg",
+      "file": "blocks/五金/不锈钢螺栓组.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -12.7,
+        -6,
+        32.3,
+        6
+      ],
+      "modelspace": 48,
+      "entities": 49,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/五金/构件_方通角钢.dwg",
+      "file": "blocks/五金/构件_方通角钢.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        2186.1733,
+        1481.97,
+        2953.5816,
+        1764.2686
+      ],
+      "modelspace": 11,
+      "entities": 93,
+      "blocks": 22,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/五金/构件_角钢.dwg",
+      "file": "blocks/五金/构件_角钢.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        50,
+        50
+      ],
+      "modelspace": 7,
+      "entities": 44,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/五金/构件_角钢干挂.dwg",
+      "file": "blocks/五金/构件_角钢干挂.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        269589.2837,
+        -244164.8777,
+        269939.8672,
+        -243996.2647
+      ],
+      "modelspace": 18,
+      "entities": 252,
+      "blocks": 11,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/五金/自攻螺钉.dwg",
+      "file": "blocks/五金/自攻螺钉.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -2.9997,
+        -20,
+        3.0003,
+        0
+      ],
+      "modelspace": 23,
+      "entities": 24,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/五金/螺栓头.dwg",
+      "file": "blocks/五金/螺栓头.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -9.5764,
+        -9.5764,
+        9.5764,
+        9.5764
+      ],
+      "modelspace": 7,
+      "entities": 8,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/凳_软包凳.dwg",
+      "file": "blocks/室内平面/凳_软包凳.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -275,
+        -200,
+        275,
+        200
+      ],
+      "modelspace": 4,
+      "entities": 41,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/卫_坐便器1.dwg",
+      "file": "blocks/室内平面/卫_坐便器1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -290.0475,
+        -0.0001,
+        431.4152,
+        741.4238
+      ],
+      "modelspace": 94,
+      "entities": 94,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/卫_坐便器2.dwg",
+      "file": "blocks/室内平面/卫_坐便器2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -279.6874,
+        0,
+        740.7517,
+        714.884
+      ],
+      "modelspace": 18,
+      "entities": 110,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/卫_坐便器3.dwg",
+      "file": "blocks/室内平面/卫_坐便器3.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -112.32,
+        0,
+        549.12,
+        748.7996
+      ],
+      "modelspace": 115,
+      "entities": 118,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/卫_小便斗.dwg",
+      "file": "blocks/室内平面/卫_小便斗.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -225,
+        0,
+        313.4571,
+        1020.85
+      ],
+      "modelspace": 71,
+      "entities": 71,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/卫_小便斗2.dwg",
+      "file": "blocks/室内平面/卫_小便斗2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -354.0567,
+        0,
+        354.0649,
+        848.4018
+      ],
+      "modelspace": 29,
+      "entities": 29,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/卫_小便斗3.dwg",
+      "file": "blocks/室内平面/卫_小便斗3.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -371.0417,
+        407.2,
+        1068.39
+      ],
+      "modelspace": 155,
+      "entities": 158,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/卫_毛巾架.dwg",
+      "file": "blocks/室内平面/卫_毛巾架.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -72.5001,
+        529,
+        0
+      ],
+      "modelspace": 12,
+      "entities": 13,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/卫_活动坐便1.dwg",
+      "file": "blocks/室内平面/卫_活动坐便1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -0.0001,
+        4020,
+        1200
+      ],
+      "modelspace": 147,
+      "entities": 188,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/卫_活动浴淋1.dwg",
+      "file": "blocks/室内平面/卫_活动浴淋1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        4020,
+        1200
+      ],
+      "modelspace": 147,
+      "entities": 222,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/卫_活动蹲位1.dwg",
+      "file": "blocks/室内平面/卫_活动蹲位1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        4020,
+        1200
+      ],
+      "modelspace": 158,
+      "entities": 201,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/卫_立盆1.dwg",
+      "file": "blocks/室内平面/卫_立盆1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -343,
+        0,
+        500,
+        850
+      ],
+      "modelspace": 11,
+      "entities": 27,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/卫_蹲坑1.dwg",
+      "file": "blocks/室内平面/卫_蹲坑1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -213.1826,
+        -0.1091,
+        214.1671,
+        623.3029
+      ],
+      "modelspace": 90,
+      "entities": 93,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/厨_水槽.dwg",
+      "file": "blocks/室内平面/厨_水槽.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -400,
+        -500,
+        400,
+        130.4526
+      ],
+      "modelspace": 149,
+      "entities": 152,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/床_样式1.dwg",
+      "file": "blocks/室内平面/床_样式1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -1055.4948,
+        -2114.2461,
+        1076.7023,
+        30.0433
+      ],
+      "modelspace": 66,
+      "entities": 393,
+      "blocks": 9,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/床_样式2.dwg",
+      "file": "blocks/室内平面/床_样式2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -1700,
+        -1409.8072,
+        1700,
+        1599.0597
+      ],
+      "modelspace": 549,
+      "entities": 572,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/床_样式3.dwg",
+      "file": "blocks/室内平面/床_样式3.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -1050,
+        -2000,
+        1050,
+        0
+      ],
+      "modelspace": 39,
+      "entities": 39,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/床_样式5.dwg",
+      "file": "blocks/室内平面/床_样式5.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -2255.153,
+        -599.5338,
+        0,
+        2599.5337
+      ],
+      "modelspace": 50,
+      "entities": 53,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/柜_台盆柜1.dwg",
+      "file": "blocks/室内平面/柜_台盆柜1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        51.4646,
+        64.6511,
+        1001.4646,
+        664.6511
+      ],
+      "modelspace": 17,
+      "entities": 20,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/柜_电视柜1.dwg",
+      "file": "blocks/室内平面/柜_电视柜1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        11031.3463,
+        583.3405,
+        12563.6835,
+        2523.7994
+      ],
+      "modelspace": 107,
+      "entities": 107,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/柜_电视柜2.dwg",
+      "file": "blocks/室内平面/柜_电视柜2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -43.8388,
+        -340.9926,
+        1767.3901,
+        1499.6
+      ],
+      "modelspace": 89,
+      "entities": 89,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/柜_衣柜.dwg",
+      "file": "blocks/室内平面/柜_衣柜.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -1626.4294,
+        -641.1785,
+        1500,
+        1240.4506
+      ],
+      "modelspace": 164,
+      "entities": 169,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/柜_衣柜2.dwg",
+      "file": "blocks/室内平面/柜_衣柜2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -742.4878,
+        1200,
+        0
+      ],
+      "modelspace": 41,
+      "entities": 51,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/柜_酒柜1.dwg",
+      "file": "blocks/室内平面/柜_酒柜1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        75154.2088,
+        19820.1208,
+        75445.4088,
+        20183.7444
+      ],
+      "modelspace": 34,
+      "entities": 54,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/柜子_1.dwg",
+      "file": "blocks/室内平面/柜子_1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        400,
+        600
+      ],
+      "modelspace": 6,
+      "entities": 6,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/柜子_2.dwg",
+      "file": "blocks/室内平面/柜子_2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        420,
+        896.9849
+      ],
+      "modelspace": 4,
+      "entities": 4,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/桌_8-12人圆餐.dwg",
+      "file": "blocks/室内平面/桌_8-12人圆餐.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -1462.9625,
+        -1462.9891,
+        1462.9919,
+        1462.9653
+      ],
+      "modelspace": 34,
+      "entities": 42,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/桌_圆餐桌.dwg",
+      "file": "blocks/室内平面/桌_圆餐桌.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -1462.9625,
+        -1462.9891,
+        1462.9919,
+        1462.9653
+      ],
+      "modelspace": 34,
+      "entities": 39,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/桌_方餐桌.dwg",
+      "file": "blocks/室内平面/桌_方餐桌.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -848.8596,
+        -1098.9015,
+        848.9467,
+        1098.9047
+      ],
+      "modelspace": 66,
+      "entities": 66,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/桌_餐桌.dwg",
+      "file": "blocks/室内平面/桌_餐桌.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -970.7186,
+        -1170.7186,
+        970.7187,
+        1170.7187
+      ],
+      "modelspace": 5,
+      "entities": 69,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/窗_窗套.dwg",
+      "file": "blocks/室内平面/窗_窗套.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -90,
+        -40,
+        790,
+        200
+      ],
+      "modelspace": 12,
+      "entities": 13,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/窗帘_双层1.dwg",
+      "file": "blocks/室内平面/窗帘_双层1.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        0,
+        -10,
+        520,
+        80
+      ],
+      "modelspace": 5,
+      "entities": 7,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/室内平面/窗帘_双层2.dwg",
+      "file": "blocks/室内平面/窗帘_双层2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -60,
+        600,
+        48.9165
+      ],
+      "modelspace": 24,
+      "entities": 28,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/装饰_护墙.dwg",
+      "file": "blocks/室内平面/装饰_护墙.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -45.0001,
+        0,
+        60.8092,
+        23.1474
+      ],
+      "modelspace": 7,
+      "entities": 9,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/室内平面/门_1.dwg",
+      "file": "blocks/室内平面/门_1.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -69.5825,
+        -240,
+        845,
+        780
+      ],
+      "modelspace": 159,
+      "entities": 161,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/室内平面/门_2.dwg",
+      "file": "blocks/室内平面/门_2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -39.4864,
+        800,
+        800.9994
+      ],
+      "modelspace": 35,
+      "entities": 36,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/门_单开.dwg",
+      "file": "blocks/室内平面/门_单开.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -120,
+        -271.3238,
+        1148.4759,
+        820
+      ],
+      "modelspace": 39,
+      "entities": 41,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/门_单开玻璃.dwg",
+      "file": "blocks/室内平面/门_单开玻璃.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -120,
+        -816,
+        1078.4759,
+        696
+      ],
+      "modelspace": 49,
+      "entities": 51,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/门_双开玻璃.dwg",
+      "file": "blocks/室内平面/门_双开玻璃.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -616,
+        2031.5409,
+        496
+      ],
+      "modelspace": 101,
+      "entities": 103,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/门_普通双开.dwg",
+      "file": "blocks/室内平面/门_普通双开.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -45.7333,
+        -270,
+        2101.5409,
+        620
+      ],
+      "modelspace": 47,
+      "entities": 49,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/门_普通子母.dwg",
+      "file": "blocks/室内平面/门_普通子母.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -120,
+        -251.1174,
+        1348.1237,
+        820
+      ],
+      "modelspace": 40,
+      "entities": 42,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/门套_1.dwg",
+      "file": "blocks/室内平面/门套_1.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -40.0001,
+        -75,
+        280,
+        935
+      ],
+      "modelspace": 11,
+      "entities": 14,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/室内平面/门套_2.dwg",
+      "file": "blocks/室内平面/门套_2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -270,
+        -39.9998,
+        30,
+        940.0005
+      ],
+      "modelspace": 13,
+      "entities": 16,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内平面/门套线.dwg",
+      "file": "blocks/室内平面/门套线.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -171.4645,
+        -63.5355,
+        468.5355,
+        126.4645
+      ],
+      "modelspace": 100,
+      "entities": 102,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内立面/墙体框架.dwg",
+      "file": "blocks/室内立面/墙体框架.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -528.2793,
+        -173.1159,
+        4423.5943,
+        4271.0912
+      ],
+      "modelspace": 95,
+      "entities": 98,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内立面/墙体框架2.dwg",
+      "file": "blocks/室内立面/墙体框架2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -528.2793,
+        -165.7858,
+        4441.9256,
+        4271.0912
+      ],
+      "modelspace": 144,
+      "entities": 146,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内立面/摆件_书本.dwg",
+      "file": "blocks/室内立面/摆件_书本.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -0.0394,
+        -0.0532,
+        456.4267,
+        296.9468
+      ],
+      "modelspace": 5,
+      "entities": 63,
+      "blocks": 5,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内立面/柱_爱奥尼克.dwg",
+      "file": "blocks/室内立面/柱_爱奥尼克.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -1549.906,
+        -0.23,
+        1550.094,
+        6000.2375
+      ],
+      "modelspace": 2515,
+      "entities": 2520,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内立面/窗套_1.dwg",
+      "file": "blocks/室内立面/窗套_1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -121.0074,
+        -123,
+        920.9926,
+        1298
+      ],
+      "modelspace": 242,
+      "entities": 244,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/室内立面/窗帘_侧面1.dwg",
+      "file": "blocks/室内立面/窗帘_侧面1.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -75,
+        -936.8866,
+        75,
+        4.4444
+      ],
+      "modelspace": 75,
+      "entities": 76,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/室内立面/窗帘_侧面2.dwg",
+      "file": "blocks/室内立面/窗帘_侧面2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -2588.2705,
+        150,
+        0
+      ],
+      "modelspace": 75,
+      "entities": 76,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内立面/窗帘_卷帘1.dwg",
+      "file": "blocks/室内立面/窗帘_卷帘1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -541.827,
+        626.1888,
+        0.0052
+      ],
+      "modelspace": 57,
+      "entities": 94,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内立面/窗帘_卷帘2.dwg",
+      "file": "blocks/室内立面/窗帘_卷帘2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -830.6045,
+        1090.5899,
+        25.906
+      ],
+      "modelspace": 19,
+      "entities": 20,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内立面/窗帘_卷帘3.dwg",
+      "file": "blocks/室内立面/窗帘_卷帘3.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -264.7731,
+        50,
+        0
+      ],
+      "modelspace": 15,
+      "entities": 52,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内立面/窗帘_拉帘1.dwg",
+      "file": "blocks/室内立面/窗帘_拉帘1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -66036.7471,
+        -36456.4932,
+        68139.115,
+        29793.0014
+      ],
+      "modelspace": 204,
+      "entities": 333,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内立面/窗帘_拉帘2.dwg",
+      "file": "blocks/室内立面/窗帘_拉帘2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -0.0552,
+        -2800,
+        3000.0552,
+        0.0005
+      ],
+      "modelspace": 37,
+      "entities": 39,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内立面/窗帘_百叶1.dwg",
+      "file": "blocks/室内立面/窗帘_百叶1.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        0,
+        -175.0755,
+        619.5442,
+        0.0055
+      ],
+      "modelspace": 13,
+      "entities": 13,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/室内立面/门.dwg",
+      "file": "blocks/室内立面/门.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -0.0036,
+        -0.0001,
+        800.0001,
+        2200.0002
+      ],
+      "modelspace": 38,
+      "entities": 75,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内立面/门套_八字口.dwg",
+      "file": "blocks/室内立面/门套_八字口.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -128,
+        0,
+        928,
+        1928
+      ],
+      "modelspace": 193,
+      "entities": 195,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/室内立面/门套_平口.dwg",
+      "file": "blocks/室内立面/门套_平口.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -120,
+        0,
+        920,
+        1928
+      ],
+      "modelspace": 188,
+      "entities": 190,
+      "blocks": 1,
+      "readerCode": 4
+    },
+    {
+      "source": "blocks/室内立面/饰_护墙板1.dwg",
+      "file": "blocks/室内立面/饰_护墙板1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -150,
+        600,
+        2729.9994
+      ],
+      "modelspace": 71,
+      "entities": 72,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/板_12厘板.dwg",
+      "file": "blocks/室内节点/板_12厘板.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        113.772,
+        12
+      ],
+      "modelspace": 2,
+      "entities": 2,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/板_12厘石膏板.dwg",
+      "file": "blocks/室内节点/板_12厘石膏板.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        113.772,
+        12
+      ],
+      "modelspace": 2,
+      "entities": 2,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/板_18厘板.dwg",
+      "file": "blocks/室内节点/板_18厘板.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        113.772,
+        18
+      ],
+      "modelspace": 2,
+      "entities": 2,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/板_5厘板.dwg",
+      "file": "blocks/室内节点/板_5厘板.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        30.1563,
+        5
+      ],
+      "modelspace": 6,
+      "entities": 6,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/板_9厘板.dwg",
+      "file": "blocks/室内节点/板_9厘板.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        113.772,
+        9
+      ],
+      "modelspace": 2,
+      "entities": 2,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/板_9厘石膏板.dwg",
+      "file": "blocks/室内节点/板_9厘石膏板.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        113.772,
+        9
+      ],
+      "modelspace": 2,
+      "entities": 3,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_不锈钢.dwg",
+      "file": "blocks/室内节点/构件_不锈钢.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        26.9937,
+        74.9937
+      ],
+      "modelspace": 10,
+      "entities": 11,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_升降吊筋.dwg",
+      "file": "blocks/室内节点/构件_升降吊筋.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -11.2516,
+        -2,
+        11.3154,
+        300.714
+      ],
+      "modelspace": 28,
+      "entities": 31,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_卡式龙骨1.dwg",
+      "file": "blocks/室内节点/构件_卡式龙骨1.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -501.9945,
+        -87.9316,
+        403.6074,
+        158.4789
+      ],
+      "modelspace": 53,
+      "entities": 94,
+      "blocks": 5,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/室内节点/构件_吊杆.dwg",
+      "file": "blocks/室内节点/构件_吊杆.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -18.4552,
+        -35,
+        18.4425,
+        308.5654
+      ],
+      "modelspace": 45,
+      "entities": 48,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_吊杆2.dwg",
+      "file": "blocks/室内节点/构件_吊杆2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -49.2534,
+        0,
+        17.8943,
+        312.1092
+      ],
+      "modelspace": 88,
+      "entities": 93,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_吊筋2.dwg",
+      "file": "blocks/室内节点/构件_吊筋2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -11.2516,
+        -2,
+        11.2516,
+        278.2646
+      ],
+      "modelspace": 70,
+      "entities": 73,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_吊筋侧.dwg",
+      "file": "blocks/室内节点/构件_吊筋侧.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -14.1139,
+        -2.7029,
+        15.0192,
+        302
+      ],
+      "modelspace": 42,
+      "entities": 45,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_吊筋侧2.dwg",
+      "file": "blocks/室内节点/构件_吊筋侧2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -13.2151,
+        -2.7029,
+        15.918,
+        274.7084
+      ],
+      "modelspace": 86,
+      "entities": 89,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_楼板基层.dwg",
+      "file": "blocks/室内节点/构件_楼板基层.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -200,
+        -100,
+        3241.228,
+        4615.9775
+      ],
+      "modelspace": 39,
+      "entities": 47,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_膜扣件.dwg",
+      "file": "blocks/室内节点/构件_膜扣件.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -33.6809,
+        -15.8,
+        22.2107,
+        15.6027
+      ],
+      "modelspace": 10,
+      "entities": 191,
+      "blocks": 5,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_覆面龙骨.dwg",
+      "file": "blocks/室内节点/构件_覆面龙骨.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -22.4724,
+        -56.5415,
+        22.5334,
+        1
+      ],
+      "modelspace": 2,
+      "entities": 76,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_覆面龙骨2.dwg",
+      "file": "blocks/室内节点/构件_覆面龙骨2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -105.9176,
+        -9.0034,
+        105.9176,
+        9.0034
+      ],
+      "modelspace": 3,
+      "entities": 8,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_锁头.dwg",
+      "file": "blocks/室内节点/构件_锁头.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -0.0049,
+        -30.8694,
+        77.4951,
+        29.9967
+      ],
+      "modelspace": 18,
+      "entities": 55,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/构件_龙骨吊件.dwg",
+      "file": "blocks/室内节点/构件_龙骨吊件.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -45.1255,
+        1218.1112,
+        427.3506
+      ],
+      "modelspace": 668,
+      "entities": 724,
+      "blocks": 4,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/玻璃_10厘.dwg",
+      "file": "blocks/室内节点/玻璃_10厘.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -5,
+        20,
+        5
+      ],
+      "modelspace": 4,
+      "entities": 7,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/玻璃_12厘.dwg",
+      "file": "blocks/室内节点/玻璃_12厘.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -6,
+        24,
+        6
+      ],
+      "modelspace": 4,
+      "entities": 7,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/玻璃_15厘.dwg",
+      "file": "blocks/室内节点/玻璃_15厘.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -7.5,
+        30,
+        7.5
+      ],
+      "modelspace": 4,
+      "entities": 7,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/玻璃_16厘.dwg",
+      "file": "blocks/室内节点/玻璃_16厘.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -8,
+        32,
+        8
+      ],
+      "modelspace": 4,
+      "entities": 7,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/玻璃_20厘.dwg",
+      "file": "blocks/室内节点/玻璃_20厘.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -10,
+        40,
+        10
+      ],
+      "modelspace": 4,
+      "entities": 7,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/玻璃_3厘.dwg",
+      "file": "blocks/室内节点/玻璃_3厘.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -1.5,
+        6,
+        1.5
+      ],
+      "modelspace": 4,
+      "entities": 7,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/玻璃_5厘.dwg",
+      "file": "blocks/室内节点/玻璃_5厘.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -2.5,
+        10,
+        2.5
+      ],
+      "modelspace": 4,
+      "entities": 7,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/玻璃_6厘.dwg",
+      "file": "blocks/室内节点/玻璃_6厘.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -3,
+        12,
+        3
+      ],
+      "modelspace": 4,
+      "entities": 7,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/玻璃_8厘.dwg",
+      "file": "blocks/室内节点/玻璃_8厘.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -4,
+        16,
+        4
+      ],
+      "modelspace": 4,
+      "entities": 7,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/结构_龙骨隔墙.dwg",
+      "file": "blocks/室内节点/结构_龙骨隔墙.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -1192.2629,
+        0,
+        1192.2629,
+        100
+      ],
+      "modelspace": 36,
+      "entities": 67,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/节_地面砂浆.dwg",
+      "file": "blocks/室内节点/节_地面砂浆.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        582.0189,
+        261.2232
+      ],
+      "modelspace": 14,
+      "entities": 15,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/节_大理石贴面.dwg",
+      "file": "blocks/室内节点/节_大理石贴面.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        50,
+        300
+      ],
+      "modelspace": 4,
+      "entities": 7,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/节_大理石贴面2.dwg",
+      "file": "blocks/室内节点/节_大理石贴面2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        30,
+        300
+      ],
+      "modelspace": 5,
+      "entities": 8,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/节_木饰面转角.dwg",
+      "file": "blocks/室内节点/节_木饰面转角.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        6862.6628,
+        3276.092,
+        6932.3388,
+        3345.768
+      ],
+      "modelspace": 12,
+      "entities": 18,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/节_贴墙砖剖面.dwg",
+      "file": "blocks/室内节点/节_贴墙砖剖面.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        30,
+        300
+      ],
+      "modelspace": 4,
+      "entities": 7,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/镜_6厘车边镜.dwg",
+      "file": "blocks/室内节点/镜_6厘车边镜.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -24,
+        -6,
+        24,
+        0
+      ],
+      "modelspace": 10,
+      "entities": 13,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/饰_12厘硬包.dwg",
+      "file": "blocks/室内节点/饰_12厘硬包.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -14,
+        400,
+        0
+      ],
+      "modelspace": 3,
+      "entities": 6,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/饰_20厚软包.dwg",
+      "file": "blocks/室内节点/饰_20厚软包.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -20,
+        36.2861,
+        0
+      ],
+      "modelspace": 18,
+      "entities": 21,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/饰_墙板全高.dwg",
+      "file": "blocks/室内节点/饰_墙板全高.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -34.6872,
+        -1440,
+        38.9795,
+        1560
+      ],
+      "modelspace": 47,
+      "entities": 54,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/饰_墙板半高.dwg",
+      "file": "blocks/室内节点/饰_墙板半高.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -73.6667,
+        0,
+        0,
+        953.0007
+      ],
+      "modelspace": 26,
+      "entities": 33,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/饰_大理石.dwg",
+      "file": "blocks/室内节点/饰_大理石.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -213.8129,
+        -98.4257,
+        104.9558,
+        2633.7599
+      ],
+      "modelspace": 33,
+      "entities": 146,
+      "blocks": 5,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/饰_大理石干挂.dwg",
+      "file": "blocks/室内节点/饰_大理石干挂.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -31.6748,
+        -100.0646,
+        568.3252,
+        -0.0646
+      ],
+      "modelspace": 28,
+      "entities": 35,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/饰_硬包.dwg",
+      "file": "blocks/室内节点/饰_硬包.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        105.7407,
+        261.5823
+      ],
+      "modelspace": 54,
+      "entities": 62,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/饰_硬包2.dwg",
+      "file": "blocks/室内节点/饰_硬包2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        7084.462,
+        2435.128,
+        7196.232,
+        2446.128
+      ],
+      "modelspace": 3,
+      "entities": 9,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/饰_硬包扪皮.dwg",
+      "file": "blocks/室内节点/饰_硬包扪皮.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -7,
+        400,
+        0
+      ],
+      "modelspace": 3,
+      "entities": 6,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/饰_踢脚线.dwg",
+      "file": "blocks/室内节点/饰_踢脚线.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        266.6646,
+        396.6648
+      ],
+      "modelspace": 8,
+      "entities": 9,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/饰_软包.dwg",
+      "file": "blocks/室内节点/饰_软包.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        0,
+        105.7407,
+        261.5823
+      ],
+      "modelspace": 54,
+      "entities": 62,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/室内节点/饰_软包2.dwg",
+      "file": "blocks/室内节点/饰_软包2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        7089.0462,
+        2503.3993,
+        7286.3038,
+        2524.3993
+      ],
+      "modelspace": 8,
+      "entities": 14,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/幕墙/40mm放垫片.dwg",
+      "file": "blocks/幕墙/40mm放垫片.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -23,
+        -25,
+        23,
+        25
+      ],
+      "modelspace": 45,
+      "entities": 45,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/K5抽芯铆钉.dwg",
+      "file": "blocks/幕墙/K5抽芯铆钉.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -4.945,
+        -9.9,
+        4.945,
+        4.945
+      ],
+      "modelspace": 110,
+      "entities": 110,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/M10螺栓组.dwg",
+      "file": "blocks/幕墙/M10螺栓组.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -10,
+        -33.0554,
+        10,
+        10
+      ],
+      "modelspace": 72,
+      "entities": 72,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/M12化学螺栓.dwg",
+      "file": "blocks/幕墙/M12化学螺栓.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -12.0791,
+        -120.8795,
+        12.0791,
+        18
+      ],
+      "modelspace": 430,
+      "entities": 430,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/M12螺栓组.dwg",
+      "file": "blocks/幕墙/M12螺栓组.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -12,
+        -45.0502,
+        12,
+        12
+      ],
+      "modelspace": 72,
+      "entities": 72,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/M16螺栓组.dwg",
+      "file": "blocks/幕墙/M16螺栓组.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -25,
+        -58.7,
+        25,
+        24.887
+      ],
+      "modelspace": 74,
+      "entities": 74,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/M20螺栓组.dwg",
+      "file": "blocks/幕墙/M20螺栓组.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -30,
+        -78.8955,
+        30,
+        30
+      ],
+      "modelspace": 75,
+      "entities": 75,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/M6螺栓组.dwg",
+      "file": "blocks/幕墙/M6螺栓组.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -6,
+        -23.9,
+        6,
+        6
+      ],
+      "modelspace": 70,
+      "entities": 70,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/M8螺栓组.dwg",
+      "file": "blocks/幕墙/M8螺栓组.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -8,
+        -31.4437,
+        8,
+        8
+      ],
+      "modelspace": 73,
+      "entities": 73,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/ST4.2沉头自攻钉.dwg",
+      "file": "blocks/幕墙/ST4.2沉头自攻钉.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -4.7,
+        -25,
+        4.7,
+        4.7
+      ],
+      "modelspace": 602,
+      "entities": 602,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/ST4.2盘头自攻自钻钉.dwg",
+      "file": "blocks/幕墙/ST4.2盘头自攻自钻钉.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -4,
+        -25,
+        4,
+        6.7
+      ],
+      "modelspace": 615,
+      "entities": 615,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/ST4.2盘头自攻钉.dwg",
+      "file": "blocks/幕墙/ST4.2盘头自攻钉.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -4,
+        -25,
+        4,
+        6.7
+      ],
+      "modelspace": 733,
+      "entities": 733,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/ST4.8六角头自攻自钻钉.dwg",
+      "file": "blocks/幕墙/ST4.8六角头自攻自钻钉.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -5.1817,
+        -63.6,
+        5.1817,
+        6.2804
+      ],
+      "modelspace": 1526,
+      "entities": 1526,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/ST4.8沉头自攻钉.dwg",
+      "file": "blocks/幕墙/ST4.8沉头自攻钉.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -5.2,
+        -38,
+        5.2,
+        5.2
+      ],
+      "modelspace": 900,
+      "entities": 900,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/ST4.8盘头自攻自钻钉.dwg",
+      "file": "blocks/幕墙/ST4.8盘头自攻自钻钉.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -4.75,
+        -38,
+        4.75,
+        8.05
+      ],
+      "modelspace": 844,
+      "entities": 844,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/ST4.8盘头自攻钉.dwg",
+      "file": "blocks/幕墙/ST4.8盘头自攻钉.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -4.75,
+        -38,
+        4.75,
+        8.05
+      ],
+      "modelspace": 1059,
+      "entities": 1059,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/ST5.5六角头自攻自钻钉.dwg",
+      "file": "blocks/幕墙/ST5.5六角头自攻自钻钉.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -5.933,
+        -63.2,
+        5.933,
+        7.1911
+      ],
+      "modelspace": 1262,
+      "entities": 1262,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/ST5.5盘头自攻钉.dwg",
+      "file": "blocks/幕墙/ST5.5盘头自攻钉.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -5.5,
+        -38,
+        5.5,
+        8.5
+      ],
+      "modelspace": 886,
+      "entities": 886,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/ST6.3六角头自攻自钻钉.dwg",
+      "file": "blocks/幕墙/ST6.3六角头自攻自钻钉.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -6.8009,
+        -63.2,
+        6.801,
+        8.243
+      ],
+      "modelspace": 1244,
+      "entities": 1244,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/幕墙/膨胀螺栓.dwg",
+      "file": "blocks/幕墙/膨胀螺栓.json",
+      "version": "2007",
+      "units": 0,
+      "bbox": [
+        -17.5,
+        -99.6866,
+        17.5,
+        23
+      ],
+      "modelspace": 498,
+      "entities": 498,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/NORTH.dwg",
+      "file": "blocks/指北针/NORTH.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -750,
+        -750,
+        750,
+        750
+      ],
+      "modelspace": 3,
+      "entities": 3,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/NORTH0.dwg",
+      "file": "blocks/指北针/NORTH0.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -2000,
+        -2000,
+        2000,
+        3454.2253
+      ],
+      "modelspace": 7,
+      "entities": 7,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/NORTH1.dwg",
+      "file": "blocks/指北针/NORTH1.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -2000,
+        -2000,
+        2000,
+        2000
+      ],
+      "modelspace": 9,
+      "entities": 9,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/NORTH10.dwg",
+      "file": "blocks/指北针/NORTH10.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -2000,
+        -2000,
+        2000,
+        2000
+      ],
+      "modelspace": 3,
+      "entities": 3,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/NORTH2.dwg",
+      "file": "blocks/指北针/NORTH2.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -1186.5741,
+        -1100.7977,
+        1035.0357,
+        2902.103
+      ],
+      "modelspace": 8,
+      "entities": 8,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/NORTH3.dwg",
+      "file": "blocks/指北针/NORTH3.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -333.3333,
+        -1666.6667,
+        250,
+        2333.3333
+      ],
+      "modelspace": 6,
+      "entities": 6,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/NORTH4.dwg",
+      "file": "blocks/指北针/NORTH4.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -2000,
+        -2000,
+        2000,
+        2000
+      ],
+      "modelspace": 8,
+      "entities": 8,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/NORTH5.dwg",
+      "file": "blocks/指北针/NORTH5.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -2000,
+        -2000,
+        2000,
+        2000
+      ],
+      "modelspace": 9,
+      "entities": 68,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/NORTH6.dwg",
+      "file": "blocks/指北针/NORTH6.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -1999.9532,
+        -2642.1129,
+        1999.9532,
+        1999.9532
+      ],
+      "modelspace": 16,
+      "entities": 107,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/NORTH7.dwg",
+      "file": "blocks/指北针/NORTH7.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -2000,
+        -2000,
+        2000,
+        2000
+      ],
+      "modelspace": 11,
+      "entities": 11,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/NORTH8.dwg",
+      "file": "blocks/指北针/NORTH8.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -2000,
+        -2000,
+        2000,
+        2000
+      ],
+      "modelspace": 18,
+      "entities": 18,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/NORTH9.dwg",
+      "file": "blocks/指北针/NORTH9.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -2000,
+        -2000,
+        2000,
+        2000
+      ],
+      "modelspace": 14,
+      "entities": 14,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/SZ.DWG",
+      "file": "blocks/指北针/SZ.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        134703382.0187,
+        39954896.9382,
+        134728534.9323,
+        39987741.0178
+      ],
+      "modelspace": 18,
+      "entities": 21,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/SZ2.DWG",
+      "file": "blocks/指北针/SZ2.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        134691681.5764,
+        39941692.7893,
+        134735243.1316,
+        39987741.0178
+      ],
+      "modelspace": 28,
+      "entities": 31,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/ZB.dwg",
+      "file": "blocks/指北针/ZB.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -1500,
+        -3000,
+        1500,
+        1087.0366
+      ],
+      "modelspace": 8,
+      "entities": 120,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/ZB1.dwg",
+      "file": "blocks/指北针/ZB1.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -1630.1979,
+        -3325.731,
+        1695.8572,
+        0.3241
+      ],
+      "modelspace": 158,
+      "entities": 158,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/ZB2.dwg",
+      "file": "blocks/指北针/ZB2.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -1501.8068,
+        -2999.9989,
+        1498.1932,
+        566.6336
+      ],
+      "modelspace": 32,
+      "entities": 32,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/指北针/ZB3.dwg",
+      "file": "blocks/指北针/ZB3.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": null,
+      "modelspace": 1,
+      "entities": 23,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/符号/90度阳角.dwg",
+      "file": "blocks/符号/90度阳角.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -207.1677,
+        -500,
+        207.1677,
+        251.778
+      ],
+      "modelspace": 4,
+      "entities": 13,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/符号/双截断线1.dwg",
+      "file": "blocks/符号/双截断线1.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -172.0255,
+        -8.1729,
+        171.7279,
+        8.8274
+      ],
+      "modelspace": 3,
+      "entities": 5,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/符号/平面索引块.dwg",
+      "file": "blocks/符号/平面索引块.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -71.7911,
+        0.9754,
+        -0.9754,
+        45.8329
+      ],
+      "modelspace": 5,
+      "entities": 20,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/符号/瓷砖起铺点.dwg",
+      "file": "blocks/符号/瓷砖起铺点.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -6,
+        -0.2586,
+        6.7071,
+        7.0345
+      ],
+      "modelspace": 23,
+      "entities": 23,
+      "blocks": 0,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/符号/符号图号指示.dwg",
+      "file": "blocks/符号/符号图号指示.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -4,
+        -5.6569,
+        5.6569,
+        5.6569
+      ],
+      "modelspace": 7,
+      "entities": 13,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/符号/符号节点.dwg",
+      "file": "blocks/符号/符号节点.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -30.6917,
+        -6.3834,
+        7.4752,
+        6.3834
+      ],
+      "modelspace": 9,
+      "entities": 15,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/符号/箭头.dwg",
+      "file": "blocks/符号/箭头.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -1.25,
+        -0.375,
+        0,
+        0.375
+      ],
+      "modelspace": 12,
+      "entities": 49,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/符号/给排水符号.dwg",
+      "file": "blocks/符号/给排水符号.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -55,
+        -75,
+        290,
+        75
+      ],
+      "modelspace": 4,
+      "entities": 55,
+      "blocks": 5,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/符号/铺装启始符.dwg",
+      "file": "blocks/符号/铺装启始符.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -5,
+        -5,
+        5,
+        5
+      ],
+      "modelspace": 10,
+      "entities": 14,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/符号/铺贴起始点.dwg",
+      "file": "blocks/符号/铺贴起始点.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -290,
+        -12.5,
+        325.3553,
+        340
+      ],
+      "modelspace": 2,
+      "entities": 33,
+      "blocks": 3,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/线条造型2016a.dwg",
+      "file": "blocks/线条造型2016a.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        81098.7835,
+        52605.283,
+        92988.0776,
+        57555.9194
+      ],
+      "modelspace": 2288,
+      "entities": 2290,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/设备/冰箱.dwg",
+      "file": "blocks/设备/冰箱.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -50.1391,
+        0,
+        852.5072,
+        771.2873
+      ],
+      "modelspace": 22,
+      "entities": 84,
+      "blocks": 4,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/设备/双排T5.dwg",
+      "file": "blocks/设备/双排T5.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -33.0195,
+        0,
+        33.0195,
+        37.306
+      ],
+      "modelspace": 2,
+      "entities": 18,
+      "blocks": 3,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/设备/平立面灶.dwg",
+      "file": "blocks/设备/平立面灶.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -350,
+        -15,
+        350,
+        444.4938
+      ],
+      "modelspace": 168,
+      "entities": 211,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/设备/液晶电视机1.dwg",
+      "file": "blocks/设备/液晶电视机1.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -608,
+        -237.9419,
+        655.2901,
+        750.3383
+      ],
+      "modelspace": 876,
+      "entities": 877,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/设备/灯具all.dwg",
+      "file": "blocks/设备/灯具all.json",
+      "version": "2007",
+      "units": 4,
+      "bbox": [
+        -601.2636,
+        -400,
+        673.9728,
+        400
+      ],
+      "modelspace": 840,
+      "entities": 841,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "blocks/设备/灯具all2.dwg",
+      "file": "blocks/设备/灯具all2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -600,
+        -518.516,
+        600,
+        518.516
+      ],
+      "modelspace": 26,
+      "entities": 269,
+      "blocks": 28,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/设备/空调风口1.dwg",
+      "file": "blocks/设备/空调风口1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        2288.0441,
+        1255.855,
+        4042.0129,
+        1992.3923
+      ],
+      "modelspace": 1,
+      "entities": 75,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/设备/空调风口2.dwg",
+      "file": "blocks/设备/空调风口2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -473.6329,
+        1000,
+        262.9044
+      ],
+      "modelspace": 37,
+      "entities": 38,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/设备/空调风口3.dwg",
+      "file": "blocks/设备/空调风口3.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -215.6163,
+        -90,
+        0,
+        90
+      ],
+      "modelspace": 4,
+      "entities": 93,
+      "blocks": 3,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/设备/空调风口4.dwg",
+      "file": "blocks/设备/空调风口4.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        0,
+        -250.3002,
+        900,
+        0
+      ],
+      "modelspace": 29,
+      "entities": 30,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/设备/钢琴.dwg",
+      "file": "blocks/设备/钢琴.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -787.6814,
+        -431.1133,
+        787.4092,
+        1905
+      ],
+      "modelspace": 91,
+      "entities": 145,
+      "blocks": 5,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/设备/面板开关1.dwg",
+      "file": "blocks/设备/面板开关1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -43,
+        0,
+        43,
+        86
+      ],
+      "modelspace": 18,
+      "entities": 20,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/设备/面板开关2.dwg",
+      "file": "blocks/设备/面板开关2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -171.6506,
+        -142.4038,
+        171.6506,
+        142.4038
+      ],
+      "modelspace": 9,
+      "entities": 63,
+      "blocks": 10,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/设备/面板插座1.dwg",
+      "file": "blocks/设备/面板插座1.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -43,
+        0,
+        43,
+        86
+      ],
+      "modelspace": 27,
+      "entities": 29,
+      "blocks": 1,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/设备/面板插座2.dwg",
+      "file": "blocks/设备/面板插座2.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -100,
+        -15,
+        135.3553,
+        250
+      ],
+      "modelspace": 8,
+      "entities": 51,
+      "blocks": 9,
+      "readerCode": 64
+    },
+    {
+      "source": "blocks/设备/饮水机.dwg",
+      "file": "blocks/设备/饮水机.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -162.5,
+        0,
+        162.5,
+        1400
+      ],
+      "modelspace": 337,
+      "entities": 340,
+      "blocks": 2,
+      "readerCode": 64
+    },
+    {
+      "source": "library/landscape.dwg",
+      "file": "library/landscape.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        1579.9071,
+        -147.6902,
+        6322.3259,
+        2124.7481
+      ],
+      "modelspace": 26,
+      "entities": 88,
+      "blocks": 11,
+      "readerCode": 4
+    },
+    {
+      "source": "library/yqcompos.dwg",
+      "file": "library/yqcompos.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        1129.9864,
+        -3220.7193,
+        7832.9876,
+        2339.6406
+      ],
+      "modelspace": 153,
+      "entities": 1438,
+      "blocks": 64,
+      "readerCode": 4
+    },
+    {
+      "source": "library/yqcompos04.dwg",
+      "file": "library/yqcompos04.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        1314.5587,
+        -3348.3603,
+        7986.6912,
+        2381.1878
+      ],
+      "modelspace": 153,
+      "entities": 1380,
+      "blocks": 62,
+      "readerCode": 4
+    },
+    {
+      "source": "library/yqelevs.dwg",
+      "file": "library/yqelevs.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        1213.6897,
+        764.7681,
+        1507.0777,
+        815.2224
+      ],
+      "modelspace": 33,
+      "entities": 101,
+      "blocks": 13,
+      "readerCode": 4
+    },
+    {
+      "source": "library/yqfurnis.dwg",
+      "file": "library/yqfurnis.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -4812901.9124,
+        -1285061.5558,
+        1810824.5806,
+        4666817.2747
+      ],
+      "modelspace": 134,
+      "entities": 10533,
+      "blocks": 110,
+      "readerCode": 4
+    },
+    {
+      "source": "library/yqtick.dwg",
+      "file": "library/yqtick.json",
+      "version": "R12",
+      "units": 4,
+      "bbox": [
+        -1,
+        -0.5303,
+        1,
+        0.5303
+      ],
+      "modelspace": 2,
+      "entities": 2,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "library/yqtrees.dwg",
+      "file": "library/yqtrees.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        2364.9667,
+        778.8754,
+        2373.9144,
+        785.0172
+      ],
+      "modelspace": 24,
+      "entities": 809,
+      "blocks": 10,
+      "readerCode": 4
+    },
+    {
+      "source": "user1/symbols.dwg",
+      "file": "user1/symbols.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -68.4011,
+        -390.9795,
+        459.0894,
+        184.4799
+      ],
+      "modelspace": 116,
+      "entities": 397,
+      "blocks": 55,
+      "readerCode": 68
+    },
+    {
+      "source": "user1/symbols04.dwg",
+      "file": "user1/symbols04.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -67.993,
+        -368.368,
+        332.9307,
+        176.6338
+      ],
+      "modelspace": 116,
+      "entities": 353,
+      "blocks": 49,
+      "readerCode": 4
+    },
+    {
+      "source": "user1/tboxes.dwg",
+      "file": "user1/tboxes.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -204.176,
+        -2241.4234,
+        3827.9864,
+        1526.4054
+      ],
+      "modelspace": 113,
+      "entities": 2187,
+      "blocks": 22,
+      "readerCode": 4
+    },
+    {
+      "source": "user2/symbols.dwg",
+      "file": "user2/symbols.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -68.4011,
+        -390.9795,
+        459.0894,
+        184.4799
+      ],
+      "modelspace": 116,
+      "entities": 397,
+      "blocks": 55,
+      "readerCode": 68
+    },
+    {
+      "source": "user2/symbols04.dwg",
+      "file": "user2/symbols04.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -67.993,
+        -368.368,
+        332.9307,
+        176.6338
+      ],
+      "modelspace": 116,
+      "entities": 353,
+      "blocks": 49,
+      "readerCode": 4
+    },
+    {
+      "source": "user2/tboxes.dwg",
+      "file": "user2/tboxes.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -204.176,
+        -2241.4234,
+        3827.9864,
+        1526.4054
+      ],
+      "modelspace": 113,
+      "entities": 2187,
+      "blocks": 22,
+      "readerCode": 4
+    },
+    {
+      "source": "userCCD/symbols.dwg",
+      "file": "userCCD/symbols.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -68.4011,
+        -390.9795,
+        459.0894,
+        184.4799
+      ],
+      "modelspace": 116,
+      "entities": 397,
+      "blocks": 55,
+      "readerCode": 68
+    },
+    {
+      "source": "userCCD/symbols04.dwg",
+      "file": "userCCD/symbols04.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -67.993,
+        -368.368,
+        332.9307,
+        176.6338
+      ],
+      "modelspace": 116,
+      "entities": 353,
+      "blocks": 49,
+      "readerCode": 4
+    },
+    {
+      "source": "userCCD/tboxes.dwg",
+      "file": "userCCD/tboxes.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -204.176,
+        -2241.4234,
+        3827.9864,
+        1526.4054
+      ],
+      "modelspace": 113,
+      "entities": 2187,
+      "blocks": 22,
+      "readerCode": 4
+    },
+    {
+      "source": "userHBA/symbols.dwg",
+      "file": "userHBA/symbols.json",
+      "version": "2004",
+      "units": 4,
+      "bbox": [
+        -68.4011,
+        -390.9795,
+        459.0894,
+        184.4799
+      ],
+      "modelspace": 116,
+      "entities": 397,
+      "blocks": 55,
+      "readerCode": 68
+    },
+    {
+      "source": "userHBA/symbols04.dwg",
+      "file": "userHBA/symbols04.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -67.993,
+        -368.368,
+        332.9307,
+        176.6338
+      ],
+      "modelspace": 116,
+      "entities": 353,
+      "blocks": 49,
+      "readerCode": 4
+    },
+    {
+      "source": "userHBA/tboxes.dwg",
+      "file": "userHBA/tboxes.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -204.176,
+        -2241.4234,
+        3827.9864,
+        1526.4054
+      ],
+      "modelspace": 113,
+      "entities": 2187,
+      "blocks": 22,
+      "readerCode": 4
+    },
+    {
+      "source": "windows/DRBLK101.dwg",
+      "file": "windows/DRBLK101.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        0,
+        0.5,
+        0.866
+      ],
+      "modelspace": 2,
+      "entities": 2,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DRBLK102.dwg",
+      "file": "windows/DRBLK102.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        0,
+        0.5,
+        0.433
+      ],
+      "modelspace": 4,
+      "entities": 4,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DRBLK201.dwg",
+      "file": "windows/DRBLK201.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        0,
+        0,
+        0.866
+      ],
+      "modelspace": 1,
+      "entities": 1,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DRBLK202.dwg",
+      "file": "windows/DRBLK202.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        0,
+        0.5,
+        0.433
+      ],
+      "modelspace": 2,
+      "entities": 2,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DRBLK20X.dwg",
+      "file": "windows/DRBLK20X.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.433,
+        0.5,
+        0.433
+      ],
+      "modelspace": 2,
+      "entities": 2,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_CDR1.dwg",
+      "file": "windows/DR_CDR1.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.03,
+        0.5,
+        0.48
+      ],
+      "modelspace": 15,
+      "entities": 15,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_CDR2.dwg",
+      "file": "windows/DR_CDR2.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.02,
+        0.5,
+        0.2575
+      ],
+      "modelspace": 20,
+      "entities": 20,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_CSDR1.dwg",
+      "file": "windows/DR_CSDR1.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.437,
+        0.5,
+        0.463
+      ],
+      "modelspace": 8,
+      "entities": 8,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_CSDR2.dwg",
+      "file": "windows/DR_CSDR2.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.244,
+        0.5,
+        0.244
+      ],
+      "modelspace": 10,
+      "entities": 10,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_D01.dwg",
+      "file": "windows/DR_D01.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.03,
+        0.5,
+        0.93
+      ],
+      "modelspace": 16,
+      "entities": 16,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_D02.dwg",
+      "file": "windows/DR_D02.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.02,
+        0.5,
+        0.495
+      ],
+      "modelspace": 20,
+      "entities": 20,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_D03.dwg",
+      "file": "windows/DR_D03.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.0137,
+        0.5,
+        0.3087
+      ],
+      "modelspace": 33,
+      "entities": 33,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_D04.dwg",
+      "file": "windows/DR_D04.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.0103,
+        0.5,
+        0.2316
+      ],
+      "modelspace": 41,
+      "entities": 41,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_D06.dwg",
+      "file": "windows/DR_D06.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.0068,
+        0.5,
+        0.1544
+      ],
+      "modelspace": 46,
+      "entities": 46,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_DBS.dwg",
+      "file": "windows/DR_DBS.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.02,
+        0.5,
+        0.641
+      ],
+      "modelspace": 20,
+      "entities": 20,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_SD1.dwg",
+      "file": "windows/DR_SD1.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.8708,
+        0.4891,
+        0.8708
+      ],
+      "modelspace": 6,
+      "entities": 6,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_SD2.dwg",
+      "file": "windows/DR_SD2.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.46,
+        0.5,
+        0.46
+      ],
+      "modelspace": 12,
+      "entities": 12,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_SD3.dwg",
+      "file": "windows/DR_SD3.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.3067,
+        0.5,
+        0.3067
+      ],
+      "modelspace": 18,
+      "entities": 18,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_SD4.dwg",
+      "file": "windows/DR_SD4.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.23,
+        0.5,
+        0.23
+      ],
+      "modelspace": 24,
+      "entities": 24,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_SD6.dwg",
+      "file": "windows/DR_SD6.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.1533,
+        0.5,
+        0.1533
+      ],
+      "modelspace": 36,
+      "entities": 36,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_UKF1.DWG",
+      "file": "windows/DR_UKF1.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.0417,
+        0.5,
+        0.876
+      ],
+      "modelspace": 21,
+      "entities": 21,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_UKF2.DWG",
+      "file": "windows/DR_UKF2.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.0333,
+        0.5,
+        0.5
+      ],
+      "modelspace": 16,
+      "entities": 16,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_UKFBS.dwg",
+      "file": "windows/DR_UKFBS.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.4347,
+        0.5,
+        0.4347
+      ],
+      "modelspace": 34,
+      "entities": 34,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_WDW.DWG",
+      "file": "windows/DR_WDW.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.0111,
+        0.5,
+        0.2598
+      ],
+      "modelspace": 10,
+      "entities": 10,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_XZM.dwg",
+      "file": "windows/DR_XZM.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.4337,
+        0.5,
+        0.4337
+      ],
+      "modelspace": 15,
+      "entities": 15,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/DR_ZRT.dwg",
+      "file": "windows/DR_ZRT.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.2326,
+        0.5,
+        0.2326
+      ],
+      "modelspace": 13,
+      "entities": 24,
+      "blocks": 1,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_00_X1.dwg",
+      "file": "windows/WD_00_X1.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.5,
+        0.5,
+        0.5
+      ],
+      "modelspace": 6,
+      "entities": 6,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_00_X2.dwg",
+      "file": "windows/WD_00_X2.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.7,
+        0.5,
+        0.7
+      ],
+      "modelspace": 10,
+      "entities": 10,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_00_X3.dwg",
+      "file": "windows/WD_00_X3.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.7,
+        0.5,
+        0.7
+      ],
+      "modelspace": 14,
+      "entities": 14,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_00_X4.dwg",
+      "file": "windows/WD_00_X4.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.7,
+        0.5,
+        0.7
+      ],
+      "modelspace": 15,
+      "entities": 15,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_1TLP.dwg",
+      "file": "windows/WD_1TLP.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.4,
+        -0.9,
+        0.6,
+        -0.6
+      ],
+      "modelspace": 5,
+      "entities": 5,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_2LINE.dwg",
+      "file": "windows/WD_2LINE.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.5,
+        0.5,
+        0.5
+      ],
+      "modelspace": 2,
+      "entities": 2,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_2TLP.dwg",
+      "file": "windows/WD_2TLP.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.3,
+        0.5,
+        0.3
+      ],
+      "modelspace": 5,
+      "entities": 5,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_HIGH4.dwg",
+      "file": "windows/WD_HIGH4.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.5,
+        0.5,
+        0.5
+      ],
+      "modelspace": 4,
+      "entities": 4,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_LD1.dwg",
+      "file": "windows/WD_LD1.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.9,
+        0.6,
+        0.5
+      ],
+      "modelspace": 6,
+      "entities": 6,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_LD2.dwg",
+      "file": "windows/WD_LD2.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.5,
+        0.5,
+        0.5
+      ],
+      "modelspace": 15,
+      "entities": 15,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_LD3.dwg",
+      "file": "windows/WD_LD3.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.5,
+        0.5,
+        0.5
+      ],
+      "modelspace": 18,
+      "entities": 18,
+      "blocks": 2,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_LD4.dwg",
+      "file": "windows/WD_LD4.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.5,
+        0.5,
+        0.5
+      ],
+      "modelspace": 12,
+      "entities": 12,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_T1500x500.dwg",
+      "file": "windows/WD_T1500x500.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5667,
+        -0.5,
+        0.5667,
+        3
+      ],
+      "modelspace": 10,
+      "entities": 10,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_T1800x600.dwg",
+      "file": "windows/WD_T1800x600.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5556,
+        -0.5,
+        0.5556,
+        3.5
+      ],
+      "modelspace": 10,
+      "entities": 10,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_TD1500x500.dwg",
+      "file": "windows/WD_TD1500x500.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.5,
+        0.5667,
+        3
+      ],
+      "modelspace": 7,
+      "entities": 7,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_TX1800x500.dwg",
+      "file": "windows/WD_TX1800x500.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5786,
+        -0.5,
+        0.5786,
+        3
+      ],
+      "modelspace": 10,
+      "entities": 10,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_TXD1800x500.dwg",
+      "file": "windows/WD_TXD1800x500.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.5,
+        0.5943,
+        3
+      ],
+      "modelspace": 7,
+      "entities": 7,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_WIN3.dwg",
+      "file": "windows/WD_WIN3.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.5,
+        0.5,
+        0.5
+      ],
+      "modelspace": 3,
+      "entities": 3,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_WIN4.dwg",
+      "file": "windows/WD_WIN4.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.5,
+        0.5,
+        0.5
+      ],
+      "modelspace": 4,
+      "entities": 4,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_dtj1.dwg",
+      "file": "windows/WD_dtj1.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.5,
+        -0.5,
+        0.5,
+        -0.5
+      ],
+      "modelspace": 1,
+      "entities": 1,
+      "blocks": 0,
+      "readerCode": null
+    },
+    {
+      "source": "windows/WD_dtj2.dwg",
+      "file": "windows/WD_dtj2.json",
+      "version": "R14",
+      "units": 0,
+      "bbox": [
+        -0.6,
+        -0.9,
+        0.6,
+        -0.6
+      ],
+      "modelspace": 5,
+      "entities": 5,
+      "blocks": 0,
+      "readerCode": null
+    }
+  ],
+  "failed": [],
+  "totals": {
+    "entities": {
+      "LWPOLYLINE": 5505,
+      "LINE": 35082,
+      "HATCH": 349,
+      "INSERT": 1214,
+      "CIRCLE": 962,
+      "ARC": 7170,
+      "ELLIPSE": 617,
+      "SPLINE": 556,
+      "MTEXT": 18,
+      "WIPEOUT": 195,
+      "SOLID": 327,
+      "POINT": 15,
+      "TEXT": 3839,
+      "ATTDEF": 1446,
+      "DIMENSION": 1
+    },
+    "unsupported": {},
+    "ignored": {
+      "VIEWPORT": 9,
+      "ATTRIB": 1365
+    },
+    "flaggedInvisible": 14501
+  },
+  "durationMs": 7050
+}

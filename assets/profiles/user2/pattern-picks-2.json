@@ -1,0 +1,1049 @@
+{
+  "source": "user2/patterns2.txt",
+  "data": [
+    {
+      "pattern": "2X2地砖",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": "说明要自己写，按[确定]钮后才能保存"
+    },
+    {
+      "pattern": "L形人行道砖",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "S形人行道砖",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "编织材料",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "编织花纹",
+      "fields": [
+        "0",
+        "0",
+        "200"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "编织金属网",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "玻璃",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "玻璃1",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "玻璃2",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "玻璃影1",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "玻璃影2",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "玻璃砖墙",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "草坪或沼泽",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "窗花1",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "窗花2",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "窗花3",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "窗花4",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "大理石",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "大理石2",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "大理石3",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "大理石4",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "地板1",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "地板2",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "地板3",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "地板4",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "多孔材料",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "鹅卵石",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "防水材料",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "粉刷",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "钢筋混凝土",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "隔热材料01",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "隔热材料02",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "隔热材料03",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "夯实土壤",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "混凝土",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "加气混凝土",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "胶合板",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "胶合板1",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "焦渣矿渣",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "金属",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "矩形格条面板",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "空心砖",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "离散材料",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "立面砖1",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "立面砖2",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "立面砖240",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "立面砖3",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "立面砖4",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "立面砖5",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "砾石铺砌",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "菱形金属网",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "卵石1",
+      "fields": [
+        "0",
+        "0",
+        "200"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "卵石2",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "卵石3",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "毛石",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "毛石2",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "茅草屋面",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "木板",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "木材",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "木材2",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "木地板",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "木地板1",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "木纹",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "木纹1",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "木纹2",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "木纹3",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "木纹4",
+      "fields": [
+        "0",
+        "0",
+        "200"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "木纹5",
+      "fields": [
+        "0",
+        "0",
+        "200"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "木纹6",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "耐火砖",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "片石墙",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "拚花地砖01",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "拼花地砖02",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "拼花地砖03",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "平铺砖",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "铺地1",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "铺地11",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "铺地12",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "铺地13",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "铺地14",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "铺地15",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "铺地2",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "铺地3",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "铺地4",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "普通砖",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "墙纸1",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "墙纸2",
+      "fields": [
+        "0",
+        "0",
+        "200"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "人字花纹",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "人字形人行道砖",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "砂灰土",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "砂石碎砖",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "十字花纹",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "石板屋面",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "石膏板",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "实木地板",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "饰面砖",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "竖砌石材",
+      "fields": [
+        "0",
+        "0",
+        "200"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "竖砌砖墙",
+      "fields": [
+        "0",
+        "0",
+        "200"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "水",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "松散材料",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "塑料",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "天然石材",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "条板栏杆",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "铁艺花格网",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "土壤",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "弯瓦屋面",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "网状材料",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "文化石1",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "文化石2",
+      "fields": [
+        "0",
+        "0",
+        "1000"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "文化石3",
+      "fields": [
+        "0",
+        "0",
+        "500"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "西班牙屋面",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "纤维材料",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "橡胶",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "虚线方格",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "圆形花纹",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "正方形花纹",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    }
+  ]
+}

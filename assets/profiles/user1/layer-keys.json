@@ -1,0 +1,16 @@
+{
+  "source": "user1/layerkey.txt",
+  "data": [
+    {
+      "alias": "aaaa",
+      "layer": {
+        "name": "aaaa",
+        "color": 40,
+        "linetype": "HIDDEN",
+        "lineweight": null,
+        "plot": true,
+        "description": "图层说明"
+      }
+    }
+  ]
+}

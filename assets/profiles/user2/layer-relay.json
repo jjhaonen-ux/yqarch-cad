@@ -1,0 +1,49 @@
+{
+  "source": "user2/relay01.txt",
+  "data": [
+    {
+      "from": "aaa",
+      "to": {
+        "name": "01主龙骨",
+        "color": 190,
+        "linetype": "Continuous",
+        "lineweight": null,
+        "plot": true,
+        "description": "主龙骨"
+      }
+    },
+    {
+      "from": "bbb",
+      "to": {
+        "name": "02副龙骨",
+        "color": 134,
+        "linetype": "Continuous",
+        "lineweight": null,
+        "plot": true,
+        "description": "副龙骨"
+      }
+    },
+    {
+      "from": "ccc",
+      "to": {
+        "name": "05吊件",
+        "color": 6,
+        "linetype": "HIDDEN",
+        "lineweight": 5,
+        "plot": true,
+        "description": "吊件"
+      }
+    },
+    {
+      "from": "ddd",
+      "to": {
+        "name": "06紧固件",
+        "color": 153,
+        "linetype": "Continuous",
+        "lineweight": null,
+        "plot": true,
+        "description": "紧固件"
+      }
+    }
+  ]
+}

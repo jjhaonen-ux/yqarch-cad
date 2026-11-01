@@ -1,0 +1,9520 @@
+{
+  "source": "user2/dict.txt",
+  "data": [
+    {
+      "title": "悟空.整理",
+      "entries": [
+        {
+          "code": null,
+          "zh": "艾佳工作室",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "悟  空",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "词汇整理",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2018-04-15",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "SY引线.家具代号",
+      "entries": [
+        {
+          "code": "SF--",
+          "zh": "单人沙发",
+          "en": "SOFA"
+        },
+        {
+          "code": "LSE--",
+          "zh": "双人沙发",
+          "en": "LOVE SEAT"
+        },
+        {
+          "code": "SF--",
+          "zh": "多人沙发",
+          "en": "SOFA"
+        },
+        {
+          "code": "SE--",
+          "zh": "中小型沙发椅",
+          "en": "SETTEE"
+        },
+        {
+          "code": "AC--",
+          "zh": "扶手椅",
+          "en": "ARMS CHAIR"
+        },
+        {
+          "code": "SC--",
+          "zh": "单背椅",
+          "en": "SIDE CHAIR"
+        },
+        {
+          "code": "DC--",
+          "zh": "餐椅",
+          "en": "DINNING CHAIR"
+        },
+        {
+          "code": "DB--",
+          "zh": "餐桌",
+          "en": "DINNING TABLE"
+        },
+        {
+          "code": "DRC--",
+          "zh": "梳妆椅",
+          "en": "DRESSING CHAIR"
+        },
+        {
+          "code": "LC--",
+          "zh": "躺椅/休闲椅",
+          "en": "LOUNGE CHAIR"
+        },
+        {
+          "code": "BC--",
+          "zh": "吧椅",
+          "en": "BAR CHAIR"
+        },
+        {
+          "code": "DSC--",
+          "zh": "书桌椅",
+          "en": "DESK CHAIR"
+        },
+        {
+          "code": "GC--",
+          "zh": "贵宾椅",
+          "en": "GUEST CHAIR"
+        },
+        {
+          "code": "ACC--",
+          "zh": "座椅",
+          "en": "ACCENT CHAIR"
+        },
+        {
+          "code": "CFC--",
+          "zh": "会议椅",
+          "en": "CONFERENCE CHAIR"
+        },
+        {
+          "code": "CT--",
+          "zh": "茶几",
+          "en": "COFFEE TABLE"
+        },
+        {
+          "code": "ET--",
+          "zh": "角几",
+          "en": "END TABLE"
+        },
+        {
+          "code": "RET--",
+          "zh": "圆几",
+          "en": "ROUND END TABLE"
+        },
+        {
+          "code": "SBT--",
+          "zh": "背几",
+          "en": "SOFA BACK TABLE"
+        },
+        {
+          "code": "CST--",
+          "zh": "条几",
+          "en": "CONSOLE TABLE"
+        },
+        {
+          "code": "CH--",
+          "zh": "衣柜",
+          "en": "CHEST"
+        },
+        {
+          "code": "NS--",
+          "zh": "床头柜",
+          "en": "NIGHT STAND"
+        },
+        {
+          "code": "SCA--",
+          "zh": "边柜",
+          "en": "SIDE CABINET"
+        },
+        {
+          "code": "TCA--",
+          "zh": "电视柜",
+          "en": "TV CABINET"
+        },
+        {
+          "code": "WC--",
+          "zh": "酒柜",
+          "en": "WINE CHEST"
+        },
+        {
+          "code": "DCA--",
+          "zh": "陈列柜",
+          "en": "DISPLAY CABINET"
+        },
+        {
+          "code": "FCA--",
+          "zh": "文件柜",
+          "en": "FILE CABINET"
+        },
+        {
+          "code": "CAB--",
+          "zh": "储物柜",
+          "en": "CABINET"
+        },
+        {
+          "code": "BKC--",
+          "zh": "书柜",
+          "en": "BOOK CASE"
+        },
+        {
+          "code": "LCT--",
+          "zh": "矮柜",
+          "en": "LOW CABINET"
+        },
+        {
+          "code": "BCA--",
+          "zh": "茶水柜/备餐柜",
+          "en": "BUFFET CABINET"
+        },
+        {
+          "code": "CU--",
+          "zh": "碗柜",
+          "en": "CUPBOARD"
+        },
+        {
+          "code": "CB--",
+          "zh": "厨柜",
+          "en": "CABINET"
+        },
+        {
+          "code": "BE--",
+          "zh": "长条凳",
+          "en": "BENCH"
+        },
+        {
+          "code": "BB--",
+          "zh": "床尾凳",
+          "en": "BENCH BED"
+        },
+        {
+          "code": "OT--",
+          "zh": "沙发凳",
+          "en": "OTTOMAN"
+        },
+        {
+          "code": "B--",
+          "zh": "1米2床",
+          "en": "BED"
+        },
+        {
+          "code": "B--",
+          "zh": "1米5床",
+          "en": "BED"
+        },
+        {
+          "code": "B--",
+          "zh": "1米8床",
+          "en": "BED"
+        },
+        {
+          "code": "B--",
+          "zh": "榻榻米",
+          "en": "BED"
+        },
+        {
+          "code": "BDG--",
+          "zh": "床上用品",
+          "en": "BEDCLOTHES"
+        },
+        {
+          "code": "MR--",
+          "zh": "镜子",
+          "en": "MIRROR"
+        },
+        {
+          "code": "SCN--",
+          "zh": "屏风",
+          "en": "SCREEN"
+        },
+        {
+          "code": "FR--",
+          "zh": "镜框",
+          "en": "FRAME"
+        },
+        {
+          "code": "CO--",
+          "zh": "端景台",
+          "en": "CONSOLE"
+        },
+        {
+          "code": "TT--",
+          "zh": "梳妆台",
+          "en": "TOILET TABLE"
+        },
+        {
+          "code": "HA--",
+          "zh": "家电",
+          "en": "Home Applicance"
+        },
+        {
+          "code": "HA--",
+          "zh": "冰箱",
+          "en": "ICEBOX"
+        },
+        {
+          "code": "HA--",
+          "zh": "洗衣机",
+          "en": "WASHER"
+        },
+        {
+          "code": "HA--",
+          "zh": "空调",
+          "en": "AIR CONDITIONER"
+        },
+        {
+          "code": "MI--",
+          "zh": "钢琴",
+          "en": "PIANO"
+        },
+        {
+          "code": "AR--",
+          "zh": "艺术品",
+          "en": "ART"
+        },
+        {
+          "code": "CA--",
+          "zh": "块毯",
+          "en": "BLANKET"
+        },
+        {
+          "code": "CU--",
+          "zh": "窗帘",
+          "en": "CURTAIN"
+        },
+        {
+          "code": "DL--",
+          "zh": "灯具",
+          "en": "LIGHTS"
+        },
+        {
+          "code": "FR--",
+          "zh": "家具",
+          "en": "FURNITURE"
+        },
+        {
+          "code": "HW--",
+          "zh": "五金",
+          "en": "HARDWARE"
+        },
+        {
+          "code": "KIT--",
+          "zh": "厨房设备",
+          "en": "KITCHEN"
+        },
+        {
+          "code": "PLT--",
+          "zh": "植物",
+          "en": "PLANT"
+        },
+        {
+          "code": "SSP--",
+          "zh": "开关插座面板",
+          "en": null
+        },
+        {
+          "code": "SW--",
+          "zh": "洁具",
+          "en": "SANITARY"
+        },
+        {
+          "code": "P--",
+          "zh": "水龙头",
+          "en": "STOPCOCK"
+        },
+        {
+          "code": "P--",
+          "zh": "纸巾盒",
+          "en": "TISSUE BOX"
+        },
+        {
+          "code": "P--",
+          "zh": "座厕",
+          "en": "TOILET"
+        },
+        {
+          "code": "P--",
+          "zh": "洗手盆",
+          "en": "LAVABO"
+        },
+        {
+          "code": "P--",
+          "zh": "淋浴花洒",
+          "en": "SPRINKLER"
+        },
+        {
+          "code": "P--",
+          "zh": "浴巾钩",
+          "en": "BATH TOWEL HOOK"
+        },
+        {
+          "code": "P--",
+          "zh": "剃须镜",
+          "en": "SHAVING MIRROR"
+        }
+      ]
+    },
+    {
+      "title": "SY引线.专用主材",
+      "entries": [
+        {
+          "code": null,
+          "zh": "AL-01",
+          "en": "铝板天花"
+        },
+        {
+          "code": null,
+          "zh": "AL-02",
+          "en": "铝扣板天花"
+        },
+        {
+          "code": null,
+          "zh": "AL-03",
+          "en": "铝塑板"
+        },
+        {
+          "code": null,
+          "zh": "AL-04",
+          "en": "铝格栅"
+        },
+        {
+          "code": "CA-01",
+          "zh": "方块地毯",
+          "en": "CARPT"
+        },
+        {
+          "code": "CA-02",
+          "zh": "纯毛地毯",
+          "en": "CARPT"
+        },
+        {
+          "code": "CA-03",
+          "zh": "真丝地毯",
+          "en": "CARPT"
+        },
+        {
+          "code": "CA-04",
+          "zh": "混纺地毯",
+          "en": "CARPT"
+        },
+        {
+          "code": "CA-05",
+          "zh": "化纤地毯",
+          "en": "CARPT"
+        },
+        {
+          "code": "CA-06",
+          "zh": "塑料地毯",
+          "en": "CARPT"
+        },
+        {
+          "code": "CA-07",
+          "zh": "草编地毯",
+          "en": "CARPT"
+        },
+        {
+          "code": null,
+          "zh": "CU-01",
+          "en": "布艺窗帘"
+        },
+        {
+          "code": null,
+          "zh": "CU-02",
+          "en": "纱帘"
+        },
+        {
+          "code": null,
+          "zh": "CU-03",
+          "en": "卷帘"
+        },
+        {
+          "code": null,
+          "zh": "CU-04",
+          "en": "折叠帘"
+        },
+        {
+          "code": null,
+          "zh": "CU-05",
+          "en": "百叶帘"
+        },
+        {
+          "code": null,
+          "zh": "CU-06",
+          "en": "金属砂帘"
+        },
+        {
+          "code": null,
+          "zh": "CU-07",
+          "en": "电动卷帘"
+        },
+        {
+          "code": null,
+          "zh": "CU-08",
+          "en": "遮光卷帘"
+        },
+        {
+          "code": null,
+          "zh": "CU-09",
+          "en": "布幔"
+        },
+        {
+          "code": null,
+          "zh": "CU-10",
+          "en": "扪布"
+        },
+        {
+          "code": null,
+          "zh": "CU-11",
+          "en": "扪皮"
+        },
+        {
+          "code": "FL-01",
+          "zh": "实木地板",
+          "en": "900*122*18"
+        },
+        {
+          "code": "FL-02",
+          "zh": "实木地板",
+          "en": "750*90*18"
+        },
+        {
+          "code": "FL-03",
+          "zh": "实木地板",
+          "en": "600*90*18"
+        },
+        {
+          "code": "FL-04",
+          "zh": "强化地板",
+          "en": "1250*168*12,别墅专用"
+        },
+        {
+          "code": "FL-05",
+          "zh": "强化地板",
+          "en": "812*132*12,别墅专用"
+        },
+        {
+          "code": "FL-06",
+          "zh": "实木复合地板",
+          "en": "1200*150*15"
+        },
+        {
+          "code": "FL-07",
+          "zh": "实木复合地板",
+          "en": "800*200*15"
+        },
+        {
+          "code": "FL-08",
+          "zh": "实木复合地板",
+          "en": "1802*150*15"
+        },
+        {
+          "code": "FL-09",
+          "zh": "实木复合地板",
+          "en": "1802*303*12"
+        },
+        {
+          "code": "FL-10",
+          "zh": "强化复合地板",
+          "en": "182*1200*12"
+        },
+        {
+          "code": "FL-11",
+          "zh": "强化复合地板",
+          "en": "190*1200*12"
+        },
+        {
+          "code": "FL-12",
+          "zh": "强化复合地板",
+          "en": "200*1200*12"
+        },
+        {
+          "code": null,
+          "zh": "FS-01",
+          "en": "米色人造透光石"
+        },
+        {
+          "code": null,
+          "zh": "FS-02",
+          "en": "米白人造透光石"
+        },
+        {
+          "code": null,
+          "zh": "FS-03",
+          "en": "米黄人造透光石"
+        },
+        {
+          "code": null,
+          "zh": "FS-04",
+          "en": "仿木纹理透光片"
+        },
+        {
+          "code": null,
+          "zh": "FS-05",
+          "en": "米色透光云石"
+        },
+        {
+          "code": null,
+          "zh": "FS-06",
+          "en": "白色有机水晶玻璃"
+        },
+        {
+          "code": null,
+          "zh": "FS-07",
+          "en": "山水透光片"
+        },
+        {
+          "code": null,
+          "zh": "FS-08",
+          "en": "浅绿色透光片"
+        },
+        {
+          "code": null,
+          "zh": "FS-09",
+          "en": "透光片"
+        },
+        {
+          "code": null,
+          "zh": "FS-10",
+          "en": "玻璃钢"
+        },
+        {
+          "code": null,
+          "zh": "GL-01",
+          "en": "12mm钢化玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-02",
+          "en": "15mm夹胶玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-03",
+          "en": "8mm喷漆玻璃（米色）"
+        },
+        {
+          "code": null,
+          "zh": "GL-04",
+          "en": "8mm清玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-05",
+          "en": "夹砂玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-06",
+          "en": "夹砂玻璃（艺术）"
+        },
+        {
+          "code": null,
+          "zh": "GL-07",
+          "en": "5mm喷砂玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-08",
+          "en": "12mm热浴玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-09",
+          "en": "10mm钢化玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-10",
+          "en": "19mm钢化玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-11",
+          "en": "8mm薄荷浅绿聚晶玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-12",
+          "en": "特殊玻璃（金箔）"
+        },
+        {
+          "code": null,
+          "zh": "GL-13",
+          "en": "叠烧玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-14",
+          "en": "冰裂玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-15",
+          "en": "10mm蒙砂玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-16",
+          "en": "8mm红色喷漆玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-17",
+          "en": "茶色夹丝玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-18",
+          "en": "12mm茶色玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-19",
+          "en": "19mm钢化砂玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-20",
+          "en": "10mm黑色烤漆玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-21",
+          "en": "8mm紫色聚晶玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-22",
+          "en": "8mm镜底磨砂水纹玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-23",
+          "en": "5mm镜镜药水砂玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-24",
+          "en": "15mm钢化玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-25",
+          "en": "夹丝玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-26",
+          "en": "黑色玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-27",
+          "en": "有机玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-28",
+          "en": "金箔玻璃"
+        },
+        {
+          "code": null,
+          "zh": "GL-29",
+          "en": "调光玻璃"
+        },
+        {
+          "code": null,
+          "zh": "MF-01",
+          "en": "100mm铜金色画线"
+        },
+        {
+          "code": null,
+          "zh": "MF-02",
+          "en": "金箔线"
+        },
+        {
+          "code": null,
+          "zh": "MF-03",
+          "en": "银箔线"
+        },
+        {
+          "code": null,
+          "zh": "MF-04",
+          "en": "石膏线"
+        },
+        {
+          "code": "MO-01",
+          "zh": "马赛克",
+          "en": "西厨墙面"
+        },
+        {
+          "code": "MO-02",
+          "zh": "石材马赛克",
+          "en": "西厨墙面"
+        },
+        {
+          "code": null,
+          "zh": "MO-03",
+          "en": "兰金马赛克"
+        },
+        {
+          "code": null,
+          "zh": "MO-04",
+          "en": "玻璃马赛克"
+        },
+        {
+          "code": null,
+          "zh": "MO-05",
+          "en": "贝壳马赛克"
+        },
+        {
+          "code": null,
+          "zh": "MO-06",
+          "en": "金属马赛克"
+        },
+        {
+          "code": null,
+          "zh": "MO-07",
+          "en": "艺术马赛克"
+        },
+        {
+          "code": null,
+          "zh": "MR-01",
+          "en": "银镜"
+        },
+        {
+          "code": null,
+          "zh": "MR-02",
+          "en": "金镜"
+        },
+        {
+          "code": "MR-03",
+          "zh": "茶镜",
+          "en": "tawny glasses"
+        },
+        {
+          "code": null,
+          "zh": "MR-04",
+          "en": "灰镜"
+        },
+        {
+          "code": null,
+          "zh": "MR-05",
+          "en": "黑镜"
+        },
+        {
+          "code": null,
+          "zh": "MR-06",
+          "en": "5mm清镜"
+        },
+        {
+          "code": null,
+          "zh": "MR-07",
+          "en": "5mm灰镜"
+        },
+        {
+          "code": null,
+          "zh": "MR-08",
+          "en": "5mm茶镜"
+        },
+        {
+          "code": null,
+          "zh": "MR-09",
+          "en": "5mm绿镜"
+        },
+        {
+          "code": null,
+          "zh": "MR-10",
+          "en": "磨砂镜"
+        },
+        {
+          "code": null,
+          "zh": "MR-11",
+          "en": "玫瑰金镜"
+        },
+        {
+          "code": null,
+          "zh": "MR-12",
+          "en": "黑色快刻镜"
+        },
+        {
+          "code": null,
+          "zh": "MR-13",
+          "en": "银药药水蒙砂"
+        },
+        {
+          "code": null,
+          "zh": "MR-14",
+          "en": "金属遮阳片"
+        },
+        {
+          "code": null,
+          "zh": "MT-01",
+          "en": "拉丝不锈钢"
+        },
+        {
+          "code": null,
+          "zh": "MT-02",
+          "en": "拉丝玫瑰金"
+        },
+        {
+          "code": null,
+          "zh": "MT-03",
+          "en": "镜面不锈钢"
+        },
+        {
+          "code": null,
+          "zh": "MT-04",
+          "en": "3mm铁皮"
+        },
+        {
+          "code": null,
+          "zh": "MT-05",
+          "en": "拉丝古铜"
+        },
+        {
+          "code": null,
+          "zh": "MT-06",
+          "en": "砂面不锈钢"
+        },
+        {
+          "code": null,
+          "zh": "MT-07",
+          "en": "金属丝帘"
+        },
+        {
+          "code": null,
+          "zh": "MT-08",
+          "en": "黑色不锈钢"
+        },
+        {
+          "code": null,
+          "zh": "MT-09",
+          "en": "电镀玫瑰金"
+        },
+        {
+          "code": null,
+          "zh": "MT-10",
+          "en": "钛金古铜"
+        },
+        {
+          "code": null,
+          "zh": "MT-11",
+          "en": "玫瑰金"
+        },
+        {
+          "code": "SF-01",
+          "zh": "木纹防火板",
+          "en": "SPECIAL FINISH"
+        },
+        {
+          "code": "SF-02",
+          "zh": "深色烤漆板",
+          "en": "SPECIAL FINISH"
+        },
+        {
+          "code": null,
+          "zh": "SF-03",
+          "en": "金属复合板"
+        },
+        {
+          "code": null,
+          "zh": "SF-04",
+          "en": "石膏板"
+        },
+        {
+          "code": null,
+          "zh": "SF-05",
+          "en": "矿棉板"
+        },
+        {
+          "code": null,
+          "zh": "SF-06",
+          "en": "防水卷材"
+        },
+        {
+          "code": null,
+          "zh": "SF-07",
+          "en": "贝壳板"
+        },
+        {
+          "code": "SP-01",
+          "zh": "喷漆",
+          "en": "SPRAY PAINT"
+        },
+        {
+          "code": null,
+          "zh": "SP-02",
+          "en": "金箔做旧"
+        },
+        {
+          "code": null,
+          "zh": "SP-03",
+          "en": "银箔做旧"
+        },
+        {
+          "code": null,
+          "zh": "石材工艺",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "光面（抛光面）",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "亚光面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "火烧面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "荔枝面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "龙眼面（剁斧）",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "菠萝面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "仿古面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "蘑菇面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "自然面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "机切面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "拉沟面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "喷砂面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "水冲面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "刷洗面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "翻滚面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "开裂面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "酸洗面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ST-01",
+          "en": "爵士白"
+        },
+        {
+          "code": null,
+          "zh": "ST-02",
+          "en": "雅士白"
+        },
+        {
+          "code": null,
+          "zh": "ST-03",
+          "en": "汉白玉"
+        },
+        {
+          "code": null,
+          "zh": "ST-04",
+          "en": "大花白"
+        },
+        {
+          "code": null,
+          "zh": "ST-05",
+          "en": "山水纹大花白"
+        },
+        {
+          "code": null,
+          "zh": "ST-06",
+          "en": "银河白"
+        },
+        {
+          "code": null,
+          "zh": "ST-07",
+          "en": "女王白"
+        },
+        {
+          "code": null,
+          "zh": "ST-08",
+          "en": "伊利莎白"
+        },
+        {
+          "code": null,
+          "zh": "ST-09",
+          "en": "雪花白"
+        },
+        {
+          "code": null,
+          "zh": "ST-10",
+          "en": "白玫瑰"
+        },
+        {
+          "code": null,
+          "zh": "ST-11",
+          "en": "金碧辉煌"
+        },
+        {
+          "code": null,
+          "zh": "ST-12",
+          "en": "金线米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-13",
+          "en": "金世纪米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-14",
+          "en": "丁香米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-15",
+          "en": "莎安娜米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-16",
+          "en": "罗马米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-17",
+          "en": "劳斯米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-18",
+          "en": "西班牙米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-19",
+          "en": "维也纳金黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-20",
+          "en": "金蝴蝶米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-21",
+          "en": "美姬塔米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-22",
+          "en": "金砂米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-23",
+          "en": "世纪米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-24",
+          "en": "阿曼米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-25",
+          "en": "东亚米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-26",
+          "en": "蒙古黑"
+        },
+        {
+          "code": null,
+          "zh": "ST-27",
+          "en": "济南青"
+        },
+        {
+          "code": null,
+          "zh": "ST-28",
+          "en": "中国黑"
+        },
+        {
+          "code": null,
+          "zh": "ST-29",
+          "en": "丰镇黑"
+        },
+        {
+          "code": null,
+          "zh": "ST-30",
+          "en": "黑金砂"
+        },
+        {
+          "code": null,
+          "zh": "ST-31",
+          "en": "黑金花"
+        },
+        {
+          "code": null,
+          "zh": "ST-32",
+          "en": "黑白根"
+        },
+        {
+          "code": null,
+          "zh": "ST-33",
+          "en": "黑灰网"
+        },
+        {
+          "code": null,
+          "zh": "ST-34",
+          "en": "加拿大黑"
+        },
+        {
+          "code": null,
+          "zh": "ST-35",
+          "en": "法国黑"
+        },
+        {
+          "code": null,
+          "zh": "ST-36",
+          "en": "大花绿"
+        },
+        {
+          "code": null,
+          "zh": "ST-37",
+          "en": "热带雨林绿"
+        },
+        {
+          "code": null,
+          "zh": "ST-38",
+          "en": "芙蓉绿"
+        },
+        {
+          "code": null,
+          "zh": "ST-39",
+          "en": "绿钻"
+        },
+        {
+          "code": null,
+          "zh": "ST-40",
+          "en": "西施红"
+        },
+        {
+          "code": null,
+          "zh": "ST-41",
+          "en": "热带雨林红"
+        },
+        {
+          "code": null,
+          "zh": "ST-42",
+          "en": "香槟红"
+        },
+        {
+          "code": null,
+          "zh": "ST-43",
+          "en": "奶油红"
+        },
+        {
+          "code": null,
+          "zh": "ST-44",
+          "en": "印度红"
+        },
+        {
+          "code": null,
+          "zh": "ST-45",
+          "en": "紫罗红"
+        },
+        {
+          "code": null,
+          "zh": "ST-46",
+          "en": "万寿红"
+        },
+        {
+          "code": null,
+          "zh": "ST-47",
+          "en": "蓝钻"
+        },
+        {
+          "code": null,
+          "zh": "ST-48",
+          "en": "高蛟红"
+        },
+        {
+          "code": null,
+          "zh": "ST-49",
+          "en": "玛瑙红"
+        },
+        {
+          "code": null,
+          "zh": "ST-50",
+          "en": "凯悦红"
+        },
+        {
+          "code": null,
+          "zh": "ST-51",
+          "en": "深啡网"
+        },
+        {
+          "code": null,
+          "zh": "ST-52",
+          "en": "浅啡网"
+        },
+        {
+          "code": null,
+          "zh": "ST-53",
+          "en": "黄金啡网"
+        },
+        {
+          "code": null,
+          "zh": "ST-54",
+          "en": "金彩麻"
+        },
+        {
+          "code": null,
+          "zh": "ST-55",
+          "en": "哥伦比亚啡"
+        },
+        {
+          "code": null,
+          "zh": "ST-56",
+          "en": "超白洞石"
+        },
+        {
+          "code": null,
+          "zh": "ST-57",
+          "en": "米黄洞石"
+        },
+        {
+          "code": null,
+          "zh": "ST-58",
+          "en": "咖啡洞石"
+        },
+        {
+          "code": null,
+          "zh": "ST-59",
+          "en": "黄金洞石"
+        },
+        {
+          "code": null,
+          "zh": "ST-60",
+          "en": "古堡灰"
+        },
+        {
+          "code": null,
+          "zh": "ST-61",
+          "en": "法国灰"
+        },
+        {
+          "code": null,
+          "zh": "ST-62",
+          "en": "意大利灰"
+        },
+        {
+          "code": null,
+          "zh": "ST-63",
+          "en": "波斯海浪灰"
+        },
+        {
+          "code": null,
+          "zh": "ST-64",
+          "en": "柏斯高灰"
+        },
+        {
+          "code": null,
+          "zh": "ST-65",
+          "en": "地中海灰"
+        },
+        {
+          "code": null,
+          "zh": "ST-66",
+          "en": "杭灰"
+        },
+        {
+          "code": null,
+          "zh": "ST-67",
+          "en": "青石板"
+        },
+        {
+          "code": null,
+          "zh": "ST-68",
+          "en": "咖啡金"
+        },
+        {
+          "code": null,
+          "zh": "ST-69",
+          "en": "蒙古黑火烧面"
+        },
+        {
+          "code": null,
+          "zh": "ST-70",
+          "en": "黑金砂火开槽"
+        },
+        {
+          "code": null,
+          "zh": "ST-71",
+          "en": "红砂岩"
+        },
+        {
+          "code": null,
+          "zh": "ST-72",
+          "en": "白麻火烧面"
+        },
+        {
+          "code": null,
+          "zh": "ST-73",
+          "en": "松香玉"
+        },
+        {
+          "code": null,
+          "zh": "ST-74",
+          "en": "蒙古黑开槽"
+        },
+        {
+          "code": null,
+          "zh": "ST-75",
+          "en": "维纳斯白麻"
+        },
+        {
+          "code": null,
+          "zh": "ST-76",
+          "en": "金玛丽"
+        },
+        {
+          "code": null,
+          "zh": "ST-77",
+          "en": "沙漠金"
+        },
+        {
+          "code": null,
+          "zh": "ST-78",
+          "en": "金粉世家"
+        },
+        {
+          "code": null,
+          "zh": "ST-79",
+          "en": "云石马赛克拼花"
+        },
+        {
+          "code": null,
+          "zh": "ST-80",
+          "en": "流星雨"
+        },
+        {
+          "code": null,
+          "zh": "ST-81",
+          "en": "黑伦金"
+        },
+        {
+          "code": null,
+          "zh": "ST-82",
+          "en": "赛金花"
+        },
+        {
+          "code": null,
+          "zh": "ST-83",
+          "en": "黄金天龙"
+        },
+        {
+          "code": null,
+          "zh": "ST-84",
+          "en": "金贝壳（哑光面）"
+        },
+        {
+          "code": null,
+          "zh": "ST-85",
+          "en": "热带雨林棕"
+        },
+        {
+          "code": null,
+          "zh": "ST-86",
+          "en": "黄木纹"
+        },
+        {
+          "code": null,
+          "zh": "ST-87",
+          "en": "西班牙金"
+        },
+        {
+          "code": null,
+          "zh": "ST-88",
+          "en": "世纪伴侣"
+        },
+        {
+          "code": null,
+          "zh": "ST-89",
+          "en": "尼古拉斯"
+        },
+        {
+          "code": null,
+          "zh": "ST-90",
+          "en": "罗莎绿"
+        },
+        {
+          "code": null,
+          "zh": "ST-91",
+          "en": "金钱花"
+        },
+        {
+          "code": null,
+          "zh": "ST-92",
+          "en": "香格里拉黑"
+        },
+        {
+          "code": null,
+          "zh": "ST-93",
+          "en": "金贝壳（自然面）"
+        },
+        {
+          "code": null,
+          "zh": "ST-94",
+          "en": "雅典灰"
+        },
+        {
+          "code": null,
+          "zh": "ST-95",
+          "en": "七彩玉石"
+        },
+        {
+          "code": null,
+          "zh": "ST-96",
+          "en": "红孔石"
+        },
+        {
+          "code": null,
+          "zh": "ST-97",
+          "en": "郁金香云石"
+        },
+        {
+          "code": null,
+          "zh": "ST-98",
+          "en": "金丝白玉"
+        },
+        {
+          "code": null,
+          "zh": "ST-99",
+          "en": "汉白玉"
+        },
+        {
+          "code": null,
+          "zh": "ST-100",
+          "en": "挪威玉"
+        },
+        {
+          "code": null,
+          "zh": "ST-101",
+          "en": "巴比伦白玉"
+        },
+        {
+          "code": null,
+          "zh": "ST-102",
+          "en": "麻石斧剁面"
+        },
+        {
+          "code": null,
+          "zh": "ST-103",
+          "en": "藏檀香木纹石"
+        },
+        {
+          "code": null,
+          "zh": "ST-104",
+          "en": "透光玉石"
+        },
+        {
+          "code": null,
+          "zh": "ST-105",
+          "en": "意大利木纹石"
+        },
+        {
+          "code": null,
+          "zh": "ST-106",
+          "en": "意大利木纹石仿古面"
+        },
+        {
+          "code": null,
+          "zh": "ST-107",
+          "en": "木纹黑"
+        },
+        {
+          "code": null,
+          "zh": "ST-108",
+          "en": "金网纹"
+        },
+        {
+          "code": null,
+          "zh": "ST-109",
+          "en": "灰麻花岗岩（光面)"
+        },
+        {
+          "code": null,
+          "zh": "ST-110",
+          "en": "灰麻花岗岩（毛面)"
+        },
+        {
+          "code": null,
+          "zh": "ST-111",
+          "en": "木纹黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-112",
+          "en": "金丝米黄"
+        },
+        {
+          "code": null,
+          "zh": "ST-113",
+          "en": "金檀木纹"
+        },
+        {
+          "code": null,
+          "zh": "ST-114",
+          "en": "山纹大理石"
+        },
+        {
+          "code": null,
+          "zh": "WD-01",
+          "en": "赤杨木"
+        },
+        {
+          "code": null,
+          "zh": "WD-02",
+          "en": "枫木"
+        },
+        {
+          "code": null,
+          "zh": "WD-03",
+          "en": "核桃木"
+        },
+        {
+          "code": null,
+          "zh": "WD-04",
+          "en": "酸枝木"
+        },
+        {
+          "code": null,
+          "zh": "WD-05",
+          "en": "胡桃木"
+        },
+        {
+          "code": null,
+          "zh": "WD-06",
+          "en": "白橡木"
+        },
+        {
+          "code": null,
+          "zh": "WD-07",
+          "en": "莎比利"
+        },
+        {
+          "code": null,
+          "zh": "WD-08",
+          "en": "桦木"
+        },
+        {
+          "code": null,
+          "zh": "WD-09",
+          "en": "麦哥利"
+        },
+        {
+          "code": null,
+          "zh": "WD-10",
+          "en": "榉木"
+        },
+        {
+          "code": null,
+          "zh": "WD-11",
+          "en": "山毛榉木"
+        },
+        {
+          "code": null,
+          "zh": "WD-12",
+          "en": "杉木"
+        },
+        {
+          "code": null,
+          "zh": "WD-13",
+          "en": "松木"
+        },
+        {
+          "code": null,
+          "zh": "WD-14",
+          "en": "梧桐木"
+        },
+        {
+          "code": null,
+          "zh": "WD-15",
+          "en": "相思木"
+        },
+        {
+          "code": null,
+          "zh": "WD-16",
+          "en": "橡木"
+        },
+        {
+          "code": null,
+          "zh": "WD-17",
+          "en": "泰柚"
+        },
+        {
+          "code": null,
+          "zh": "WD-18",
+          "en": "黑胡桃木"
+        },
+        {
+          "code": null,
+          "zh": "WD-19",
+          "en": "水曲柳"
+        },
+        {
+          "code": null,
+          "zh": "WD-20",
+          "en": "红橡木"
+        },
+        {
+          "code": null,
+          "zh": "WD-21",
+          "en": "樱桃木"
+        },
+        {
+          "code": null,
+          "zh": "WD-22",
+          "en": "柚木"
+        },
+        {
+          "code": null,
+          "zh": "WD-23",
+          "en": "乌斑马"
+        },
+        {
+          "code": null,
+          "zh": "WD-24",
+          "en": "树榴木"
+        },
+        {
+          "code": null,
+          "zh": "WD-25",
+          "en": "花梨木"
+        },
+        {
+          "code": null,
+          "zh": "WD-26",
+          "en": "黑檀"
+        },
+        {
+          "code": null,
+          "zh": "WD-27",
+          "en": "红檀木"
+        },
+        {
+          "code": null,
+          "zh": "WD-28",
+          "en": "影木"
+        },
+        {
+          "code": null,
+          "zh": "WD-29",
+          "en": "菠萝格木"
+        },
+        {
+          "code": null,
+          "zh": "WD-30",
+          "en": "枫木雀眼"
+        },
+        {
+          "code": null,
+          "zh": "WD-31",
+          "en": "灰影木"
+        },
+        {
+          "code": null,
+          "zh": "WP-01",
+          "en": "墙纸(选样)"
+        },
+        {
+          "code": null,
+          "zh": "WP-02",
+          "en": "墙纸(选样)"
+        },
+        {
+          "code": null,
+          "zh": "WP-03",
+          "en": "墙纸(选样)"
+        },
+        {
+          "code": null,
+          "zh": "WP-04",
+          "en": "墙纸(选样)"
+        },
+        {
+          "code": null,
+          "zh": "WP-05",
+          "en": "墙纸(选样)"
+        },
+        {
+          "code": null,
+          "zh": "WP-06",
+          "en": "墙布(选样)"
+        },
+        {
+          "code": null,
+          "zh": "WP-07",
+          "en": "墙布(选样)"
+        },
+        {
+          "code": null,
+          "zh": "WP-08",
+          "en": "墙布(选样)"
+        },
+        {
+          "code": null,
+          "zh": "WP-09",
+          "en": "墙布(选样)"
+        },
+        {
+          "code": null,
+          "zh": "WP-10",
+          "en": "墙布(选样)"
+        },
+        {
+          "code": "TL-01",
+          "zh": "抛光砖",
+          "en": "600x600"
+        },
+        {
+          "code": "TL-02",
+          "zh": "抛光砖",
+          "en": "800x800"
+        },
+        {
+          "code": "TL-03",
+          "zh": "抛釉砖",
+          "en": "600x600"
+        },
+        {
+          "code": "TL-04",
+          "zh": "抛釉砖",
+          "en": "800x800"
+        },
+        {
+          "code": "TL-05",
+          "zh": "抛釉砖",
+          "en": "900x900"
+        },
+        {
+          "code": "TL-06",
+          "zh": "抛釉砖",
+          "en": "600x900"
+        },
+        {
+          "code": "TL-07",
+          "zh": "抛釉砖",
+          "en": "600x1200"
+        },
+        {
+          "code": "TL-07",
+          "zh": "墙面砖",
+          "en": "300x450"
+        },
+        {
+          "code": "TL-08",
+          "zh": "墙面砖",
+          "en": "300x600"
+        },
+        {
+          "code": "TL-09",
+          "zh": "墙面砖",
+          "en": "400x800"
+        },
+        {
+          "code": "TL-10",
+          "zh": "仿古砖",
+          "en": "300x300"
+        },
+        {
+          "code": "TL-11",
+          "zh": "仿古砖",
+          "en": "500x500"
+        },
+        {
+          "code": "TL-12",
+          "zh": "仿古砖",
+          "en": "600x600"
+        },
+        {
+          "code": "TL-13",
+          "zh": "仿古砖",
+          "en": "800x800"
+        },
+        {
+          "code": "TL-14",
+          "zh": "防滑砖",
+          "en": "300x300"
+        },
+        {
+          "code": "TL-15",
+          "zh": "通体砖",
+          "en": null
+        },
+        {
+          "code": "TL-16",
+          "zh": "木纹砖",
+          "en": "150x600"
+        },
+        {
+          "code": "TL-17",
+          "zh": "木纹砖",
+          "en": "150x900"
+        },
+        {
+          "code": "TL-18",
+          "zh": "木纹砖",
+          "en": "200x1200"
+        },
+        {
+          "code": "TL-19",
+          "zh": "柔面砖",
+          "en": null
+        },
+        {
+          "code": "PAB-01",
+          "zh": "布艺硬包",
+          "en": "电视机背景墙"
+        },
+        {
+          "code": "PAB-02",
+          "zh": "艺术布艺硬包",
+          "en": "单人床背景"
+        },
+        {
+          "code": null,
+          "zh": "PAB-03",
+          "en": "软包(选样)"
+        },
+        {
+          "code": null,
+          "zh": "PAB-04",
+          "en": "软包(选样)"
+        },
+        {
+          "code": null,
+          "zh": "PAB-05",
+          "en": "硬包(选样)"
+        },
+        {
+          "code": null,
+          "zh": "PAB-06",
+          "en": "硬包(选样)"
+        },
+        {
+          "code": null,
+          "zh": "PL-01",
+          "en": "木纹防火胶板"
+        },
+        {
+          "code": null,
+          "zh": "PL-02",
+          "en": "米色防火胶板"
+        },
+        {
+          "code": null,
+          "zh": "PT-01",
+          "en": "白色乳胶漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-02",
+          "en": "防潮浅米色乳胶漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-03",
+          "en": "肌理漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-04",
+          "en": "深灰色乳胶漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-05",
+          "en": "茶色乳胶漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-06",
+          "en": "红色喷漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-07",
+          "en": "灰色乳胶漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-08",
+          "en": "防潮深色乳胶漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-09",
+          "en": "浅米色乳胶漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-10",
+          "en": "黑色乳胶漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-11",
+          "en": "浅咖色乳胶漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-12",
+          "en": "防水白色乳胶漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-13",
+          "en": "米色肌理乳胶漆"
+        },
+        {
+          "code": null,
+          "zh": "PT-14",
+          "en": "深咖啡色乳胶漆"
+        }
+      ]
+    },
+    {
+      "title": "引线.电工知识",
+      "entries": [
+        {
+          "code": null,
+          "zh": "铺设方式",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "AB-沿或跨梁（屋架）敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "BC-暗敷设在梁内",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "AC-沿或跨柱敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "CLC-暗敷设在柱内",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "WS-沿墙面敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "WC-暗敷设在墙内",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "CE-沿天棚或顶板面敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "CC-暗敷设在屋面或顶板内",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SCE-吊顶内敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FC-地板或地面下敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SC-穿焊接钢管敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "MT-穿电线管敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "PC-穿硬塑料管敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FPC-穿阻燃半硬聚氯乙烯管敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "CT-电缆桥架敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "MR-金属线槽敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "M-用钢索敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "KPC-穿聚氯乙烯塑料波纹电线管敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "CP-穿金属软管敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DB-直接埋设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "TC-电缆沟敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "CE-混凝土排管敷设。",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "B系列归类属于布电线，所以开头用B，电压：300/500V",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "V就是PVC聚氯乙烯，也就是（塑料）",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "L就是铝芯的代码",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "R就是(软)的意思，要做到软，就是增加导体根数",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "BV铜芯聚氯乙烯绝缘电线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "BLV铝芯聚氯乙烯绝缘电线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "BVR铜芯聚氯乙烯绝缘软电线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "BYJ交联聚乙烯绝缘的电线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "YJV铜芯交联聚乙烯绝缘聚氯乙烯护套电力电缆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "以上电线结构：导体+绝缘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "特种电缆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ZR-X 阻燃电缆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "GZR-X 隔氧层阻燃电缆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "敷设在对阻燃有要求的场所，GZR电缆敷设在阻燃要求特别高的场所。",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "WDZR-X 低烟无卤阻燃电缆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "GWDZR-X隔氧层低烟无卤阻燃电缆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "敷设在对低烟无卤和阻燃有要求的场所，GWDZR电缆敷设在要求低烟无卤",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "阻燃性能特别高的场所。",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "NH-X 耐火电缆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "GNH-X隔氧层耐火电缆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "敷设在对耐火有要求的室内、隧道及管道中，",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "GNH电缆除耐火外要求高阻燃的场所。",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "WDNH-X 低烟无卤耐火电缆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "GWDNH-X隔氧层低烟无卤耐火电缆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "敷设在有低烟无卤耐火要求的室内、隧道及管道中，",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "GWDNH电缆除低烟无卤耐火特性要求外，对阻燃性能有更高要求的场所。",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FS-X防水电缆 敷设在地下水位常年较高，对防水有较高要求的地区。",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "H-X 耐寒电缆 敷设在环境温度常年较低，对抗低温有较高要求的地区。",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FYS-X 环保型防白蚁、防鼠电缆 用于白蚁和鼠害严重地区以及有阻燃要求地区的电力电缆、控制电缆。",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电缆的型号由八部分组成：",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "一、用途代码－不标为电力电缆，K为控制缆，P为信号缆；",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "二、绝缘代码－Z油浸纸，X橡胶，V聚氯乙稀，YJ交联聚乙烯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "三、导体材料代码－不标为铜，L为铝；",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "四、内护层代码－Q铅包，L铝包，H橡套，V聚氯乙稀护套",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "五、派生代码－D不滴流，P干绝缘；",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "六、外护层代码－（用数字表示，太多了，懒得写了）",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "七、特殊产品代码－TH湿热带，TA干热带；",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "破折号",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "八、额定电压－单位KV",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "PVC——用阻燃塑料管敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DGL——用电工钢管敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "VXG——用塑制线槽敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "GXG——用金属线槽敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "KRG——用可挠型塑制管敷设",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "设备标注方法",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑦配电线路的标注方法",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "a——b(c×d)e——f",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "其中：",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "a--回路编号",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "b--导线型号",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "c--导线根数",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "d--导线截面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "e--敷设方式及穿管管径",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "f--敷设部位",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "引线.玻璃",
+      "entries": [
+        {
+          "code": null,
+          "zh": "8mm夹丝玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12mm钢化玻璃(磨花)",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "8厘喷砂玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "5mm厚黑镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6mm砂玻",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6mm银镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6mm灰镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6mm银镜车直边",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6mm银镜车10斜边",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6mm清玻璃柜门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6mm钢化清玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6mm金镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6mm茶镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "10mm钢化玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "10mm钢化清玻层板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "10mm双面凹槽化学药水蚀刻",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12mm钢化工艺玻璃表面药水蚀刻云彩图案",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12mm钢化清玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "定制成品淋浴隔断",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黄色烤漆玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "车边银镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢化清玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢化夹胶玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黑色镜面不锈钢条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品镜框线条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢化玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "磨砂玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "喷砂玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "压花玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "夹丝玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "中空玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "夹层玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防弹玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "热弯玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "玻璃砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "玻璃纸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "茶镜磨砂图案",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "玻璃钢浮雕镀古铜色",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "镜钉",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "引线.金属",
+      "entries": [
+        {
+          "code": null,
+          "zh": "薄铁",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黑铁",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "角铁",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "镀锌白铁皮",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "角钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "工字钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "槽钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "方钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "扁铁",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "无缝圆管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "焊管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "薄壁圆管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢筋",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢丝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "桁架",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "铜条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黑钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黑钛",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黑镜钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "镜面不锈钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "镀钛不锈钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "拉丝不锈钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "1.2MM镜面不锈钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "1.2MM厚黑钛哑光面不锈钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "不锈钢条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "镀锌钢板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "门吸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "不锈钢五金干挂石件",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "不锈钢挂衣通",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "门铰",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "导轨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "不锈钢板(防锈处理)",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "不锈钢U型槽",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "40*40角铁",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "铝合金方通索木色",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "不锈钢结构造型",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "铁艺面刷金漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "铁艺木扶手栏杆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "铁艺图案装饰面镀古铜色",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "引线.油漆",
+      "entries": [
+        {
+          "code": null,
+          "zh": "开放漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "开放式油漆（硝基漆 主要用实木）",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "混油",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "清油",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "修色",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "擦色",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "半封闭漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "封闭漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黑色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木饰面油白漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "实木线条油白漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石膏线白色乳胶漆饰面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙面白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "白色乳胶漆饰面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "白色防水乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "9mm阻燃防腐夹板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "9mm石膏板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "10mm埃特板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12mm阻燃夹板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12mm纸面石膏板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "原天花白色乳胶漆饰面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "双层9mm石膏板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "双层9.5mm石膏板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12mm夹板面油白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12mm石膏板面油白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "柜门饰面板油白漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "抽屉饰面板油白漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "双层5厘夹板制圆弧基层面刮腻子刷白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "饰面板油白色漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "波纹板金漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "3mm留缝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "5mm留缝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "5mm凹缝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "10x10凹缝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "20mm凹缝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "5mm阻燃防腐夹板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "5mm实木线收口",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "9mm阻燃防腐夹板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "9mm石膏板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12mm阻燃防腐夹板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "15mm阻燃防腐夹板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "15mm密度板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "18mm阻燃防腐大芯板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "18mm厚细木工板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "20*20mm木龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "大芯板基层部分",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "30*30mm木龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "奥松板油白",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木饰面擦色",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "阻燃防腐木龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "实木线收边",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "双层9.5mm石膏板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "18厘细木工板肋@",
+          "en": "1200mm"
+        },
+        {
+          "code": null,
+          "zh": "双层5mm夹板弧面造型",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木饰面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木饰面油白漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "实木线条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "实木线油白漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木饰面层板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "密拼",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "双层5mm夹板乳胶漆饰面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木龙骨防火防腐处理",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "埃特板防火处理",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "波纹板饰面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "饰面板5mm留缝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "柜内贴波音板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "窗套实木线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "接口板缝填胶贴布缝带",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木基层木皮饰面成品板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "18mm细木工板做弧型龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防腐木地板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12mm密度板雕花索黑色金属漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "实木边框索黑色金属漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "基层防腐处理",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "引线.灯具",
+      "entries": [
+        {
+          "code": null,
+          "zh": "N暖白色（2700 3000 3500）客厅 卧室 病房 酒吧 餐厅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Z正白色（4000 4500）办公室 教室 阅览室 诊室 检验室 车间 仪表装配",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "L冷白色（5000 5700 6500）热加工车间 高照度场所",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "白炽灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "卤钨灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "日光灯 管径38mm(T12) 32mm(T10) 26mm(T8) 16mm(T5) 11mm(T3)",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "节能灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "低压纳灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "高压汞灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "高压纳灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "金卤灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "CDM灯(陶瓷金属卤化物灯)",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "氙气灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "无极灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED球泡灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED筒灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED射灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED灯杯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED天花灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED日光灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED平板灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED蜡烛灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED格栅灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED豆胆灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED柜台灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED吸顶灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED吊灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED壁灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED落地灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED台灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED厨卫灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED应急灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED无影灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED轨道灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED镜前灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED浴霸灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED道路灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED庭院灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED洗墙灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED隧道灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED投光灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED灯带",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED显示屏",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED埋地灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED景观灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED草坪灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED水底灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED喷泉灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED护拦灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED舞台灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED交通灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED汽车灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED点光源",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED模组",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED柔性霓虹灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED工矿灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED泛光灯",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "引线.辅材",
+      "entries": [
+        {
+          "code": null,
+          "zh": "家具板材常用规格：2440*1220mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "常用厚度：3mm、5mm、6mm、9mm、12mm、15mm、16mm、18mm、25mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "阻燃板3mm、4mm、5mm、9mm、12mm、18mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "奥松板3mm  5mm   9mm  12mm   18mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "胶合板2-40mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "密度板30mm，25mm，20mm，18mm，16mm，15mm，12mm，9mm 5mm及3mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "集成材12mm、15mm、17mm、18mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "刨花板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防火板0.8mm、1mm 、1.2mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "PVC板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "铝扣板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "铝塑板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "颗粒板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "多层实木板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "生态板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "免漆板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "纤维板（密度板）",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "硅钙板 6mm、8mm、9mm、10mm、12mm、15mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石膏板 9.5 12 15（mm）非标厚度：8.0 8.5 9.0（mm）",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木工板12mm、15mm、18mm、20mm四种15mm与18mm是较为常用的厚度",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "饰面板0.9mm、1.2mm、1.5mm、1.8mm、2mm、2.7mm、3mm、3.6mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "玻美板3mm、5mm、6mm、8mm、9mm、10mm、12mm、15mm、18mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "矿棉板5mm 10mm 12mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "槽形板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "白铁皮",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "大白粉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "大理石",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "花岗石",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "波打线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "白灰",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "板材",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "壁纸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "扁钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "玻璃钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "玻璃棉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "玻璃纤维",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "不锈钢管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "槽钢 5# 6.3# 6.5# 8# 10# 12#",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "瓷砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地毯5--8mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防水剂",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢板网",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢轨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢化",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢结构",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢筋混凝土",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢丝网",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "硅酸盐水泥",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "花岗岩",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "胶合板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "聚氨酸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "聚苯乙烯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "卷材",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "空心砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "矿棉板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "楞摊瓦",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "冷底子油",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "沥青",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "铝合金",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "面砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "磨砂玻璃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木丝板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "腻子",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "拼花",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "平瓦",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "铺地砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "砌块",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "纤维板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "嵌缝膏",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙纸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "轻钢龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "清漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "三合土",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石膏",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石灰砂浆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石料",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石棉瓦",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石子",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "水泥砂浆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "水泥瓦",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "水泥砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "素水泥",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "塑料",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "瓦垄铁皮",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "外墙面砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "无光漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "型钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "硬木",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "油漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "油毡",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "釉面砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石膏角线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "水泥",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黄沙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "河沙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "灰桶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "红砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "轻质砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石子",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢筋",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "拉结筋",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "植筋胶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "模板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电箱",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "漏电保护器",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "过载保护器",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "单芯电线:10m2 6m2 4m2 2.5m2 1.5",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "红色6分PVC穿线管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "弹簧",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "86型暗盒",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "八角灯头盒",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6分锁扣",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "4分杯梳",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "4分金属蛇皮管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "PVC胶水",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6分铁骑马",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "吊卡",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "吊丝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "管别",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "压线帽",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电工胶布",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "插座",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "开关",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "直接",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "弯头",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "三通",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黄腊管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "底盒",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "插线板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电箱",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "拖线小插座",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "水晶头",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电话线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电视线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "网线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "音响线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "蓝色6分PVC穿线管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "86型暗盒",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6分锁扣",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "PVC胶水",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6分铁骑马",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "吊卡",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "吊丝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "管别",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "锡纸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "D50PVC管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "1寸PPR给水管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6分PPR给水管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "闸阀",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "三角阀软管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "管卡",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "吊卡",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "D110PVC排水管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "D50PVC排水管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "D40PVC排水管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "PVC胶水",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "直接",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "弯头",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "三通",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6转4",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "内弯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "内三通",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "外弯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "大小头",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "堵头",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "锯片",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "丝搭子",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "柔性防水",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黑豹防水",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "陶粒",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "轻钢龙骨50系列",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "吊丝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "组合膨胀",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "大吊",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "主龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "主连接",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "中吊",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "副龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "副连接",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "延边龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "角龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "轻钢龙骨75系列",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "主龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "天地龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "尼龙膨胀钉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "抽芯铆钉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防火涂料",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12mm多层胶合板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "细木工板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "生态板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "指接板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "饰面析",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "板式扣件",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "圆钉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木螺丝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "封边条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "白胶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "万能胶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木线条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "抽屉轨道",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "移门滑轨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "4寸门铰链",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "门吸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "弹簧合页",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "粘结剂",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "界面剂",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "801胶水",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "填缝剂",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "美缝剂",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "底漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "面漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "老粉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "腻子",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "腻子粉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "底涂",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "面涂",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "基膜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "801胶水",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "白胶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "熟胶粉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "排笔",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "板刷",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "砂纸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "滚筒",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "15mm阻燃夹板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "200x150x8钢板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "%%C12*160化学螺栓",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "100*50*5热镀方通",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "120*60*5热镀方通",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "50x50x5热镀锌角钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "40x40x4热镀锌方通",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "50x25x3热镀锌方通",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "300*120*10镀锌钢板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "180*80*8热镀锌角码焊接",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "后切式石材背栓铝合金系统",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "焊接",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "%%C12*100不锈钢螺栓",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "GRG成品天花",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "内部50镀锌角钢架支撑\\",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "胶木",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "铁木",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "实木板  橡胶木265起 水曲柳500起",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "实木集成板  1.7CM 122起 品牌140-200",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "胶合板     3 5 9 12 15 18厘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "饰面板     28起",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "细木工板   工装常用91起 家装常用122起",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "刨花板      国产35起 进口40起",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "密度板{大白板} 78起",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防火板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "三聚氰胺板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防潮板 58元起",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石膏板 18.5元",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "文本.建筑图名",
+      "entries": [
+        {
+          "code": null,
+          "zh": "首层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "二层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "三层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "四层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "五层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "六层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "标准层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "屋面平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地下室平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地下一层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地下二层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ⅰ-Ⅰ剖面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ⅱ-Ⅱ剖面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "1-1剖面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2-2剖面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "3-3剖面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "南立面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "北立面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "东立面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "西立面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "图纸目录",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "建筑设计说明",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "室内外装修材料及做法表",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "总平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "人防地下室平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "架空层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "转换层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "标准层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "屋顶层平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "门窗立面，门窗表",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "厨房卫生间大样",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "汽车坡道大样",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "一号楼梯大样",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "二号楼梯大样",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "三号楼梯大样",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "四号楼梯大样",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "文本.建筑部件",
+      "entries": [
+        {
+          "code": null,
+          "zh": "防火墙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢窗",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地沟",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地坪",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "吊顶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "隔断",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "基础",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "剪力墙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "卷帘门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "玻璃幕墙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "弹簧门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "顶棚",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "勒脚",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "楼板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "楼面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "内墙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "女儿墙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙基",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙角",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙裙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙身",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "圈梁",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "散水",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "山墙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "水沟",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "台阶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "台口",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "踢脚",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "天窗",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "天沟",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "屋架",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "屋面板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "檐沟",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "檐口",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "阳台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "雨蓬",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "雨罩",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "遮阳板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "天花板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "推拉窗",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "推拉门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "外墙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "屋顶",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "文本.装饰图名",
+      "entries": [
+        {
+          "code": null,
+          "zh": "图纸目录",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DRAWING LIST",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "原始结构图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "EXISTING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "平面布置图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LAYOUT PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "家具布置图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FIXTURE & FURNITURE PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "天花布置图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "REFLECTED CEILING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "综合天花图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "COMPREHENSIVE CEILING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "灯具定位图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LIGHTING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "灯具回路图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LIGHTING CIRCUIT PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "插座布置图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SOCKET PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "给排水布置图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "PLUMBING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地坪饰面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FLOOR COVERING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "间墙尺寸图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ARCHITECTURAL INFO. PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "机电平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ELECTRICAL / MECH. PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙身饰面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "WALL FINISH PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "立面索引图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "INDEX PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "立面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ELEVATION",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "大样图",
+          "en": "详图"
+        },
+        {
+          "code": null,
+          "zh": "DETAIL",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "剖面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SECTION",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "门类型列表",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DOOR SCHEDULE",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "门详图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "TYPICAL DOOR DETAIL",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "尺寸/隔断定位图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DIMENSION / PARTITION PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地面材料铺装图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FLOOR FINISHING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙面/地面材料示意图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "WALL/FLOOR FINISHING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "门编号索引图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DOOR SCHEDULE PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "家具平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FURNITURE PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "家具现状平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "EXISTING FURNITURE PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "机电图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "MACHINE PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "强电回路图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "POWER CIRCUIT PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "线槽路由图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "TRUNK ROUTING MAP",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "原有天花平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "EXISTING CEILING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "灯具回路图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LIGHTING CIRCUIT PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "烟感、喷林布置图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FIRE PROTECTION PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "烟感回路图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SMOKER DETECT WIRE DIAGRAM",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "喷淋管路图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SPRINKLER PIPING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "空调管路图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "A/C DUCTING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "空调水管图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "A/C PIPING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "空调回路图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "A/C WIRE DIAGRAM",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "灯具开关回路图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SWITCH CIRCUIT PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "排烟风管图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "EXHAUST DUCTING PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "现状平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "CURRENT CONDITION PLAN",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "配电箱系统图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "MCB BOARD SCHEDULE",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "保安系统平面图",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "SECURITY LAYOUT PLAN",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "文本.房间名称",
+      "entries": [
+        {
+          "code": null,
+          "zh": "客厅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "客厅上空",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "餐厅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "饭厅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电梯厅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "前室",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "门厅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "过厅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "玄关",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "厨房",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "主卧室",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "卧室",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "书房",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "儿童房",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "老人房",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "保姆房",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "健身房",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "客房",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "起居室",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "家庭起居室",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "活动室",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "卫生间",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "化妆间",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "衣帽间",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "保姆间",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "储藏间",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "洗衣房",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "多功能间",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "空中花园",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "花园阳台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "入户花园",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "屋顶花园",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "阳台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "通廊",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "走道",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "走廊",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "文本.平面家具",
+      "entries": [
+        {
+          "code": null,
+          "zh": "房间门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "房门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "液晶电视",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "装饰品",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "隔断",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "隔墙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "百页帘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "窗帘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "陶罐",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "双人床",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "单人床",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "床垫",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "床尾凳",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "会议桌",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "台灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "办公桌",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "艺术品",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "梳妆椅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "梳妆台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "书桌",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "书椅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "窗帘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "坐垫",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "餐桌",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "餐椅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "吧椅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "椅子",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "圆凳",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "办公椅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "沙发",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "休闲椅矮凳",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "茶几",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "圆角几",
+          "en": "边几"
+        },
+        {
+          "code": null,
+          "zh": "落地灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地毯（活动）",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "壁灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "吊灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "艺术吊灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "浴缸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "浴缸龙头",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "喷水花洒",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "洗手盆水龙头",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "洗手盆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "座厕",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "小便斗",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钢琴",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "冰箱",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "吊柜鏡門",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "首饰柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "装饰柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "床头柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "矮柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电视柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "鞋柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "镜柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "吊柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "书柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "衣柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电视柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品鞋柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品衣柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品电视柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "书桌",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品画",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "梳妆台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "洗衣机",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "煤气炉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品书桌",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品梳妆台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品洗手台",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "文本.卫生间",
+      "entries": [
+        {
+          "code": null,
+          "zh": "干手机",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "小便斗",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "座便器",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "挂胡镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "洗手盆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "洗手盆龙头",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "卷纸器",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "肥皂盒",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "刮胡镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "毛巾架",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "垃圾桶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "体重磅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "花洒",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "洗衣机",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品隔断",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品支架",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "不锈钢拉手",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "不锈钢合页",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DN50透气管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "DN75排污管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "柔性防水层",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防水膜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "淋浴玻璃隔断",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "聚合物水泥基防水涂膜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "面盆详见洁具清单",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "10mm钢化玻璃架",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12mm钢化玻璃门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "6厘银镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品镜框线",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "文本.房间物品",
+      "entries": [
+        {
+          "code": null,
+          "zh": "保险箱",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "保险柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "暗藏电箱",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "烫衣板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "衣柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "行李架",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "迷你吧",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "小冰箱",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "热水壶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "矮柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电视机",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电视机柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "台灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电话",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电视柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "写字台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "书桌",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "书桌椅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "休闲椅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "脚踏",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "穿衣镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "艺术品",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电话",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品双人床",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品单人床",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "枕头",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "床头柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "台灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "落地灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "衣柜灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "沙发",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "茶几",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "窗帘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "纱帘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "遮光帘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "座便器",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "垃圾桶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "厕纸架",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "毛巾架",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "晾衣绳",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "层板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "淋浴花洒",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "剃须镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "壁灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "镜子",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "洗手盆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "洗手盆龙头",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电动卷帘",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "文本.地脚线",
+      "entries": [
+        {
+          "code": null,
+          "zh": "白色实木地脚线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "白色烤漆地脚线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "镁铝合金地脚线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "实木地脚线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "PVC踢脚线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "微晶石踢脚线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黑钢踢脚",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木地脚线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "不锈钢地脚线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "瓷砖地脚线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "大理石地脚线",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "文本.天花",
+      "entries": [
+        {
+          "code": null,
+          "zh": "铁锈镜饰面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "600x600mm鋁板吊頂天花",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "原结构楼板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "暗藏灯管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "暗藏T5灯管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "暗藏T5灯管错位搭接",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木龙骨油防火漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "大芯板造型龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "轻钢龙骨石膏板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12厘石膏板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "U50系列轻钢龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "原天花油白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "天花油白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "埃特板油白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石膏板天花油白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石膏板天花面油米白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石膏角线油米白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "夹板造型天花油白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "原顶批灰刷白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石膏角线刷白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "夹板跌级刷白色乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "波纹板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "贴金箔",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "5mm茶镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石膏角线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "射灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "筒灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "%%C8不锈钢钢吊杆@",
+          "en": "1000"
+        }
+      ]
+    },
+    {
+      "title": "文本.详图",
+      "entries": [
+        {
+          "code": null,
+          "zh": "吊顶部分",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "400*300墙砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙面铺贴墙纸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "5公分找平层和贴砖厚度",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "镜子后内藏LED灯带",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.5公分成品水银镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "订购成品门套(油白)",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "300*300墙砖斜贴",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙砖包边",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品淋雨喷头",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "订购成品浴室柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "订购成品洗漱台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "角钢架",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "矿严板基层",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "车边银镜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黑色不锈钢包边",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石材倒圆弧边",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "人造大理石",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "压条收口条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "金属护角",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "9.5mm厚纸面石膏板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "75轻钢隔墙竖龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "玻璃绵填充层",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "抽芯铆钉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "T25快装螺钉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "嵌缝.贴接缝布条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "平压R10半圆实木线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.5公分亚克力",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木龙骨大芯板基层",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "柜门贴0.5公分水银镜磨边",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "订购成品踢脚线（油白）",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "20*30木方油白",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "柜门合页为吸碰式",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "实木线油白",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "大芯板基层",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "柜内奥松板油白",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.5公分水银镜磨边",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "钻石绒布硬包",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "亚克力透光片",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黑色镜面不锈钢条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "土壤层",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "砖砌结构层",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "水泥砂浆层",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "粘结层",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防水层",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "挂网批灰层",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "活动层板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "300*600通体砖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "磨10mm斜边抛光",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "暗藏窗帘盒刷白色墙漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "300*600mm瓷砖铺贴",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "订购成品推拉门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙面贴墙纸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "实木线条索珠光白",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "10*5凹缝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "乳白丙烯(透光)",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "5mm铝合金收边",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防水垫",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "20mm厚海绵",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "排气扇",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "白色铝质烤漆风口",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "轻钢龙骨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "乳胶漆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "定做成品木格花",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "木方结构",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "12厘夹板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "详见图纸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "胶垫",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "玻璃胶固定",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "瓷砖与地面对齐",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防霉硅胶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防水膜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "防撞条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "隔音防撞条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "线条详见",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "LED灯带",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "暗藏灯管",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "暖色LED灯带",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "暗藏灯管错位搭接",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "暗藏灯管T4错位搭接",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "暗藏灯管T5",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "走珠吊灯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "外墙窗户",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "外墙玻璃幕墙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙体结构",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "原建筑墙体",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "原结构楼板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "原结构过梁",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "原结构柱子",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "水泥砂浆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "外墙装饰完成面轮廓线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "不锈钢玻璃门夹",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "空心伸缩胶条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "%%c10散热孔",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "%%c20散热孔",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "预留%%c10线孔",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "参见",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "详见门表",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "拉手选型",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "衣柜底水泥砂浆找平",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "5mm凹缝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "15mm凹缝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "3X3mm V线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "素土夯实",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "复合木地板",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "高级地毯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石材线条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙面石材",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地面石材",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石材踢脚线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石材饰面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "强力建筑胶粘贴",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "留20x10凹槽",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "窗台大理石",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "磨5mm斜边抛光",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "磨10mm斜边抛光",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "见光面抛光处理",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "大理石踏步面镶防滑铜条",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "不锈钢踢脚线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "瓷砖踢脚线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "磨10mm斜边抛光",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黑金砂花岗石门槛",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "铺设鹅卵石",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "巴西紫水晶花岗石门套",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "石面雕刻回字纹",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "文本.成品物",
+      "entries": [
+        {
+          "code": null,
+          "zh": "操作台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "洁具",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "五金",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "沙发选型",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "墙面柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "柜类选型",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "椅子选型",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "办公桌选型",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "床选型",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "梳妆台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "桌子选型",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "艺术品",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "灯饰",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电器",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "接待台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "服务台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "陶罐饰品",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "建筑防火门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "消火栓暗门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "外墙窗户",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "外墙玻璃幕墙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品窗帘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品纱帘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品拉帘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品百页帘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品盆栽",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "消火栓位置",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品垃圾桶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品隔断",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品衣柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品柜子",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品餐桌",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品餐桌椅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品电视柜",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品写字台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "装饰画",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品装饰画(虚线)",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品装饰台",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品镜框线",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品装饰品",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品行李架",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "成品石膏造型",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "冰箱位置",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "升降投影幕(虚线)",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "液晶电视",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "房间门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "卫生间门(外订)",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "淋浴隔断(外订)",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "文本.高度标高",
+      "entries": [
+        {
+          "code": null,
+          "zh": "-0.030",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "-0.020",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "-0.010",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "±0.000",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "FFL",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.000",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.120",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.130",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.150",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.300",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.450",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.600",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.800",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.850",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "0.900",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "1.100",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "1.150",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.100",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.200",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.250",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.300",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.350",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.400",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.450",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.480",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.500",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.550",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.600",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.650",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.700",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.780",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.800",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "2.900",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "3.000",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "3.200",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "5.000",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "地面完成面",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "厨房由专业公司设计制作",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "注：图中标高±0.000相当于绝对标高4.700",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "注：大堂地面以上图的铺贴规则循环铺贴.",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "衣柜底水泥砂浆找平",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "客厅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "强电箱H",
+          "en": "1800"
+        },
+        {
+          "code": null,
+          "zh": "弱电箱H",
+          "en": "500"
+        },
+        {
+          "code": null,
+          "zh": "入户对讲分机H",
+          "en": "1300"
+        },
+        {
+          "code": null,
+          "zh": "门铃H",
+          "en": "1300"
+        },
+        {
+          "code": null,
+          "zh": "插座H",
+          "en": "300"
+        },
+        {
+          "code": null,
+          "zh": "背景墙插座",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电视柜下H",
+          "en": "200-250"
+        },
+        {
+          "code": null,
+          "zh": "电视柜上H",
+          "en": "450-500"
+        },
+        {
+          "code": null,
+          "zh": "电视中H",
+          "en": "1050"
+        },
+        {
+          "code": null,
+          "zh": "卧室",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "双控与插座齐平H",
+          "en": "700-800"
+        },
+        {
+          "code": null,
+          "zh": "空调开关H",
+          "en": "1300"
+        },
+        {
+          "code": null,
+          "zh": "挂机插座H",
+          "en": "1800-2000"
+        },
+        {
+          "code": null,
+          "zh": "电视柜下插座H",
+          "en": "300"
+        },
+        {
+          "code": null,
+          "zh": "电视柜上插座H",
+          "en": "600"
+        },
+        {
+          "code": null,
+          "zh": "再挂电视中央插座H",
+          "en": "1100"
+        },
+        {
+          "code": null,
+          "zh": "电脑桌上插座H",
+          "en": "1100"
+        },
+        {
+          "code": null,
+          "zh": "落地灯插座H",
+          "en": "300"
+        },
+        {
+          "code": null,
+          "zh": "备用插座H",
+          "en": "300"
+        },
+        {
+          "code": null,
+          "zh": "卫生间",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "镜灯H",
+          "en": "1950"
+        },
+        {
+          "code": null,
+          "zh": "插座与开关持平H",
+          "en": "1300"
+        },
+        {
+          "code": null,
+          "zh": "洗衣机插座H",
+          "en": "1300"
+        },
+        {
+          "code": null,
+          "zh": "马桶后插座H",
+          "en": "300"
+        },
+        {
+          "code": null,
+          "zh": "电热水器插座H",
+          "en": "1800-2000"
+        },
+        {
+          "code": null,
+          "zh": "吹风机插座H",
+          "en": "1000"
+        },
+        {
+          "code": null,
+          "zh": "厨房",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "台面插座距地H",
+          "en": "1250-1300一般装四个"
+        },
+        {
+          "code": null,
+          "zh": "抽油烟机欧式插座H",
+          "en": "2150-2200"
+        },
+        {
+          "code": null,
+          "zh": "抽油烟机中式插座H",
+          "en": "2150"
+        },
+        {
+          "code": null,
+          "zh": "燃气热水器插座H",
+          "en": "2300 低H=1800"
+        },
+        {
+          "code": null,
+          "zh": "冰箱插座两侧H",
+          "en": "1300 低插H=500"
+        },
+        {
+          "code": null,
+          "zh": "微波炉插座H",
+          "en": "1600"
+        },
+        {
+          "code": null,
+          "zh": "消毒柜插座H",
+          "en": "500"
+        },
+        {
+          "code": null,
+          "zh": "煤气灶插座H",
+          "en": "500"
+        },
+        {
+          "code": null,
+          "zh": "橱柜灯开关H",
+          "en": "1300"
+        },
+        {
+          "code": null,
+          "zh": "水路水口高度",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "台盆进水口H",
+          "en": "500-550"
+        },
+        {
+          "code": null,
+          "zh": "洗菜盆进水口H",
+          "en": "400-500"
+        },
+        {
+          "code": null,
+          "zh": "拖把池进水口H",
+          "en": "780-800"
+        },
+        {
+          "code": null,
+          "zh": "洗衣机进水口H",
+          "en": "1200"
+        },
+        {
+          "code": null,
+          "zh": "电水器进水口H",
+          "en": "1700"
+        },
+        {
+          "code": null,
+          "zh": "燃气热水器进水口H",
+          "en": "1300"
+        },
+        {
+          "code": null,
+          "zh": "淋浴龙头进水口H",
+          "en": "1100 冷热左右管距150"
+        },
+        {
+          "code": null,
+          "zh": "坐厕进水口H",
+          "en": "200"
+        },
+        {
+          "code": null,
+          "zh": "坐厕排水口H",
+          "en": "300-320离墙"
+        },
+        {
+          "code": null,
+          "zh": "净身器排水口H",
+          "en": "260-300离墙"
+        },
+        {
+          "code": null,
+          "zh": "厨房双联洗涤槽角阀的安装高度为450mm。",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "感应式冲洗阀壁挂式小便器距板面1300mm；",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "淋浴房球阀的安装高度为1050mm；",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "污水池水龙头距板面1000mm；",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "洗脸盆角阀的安装高度为450mm。",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "洗衣机水龙头的安装高度为1100mm。",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "浴盆水龙头的安装高度为630mm；",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "自闭式冲洗阀蹲式大便器距板面1200mm；",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "盥洗槽水龙头距板面1000mm。",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "坐式大便器角阀的安装高度为250mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "空调电源插座高度为2100mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "电话插座高度为台面上150mm",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "请勿打扰+1350 HT",
+          "en": "DND"
+        },
+        {
+          "code": null,
+          "zh": "请勿打扰及门铃按钮+1350 HT",
+          "en": "DOORBELL　＆　DND"
+        },
+        {
+          "code": null,
+          "zh": "门卡节能开关带LED灯+1350 HT",
+          "en": "KEY CARD WITH LED LIGHT"
+        },
+        {
+          "code": null,
+          "zh": "LED 应急灯+300 HT",
+          "en": "LED EMERGENCY LIGHT"
+        },
+        {
+          "code": null,
+          "zh": "应急扬声器藏于天花侧面",
+          "en": "EMERGENCY SPEAKER ON CEILING'S SIDE"
+        },
+        {
+          "code": null,
+          "zh": "保险柜电源插座 （不受节能开关控制）",
+          "en": "SAFE BOX POWER SOCKET(NOT CONTROL BY ENERGY SAVER SWITCH)"
+        },
+        {
+          "code": null,
+          "zh": "RCU 箱(藏于天花内)",
+          "en": "RCU BOX（HIDE　IN　CEILING）"
+        },
+        {
+          "code": null,
+          "zh": "配电箱(藏于天花内)",
+          "en": "DISTRIBUTION　BOX（HIDE　IN　CEILING）"
+        },
+        {
+          "code": null,
+          "zh": "微动开关",
+          "en": "MICRO　AUTO　SWITCH"
+        },
+        {
+          "code": null,
+          "zh": "门铃蜂鸣器藏于天花夹层",
+          "en": "BUZZER FOR DOORBELL INSIDE FALSE CEILING"
+        },
+        {
+          "code": null,
+          "zh": "浴室开关 +1350 HT",
+          "en": "SWITCHES　FOR　BATHROOM"
+        },
+        {
+          "code": null,
+          "zh": "电动窗帘开关 +1350 HT",
+          "en": "MOTORIZED CURTAIN SWITCH"
+        },
+        {
+          "code": null,
+          "zh": "清洁(服务)插座+300 HT",
+          "en": "POWER SOCKET FOR SERVICE"
+        },
+        {
+          "code": null,
+          "zh": "恒温器+1350 HT",
+          "en": "THERMOSTAT CONTROL"
+        },
+        {
+          "code": null,
+          "zh": "咖啡机插座（带单独开关）+1200 HT",
+          "en": "POWER SOCKET FOR COFFEE MAKER (WITH INDIVIDUAL ON OFF SWITCH)"
+        },
+        {
+          "code": null,
+          "zh": "冰箱电源插座（不受节能开关控制）+450 HT",
+          "en": "POWER SOCKET FOR REFRIGERATOR (NOT CONTROL BY ENERGY SAVER SWITCH)"
+        },
+        {
+          "code": null,
+          "zh": "机顶盒电源插座",
+          "en": "POWER SOCKET FOR SET TOP BOX"
+        },
+        {
+          "code": null,
+          "zh": "机顶盒数据端口(86式接线底盒)",
+          "en": "SET TOP BOX DATA OUTLET(86 J-BOX)"
+        },
+        {
+          "code": null,
+          "zh": "电视音频接口 +1200 HT",
+          "en": "AUDIO PORT FOR TV"
+        },
+        {
+          "code": null,
+          "zh": "有线电视接口+1200 HT",
+          "en": "TV OUTLET"
+        },
+        {
+          "code": null,
+          "zh": "EPIC 系统(86式接线底盒) +1200 HT",
+          "en": "EPIC SYSTEM(86 J-BOX)"
+        },
+        {
+          "code": null,
+          "zh": "4.EPIC 系统(86式接线底盒) +1200 HT",
+          "en": "EPIC SYSTEM(86 J-BOX)"
+        },
+        {
+          "code": null,
+          "zh": "IPTV数据端口 +1200 HT",
+          "en": "TV DATA OUTLET"
+        },
+        {
+          "code": null,
+          "zh": "电视机电源插座 +1200 HT",
+          "en": "POWER SOCKET FOR TV."
+        },
+        {
+          "code": null,
+          "zh": "机顶盒数据端口(86式接线底盒) +1200 HT",
+          "en": "SET TOP BOX DATA OUTLET(86 J-BOX)"
+        },
+        {
+          "code": null,
+          "zh": "国际通用电源插座*2（不受节能开关控制）+900 HT",
+          "en": "UNIVERSAL POWER OUTLET (NOT CONTROL BY ENERGY SAVER SWITCH WITH INDIVIDUAL ON OFF SWITCH)"
+        },
+        {
+          "code": null,
+          "zh": "EPIC 系统(86式接线底盒)  +900 HT",
+          "en": "EPIC SYSTEM(86 J-BOX)"
+        },
+        {
+          "code": null,
+          "zh": "台灯电源插座+500 HT",
+          "en": "POWER SOCKET FOR TABLE LAMP"
+        },
+        {
+          "code": null,
+          "zh": "电话端口+500 HT",
+          "en": "TEL.OUTLET"
+        },
+        {
+          "code": null,
+          "zh": "互联网数据端口 +500 HT",
+          "en": "INTERNET OUTLET"
+        },
+        {
+          "code": null,
+          "zh": "台灯开关",
+          "en": "TABLE LAMP SWITCH电动窗帘=MOTORIZED CURTAIN"
+        },
+        {
+          "code": null,
+          "zh": "电话端口+900 HT",
+          "en": "TEL.OUTLET"
+        },
+        {
+          "code": null,
+          "zh": "带灯放大镜+1500 HT",
+          "en": "MAGNIEIER MIRROR  WITH LIGHT"
+        },
+        {
+          "code": null,
+          "zh": "壁灯电源接线盒+1800 HT",
+          "en": "J-BOX FOR WALL LAMP"
+        },
+        {
+          "code": null,
+          "zh": "音控器 +1245 HT",
+          "en": "VOLUME CONTROL"
+        },
+        {
+          "code": null,
+          "zh": "剃须插座 +1200 HT",
+          "en": "SHAVER POINT"
+        },
+        {
+          "code": null,
+          "zh": "电吹风插座 +1155 HT",
+          "en": "POWER SOCKET FOR HAIR DRYER"
+        },
+        {
+          "code": null,
+          "zh": "暗藏灯接线盒 +2100 HT",
+          "en": "J-BOX FOR CONCEALED LIGHT"
+        },
+        {
+          "code": null,
+          "zh": "夜灯电源接线盒  +550 HT",
+          "en": "J-BOX FOR NIGHT LAMP"
+        },
+        {
+          "code": null,
+          "zh": "防雾镜接线盒  +1400 HT",
+          "en": "J-BOX FOR MIRROR HEATER"
+        },
+        {
+          "code": null,
+          "zh": "扬声器(藏于台盆下)",
+          "en": "LOUD SPEAKER（HIDE UNDER COUNTER）"
+        },
+        {
+          "code": null,
+          "zh": "暗藏灯接线盒 +1150 HT",
+          "en": "J-BOX FOR CONCEALED LIGHT"
+        },
+        {
+          "code": null,
+          "zh": "电动窗帘",
+          "en": "MOTORIZED CURTAIN"
+        },
+        {
+          "code": null,
+          "zh": "壁灯电源接线盒  +1800 HT",
+          "en": "J-BOX FOR WALL LAMP"
+        },
+        {
+          "code": null,
+          "zh": "闹钟电源插座（不受节能开关控制） +300 HT",
+          "en": "ALARM CLOCK POWER OUTLET  (NOT CONTROLLED BY ENERGY-SAVING SWITCH)"
+        },
+        {
+          "code": null,
+          "zh": "台灯电源插座 +300 HT",
+          "en": "POWER SOCKET FOR TABLE LAMP"
+        },
+        {
+          "code": null,
+          "zh": "夜灯开关  +750 H",
+          "en": "NIGHT LAMP  SWITCH"
+        },
+        {
+          "code": null,
+          "zh": "阅读灯开关 +750 HT",
+          "en": "READING LAMP  SWITCH"
+        },
+        {
+          "code": null,
+          "zh": "总控开关带LED灯  +750 HT",
+          "en": "MASTER SWITCH WITH LED LIGHT"
+        },
+        {
+          "code": null,
+          "zh": "手机充电及电脑国际通用电源插座（不受节能开关控制）+750 HT",
+          "en": "PHONE CHARGE & LAPTOP UNIVERSAL POWER OUTLET (NOT CONTROL BY ENERGY SAVER SWITCH)"
+        },
+        {
+          "code": null,
+          "zh": "电动窗帘开关 +750 HT",
+          "en": "MOTORIZED CURTAIN SWITCH"
+        },
+        {
+          "code": null,
+          "zh": "总控开关带LED灯 +750 HT",
+          "en": "MASTER SWITCH WITH LED LIGHT"
+        },
+        {
+          "code": null,
+          "zh": "阅读灯开关 +750 HT",
+          "en": "READING LAMP  SWITCH"
+        },
+        {
+          "code": null,
+          "zh": "夜灯开关  +750 HT",
+          "en": "NIGHT LAMP  SWITCH"
+        },
+        {
+          "code": null,
+          "zh": "夜灯电源接线盒 +300 HT",
+          "en": "J-BOX FOR NIGHT LAMP   +300 HT"
+        },
+        {
+          "code": null,
+          "zh": "设在电视柜侧板上高度由家具公司深化",
+          "en": "INSTALLED ON SIDE BOARD OF TABLE HEIGHT REF TO FURNITURE CON TRCTOR DWG"
+        },
+        {
+          "code": "根据现场电视架定此排插座位",
+          "zh": "应尽量电视机中线. =LOCATE THIS OUTLET ACCORDING TO SITE TV RACK",
+          "en": "SHOULD CLOSE TO TV MIDDLINE AS MUCH AS POSSIBLE"
+        }
+      ]
+    },
+    {
+      "title": "文本.参见",
+      "entries": [
+        {
+          "code": null,
+          "zh": "电梯按钮(以实际位置为准)",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "黑色砂钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "银色砂钢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "外墙窗",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "甲方定做门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "暗藏检修门",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "消火栓(暗藏门)",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "文本.其    它",
+      "entries": [
+        {
+          "code": null,
+          "zh": "硅钙板油ICI",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "大理石造型柱",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "富美家防火板成品隔断",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "香槟色防火板",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "符号.罗马数字",
+      "entries": [
+        {
+          "code": null,
+          "zh": "ⅰ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ⅱ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ⅲ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ⅳ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ⅴ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ⅵ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ⅶ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ⅷ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ⅸ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ⅹ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ⅰ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ⅱ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ⅲ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ⅳ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ⅴ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ⅵ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ⅶ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ⅷ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ⅸ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ⅹ",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "符号.数字序列",
+      "entries": [
+        {
+          "code": null,
+          "zh": "⒈",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒊",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒋",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒌",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒍",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒎",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒏",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒐",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒑",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒒",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒓",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒔",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒕",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒗",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒚",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒛",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑴",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑵",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑷",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑸",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑹",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑺",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑻",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑼",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑽",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑾",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑿",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒀",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒁",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒂",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒃",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒄",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒅",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒆",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⒇",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "①",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "②",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "③",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "④",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑤",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑥",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑦",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑧",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⑩",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "符号.中文数字",
+      "entries": [
+        {
+          "code": null,
+          "zh": "㈠",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "㈡",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "㈢",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "㈣",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "㈤",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "㈥",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "㈦",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "㈧",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "㈨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "㈩",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "符号.大写希腊",
+      "entries": [
+        {
+          "code": null,
+          "zh": "Α",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Β",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Γ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Δ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ε",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ζ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Η",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Θ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ι",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Κ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Λ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Μ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ν",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ξ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ο",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Π",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ρ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Σ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Τ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Υ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Φ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Χ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ψ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "Ω",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "符号.小写希腊",
+      "entries": [
+        {
+          "code": null,
+          "zh": "α",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "β",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "γ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "δ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ε",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ζ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "η",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "θ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ι",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "κ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "λ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "μ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ν",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ξ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ο",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "π",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ρ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "σ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "τ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "υ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "φ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "χ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ψ",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "ω",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "符号.箭头符号",
+      "entries": [
+        {
+          "code": null,
+          "zh": "→",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "←",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "↑",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "↓",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "↖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "↗",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "↘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "↙",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "符号.数学运算",
+      "entries": [
+        {
+          "code": null,
+          "zh": "±",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "×",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "÷",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∶",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∧",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∨",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∑",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∏",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∪",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∩",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∈",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∷",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "√",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⊥",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∥",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∠",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⌒",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "⊙",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∫",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∮",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "≡",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "≌",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "≈",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∽",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∝",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "≠",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "≮",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "≯",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "≤",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "≥",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∞",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∵",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "∴",
+          "en": null
+        }
+      ]
+    },
+    {
+      "title": "符号.中文标点",
+      "entries": [
+        {
+          "code": null,
+          "zh": "—",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "～",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "‖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "…",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "‘",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "’",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "“",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "”",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "〔",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "〕",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "〈",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "〉",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "《",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "》",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "「",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "」",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "『",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "』",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "〖",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "〗",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "【",
+          "en": null
+        },
+        {
+          "code": null,
+          "zh": "】",
+          "en": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6950 @@
+[
+  {
+    "id": "blocks/00_动态块说明",
+    "name": "00 动态块说明",
+    "source": "blocks/00 动态块说明.sld",
+    "svg": "thumbnails/blocks/00_动态块说明.svg",
+    "dwg": "blocks/00 动态块说明.dwg",
+    "pattern": null,
+    "segments": 1611
+  },
+  {
+    "id": "blocks/YQ_CENGBAN01",
+    "name": "YQ_CENGBAN01",
+    "source": "blocks/YQ_CENGBAN01.sld",
+    "svg": "thumbnails/blocks/YQ_CENGBAN01.svg",
+    "dwg": "blocks/YQ_CENGBAN01.dwg",
+    "pattern": null,
+    "segments": 368
+  },
+  {
+    "id": "blocks/YQ_JINGGUI01",
+    "name": "YQ_JINGGUI01",
+    "source": "blocks/YQ_JINGGUI01.sld",
+    "svg": "thumbnails/blocks/YQ_JINGGUI01.svg",
+    "dwg": "blocks/YQ_JINGGUI01.dwg",
+    "pattern": null,
+    "segments": 1955
+  },
+  {
+    "id": "blocks/YQ_SHUGUI01",
+    "name": "YQ_SHUGUI01",
+    "source": "blocks/YQ_SHUGUI01.sld",
+    "svg": "thumbnails/blocks/YQ_SHUGUI01.svg",
+    "dwg": "blocks/YQ_SHUGUI01.dwg",
+    "pattern": null,
+    "segments": 2389
+  },
+  {
+    "id": "blocks/五金/4E9DQA21",
+    "name": "4E9DQA21",
+    "source": "blocks/五金/4E9DQA21.sld",
+    "svg": "thumbnails/blocks/五金/4E9DQA21.svg",
+    "dwg": "blocks/五金/4E9DQA21.dwg",
+    "pattern": null,
+    "segments": 188
+  },
+  {
+    "id": "blocks/五金/BVV93ZL3",
+    "name": "BVV93ZL3",
+    "source": "blocks/五金/BVV93ZL3.sld",
+    "svg": "thumbnails/blocks/五金/BVV93ZL3.svg",
+    "dwg": "blocks/五金/BVV93ZL3.dwg",
+    "pattern": null,
+    "segments": 388
+  },
+  {
+    "id": "blocks/五金/JL075P21",
+    "name": "JL075P21",
+    "source": "blocks/五金/JL075P21.sld",
+    "svg": "thumbnails/blocks/五金/JL075P21.svg",
+    "dwg": "blocks/五金/JL075P21.dwg",
+    "pattern": null,
+    "segments": 109
+  },
+  {
+    "id": "blocks/五金/WO48N2Q1",
+    "name": "WO48N2Q1",
+    "source": "blocks/五金/WO48N2Q1.sld",
+    "svg": "thumbnails/blocks/五金/WO48N2Q1.svg",
+    "dwg": "blocks/五金/WO48N2Q1.dwg",
+    "pattern": null,
+    "segments": 66
+  },
+  {
+    "id": "blocks/五金/YQ0921141991",
+    "name": "YQ0921141991",
+    "source": "blocks/五金/YQ0921141991.sld",
+    "svg": "thumbnails/blocks/五金/YQ0921141991.svg",
+    "dwg": "blocks/五金/YQ0921141991.dwg",
+    "pattern": null,
+    "segments": 996
+  },
+  {
+    "id": "blocks/五金/YQ0923100733",
+    "name": "YQ0923100733",
+    "source": "blocks/五金/YQ0923100733.sld",
+    "svg": "thumbnails/blocks/五金/YQ0923100733.svg",
+    "dwg": "blocks/五金/YQ0923100733.dwg",
+    "pattern": null,
+    "segments": 770
+  },
+  {
+    "id": "blocks/五金/YSHA4HPJ",
+    "name": "YSHA4HPJ",
+    "source": "blocks/五金/YSHA4HPJ.sld",
+    "svg": "thumbnails/blocks/五金/YSHA4HPJ.svg",
+    "dwg": "blocks/五金/YSHA4HPJ.dwg",
+    "pattern": null,
+    "segments": 49
+  },
+  {
+    "id": "blocks/五金/ctls",
+    "name": "ctls",
+    "source": "blocks/五金/ctls.sld",
+    "svg": "thumbnails/blocks/五金/ctls.svg",
+    "dwg": "blocks/五金/ctls.dwg",
+    "pattern": null,
+    "segments": 96
+  },
+  {
+    "id": "blocks/五金/不锈钢自攻螺钉1",
+    "name": "不锈钢自攻螺钉1",
+    "source": "blocks/五金/不锈钢自攻螺钉1.sld",
+    "svg": "thumbnails/blocks/五金/不锈钢自攻螺钉1.svg",
+    "dwg": "blocks/五金/不锈钢自攻螺钉1.dwg",
+    "pattern": null,
+    "segments": 84
+  },
+  {
+    "id": "blocks/五金/不锈钢自攻螺钉2",
+    "name": "不锈钢自攻螺钉2",
+    "source": "blocks/五金/不锈钢自攻螺钉2.sld",
+    "svg": "thumbnails/blocks/五金/不锈钢自攻螺钉2.svg",
+    "dwg": "blocks/五金/不锈钢自攻螺钉2.dwg",
+    "pattern": null,
+    "segments": 75
+  },
+  {
+    "id": "blocks/五金/不锈钢螺栓组",
+    "name": "不锈钢螺栓组",
+    "source": "blocks/五金/不锈钢螺栓组.sld",
+    "svg": "thumbnails/blocks/五金/不锈钢螺栓组.svg",
+    "dwg": "blocks/五金/不锈钢螺栓组.dwg",
+    "pattern": null,
+    "segments": 80
+  },
+  {
+    "id": "blocks/五金/自攻螺钉",
+    "name": "自攻螺钉",
+    "source": "blocks/五金/自攻螺钉.sld",
+    "svg": "thumbnails/blocks/五金/自攻螺钉.svg",
+    "dwg": "blocks/五金/自攻螺钉.dwg",
+    "pattern": null,
+    "segments": 86
+  },
+  {
+    "id": "blocks/五金/螺栓头",
+    "name": "螺栓头",
+    "source": "blocks/五金/螺栓头.sld",
+    "svg": "thumbnails/blocks/五金/螺栓头.svg",
+    "dwg": "blocks/五金/螺栓头.dwg",
+    "pattern": null,
+    "segments": 143
+  },
+  {
+    "id": "blocks/室内平面/凳_软包凳",
+    "name": "凳_软包凳",
+    "source": "blocks/室内平面/凳_软包凳.sld",
+    "svg": "thumbnails/blocks/室内平面/凳_软包凳.svg",
+    "dwg": "blocks/室内平面/凳_软包凳.dwg",
+    "pattern": null,
+    "segments": 4515
+  },
+  {
+    "id": "blocks/室内平面/卫_坐便器1",
+    "name": "卫_坐便器1",
+    "source": "blocks/室内平面/卫_坐便器1.sld",
+    "svg": "thumbnails/blocks/室内平面/卫_坐便器1.svg",
+    "dwg": "blocks/室内平面/卫_坐便器1.dwg",
+    "pattern": null,
+    "segments": 140
+  },
+  {
+    "id": "blocks/室内平面/卫_坐便器2",
+    "name": "卫_坐便器2",
+    "source": "blocks/室内平面/卫_坐便器2.sld",
+    "svg": "thumbnails/blocks/室内平面/卫_坐便器2.svg",
+    "dwg": "blocks/室内平面/卫_坐便器2.dwg",
+    "pattern": null,
+    "segments": 209
+  },
+  {
+    "id": "blocks/室内平面/卫_小便斗",
+    "name": "卫_小便斗",
+    "source": "blocks/室内平面/卫_小便斗.sld",
+    "svg": "thumbnails/blocks/室内平面/卫_小便斗.svg",
+    "dwg": "blocks/室内平面/卫_小便斗.dwg",
+    "pattern": null,
+    "segments": 266
+  },
+  {
+    "id": "blocks/室内平面/卫_毛巾架",
+    "name": "卫_毛巾架",
+    "source": "blocks/室内平面/卫_毛巾架.sld",
+    "svg": "thumbnails/blocks/室内平面/卫_毛巾架.svg",
+    "dwg": "blocks/室内平面/卫_毛巾架.dwg",
+    "pattern": null,
+    "segments": 52
+  },
+  {
+    "id": "blocks/室内平面/卫_活动坐便1",
+    "name": "卫_活动坐便1",
+    "source": "blocks/室内平面/卫_活动坐便1.sld",
+    "svg": "thumbnails/blocks/室内平面/卫_活动坐便1.svg",
+    "dwg": "blocks/室内平面/卫_活动坐便1.dwg",
+    "pattern": null,
+    "segments": 116
+  },
+  {
+    "id": "blocks/室内平面/卫_活动浴淋1",
+    "name": "卫_活动浴淋1",
+    "source": "blocks/室内平面/卫_活动浴淋1.sld",
+    "svg": "thumbnails/blocks/室内平面/卫_活动浴淋1.svg",
+    "dwg": "blocks/室内平面/卫_活动浴淋1.dwg",
+    "pattern": null,
+    "segments": 123
+  },
+  {
+    "id": "blocks/室内平面/卫_活动蹲位1",
+    "name": "卫_活动蹲位1",
+    "source": "blocks/室内平面/卫_活动蹲位1.sld",
+    "svg": "thumbnails/blocks/室内平面/卫_活动蹲位1.svg",
+    "dwg": "blocks/室内平面/卫_活动蹲位1.dwg",
+    "pattern": null,
+    "segments": 108
+  },
+  {
+    "id": "blocks/室内平面/卫_立盆1",
+    "name": "卫_立盆1",
+    "source": "blocks/室内平面/卫_立盆1.sld",
+    "svg": "thumbnails/blocks/室内平面/卫_立盆1.svg",
+    "dwg": "blocks/室内平面/卫_立盆1.dwg",
+    "pattern": null,
+    "segments": 252
+  },
+  {
+    "id": "blocks/室内平面/厨_水槽",
+    "name": "厨_水槽",
+    "source": "blocks/室内平面/厨_水槽.sld",
+    "svg": "thumbnails/blocks/室内平面/厨_水槽.svg",
+    "dwg": "blocks/室内平面/厨_水槽.dwg",
+    "pattern": null,
+    "segments": 285
+  },
+  {
+    "id": "blocks/室内平面/床_样式2",
+    "name": "床_样式2",
+    "source": "blocks/室内平面/床_样式2.sld",
+    "svg": "thumbnails/blocks/室内平面/床_样式2.svg",
+    "dwg": "blocks/室内平面/床_样式2.dwg",
+    "pattern": null,
+    "segments": 432
+  },
+  {
+    "id": "blocks/室内平面/床_样式3",
+    "name": "床_样式3",
+    "source": "blocks/室内平面/床_样式3.sld",
+    "svg": "thumbnails/blocks/室内平面/床_样式3.svg",
+    "dwg": "blocks/室内平面/床_样式3.dwg",
+    "pattern": null,
+    "segments": 164
+  },
+  {
+    "id": "blocks/室内平面/柜_衣柜2",
+    "name": "柜_衣柜2",
+    "source": "blocks/室内平面/柜_衣柜2.sld",
+    "svg": "thumbnails/blocks/室内平面/柜_衣柜2.svg",
+    "dwg": "blocks/室内平面/柜_衣柜2.dwg",
+    "pattern": null,
+    "segments": 688
+  },
+  {
+    "id": "blocks/室内平面/柜_酒柜1",
+    "name": "柜_酒柜1",
+    "source": "blocks/室内平面/柜_酒柜1.sld",
+    "svg": "thumbnails/blocks/室内平面/柜_酒柜1.svg",
+    "dwg": "blocks/室内平面/柜_酒柜1.dwg",
+    "pattern": null,
+    "segments": 242
+  },
+  {
+    "id": "blocks/室内平面/柜子_1",
+    "name": "柜子_1",
+    "source": "blocks/室内平面/柜子_1.sld",
+    "svg": "thumbnails/blocks/室内平面/柜子_1.svg",
+    "dwg": "blocks/室内平面/柜子_1.dwg",
+    "pattern": null,
+    "segments": 8
+  },
+  {
+    "id": "blocks/室内平面/柜子_2",
+    "name": "柜子_2",
+    "source": "blocks/室内平面/柜子_2.sld",
+    "svg": "thumbnails/blocks/室内平面/柜子_2.svg",
+    "dwg": "blocks/室内平面/柜子_2.dwg",
+    "pattern": null,
+    "segments": 54
+  },
+  {
+    "id": "blocks/室内平面/桌_8-12人圆餐",
+    "name": "桌_8-12人圆餐",
+    "source": "blocks/室内平面/桌_8-12人圆餐.sld",
+    "svg": "thumbnails/blocks/室内平面/桌_8-12人圆餐.svg",
+    "dwg": "blocks/室内平面/桌_8-12人圆餐.dwg",
+    "pattern": null,
+    "segments": 99
+  },
+  {
+    "id": "blocks/室内平面/桌_圆餐桌",
+    "name": "桌_圆餐桌",
+    "source": "blocks/室内平面/桌_圆餐桌.sld",
+    "svg": "thumbnails/blocks/室内平面/桌_圆餐桌.svg",
+    "dwg": "blocks/室内平面/桌_圆餐桌.dwg",
+    "pattern": null,
+    "segments": 99
+  },
+  {
+    "id": "blocks/室内平面/桌_方餐桌",
+    "name": "桌_方餐桌",
+    "source": "blocks/室内平面/桌_方餐桌.sld",
+    "svg": "thumbnails/blocks/室内平面/桌_方餐桌.svg",
+    "dwg": "blocks/室内平面/桌_方餐桌.dwg",
+    "pattern": null,
+    "segments": 107
+  },
+  {
+    "id": "blocks/室内平面/桌_餐桌",
+    "name": "桌_餐桌",
+    "source": "blocks/室内平面/桌_餐桌.sld",
+    "svg": "thumbnails/blocks/室内平面/桌_餐桌.svg",
+    "dwg": "blocks/室内平面/桌_餐桌.dwg",
+    "pattern": null,
+    "segments": 116
+  },
+  {
+    "id": "blocks/室内平面/窗_窗套",
+    "name": "窗_窗套",
+    "source": "blocks/室内平面/窗_窗套.sld",
+    "svg": "thumbnails/blocks/室内平面/窗_窗套.svg",
+    "dwg": "blocks/室内平面/窗_窗套.dwg",
+    "pattern": null,
+    "segments": 86
+  },
+  {
+    "id": "blocks/室内平面/窗帘_双层1",
+    "name": "窗帘_双层1",
+    "source": "blocks/室内平面/窗帘_双层1.sld",
+    "svg": "thumbnails/blocks/室内平面/窗帘_双层1.svg",
+    "dwg": "blocks/室内平面/窗帘_双层1.dwg",
+    "pattern": null,
+    "segments": 148
+  },
+  {
+    "id": "blocks/室内平面/窗帘_双层2",
+    "name": "窗帘_双层2",
+    "source": "blocks/室内平面/窗帘_双层2.sld",
+    "svg": "thumbnails/blocks/室内平面/窗帘_双层2.svg",
+    "dwg": "blocks/室内平面/窗帘_双层2.dwg",
+    "pattern": null,
+    "segments": 823
+  },
+  {
+    "id": "blocks/室内平面/装饰_护墙",
+    "name": "装饰_护墙",
+    "source": "blocks/室内平面/装饰_护墙.sld",
+    "svg": "thumbnails/blocks/室内平面/装饰_护墙.svg",
+    "dwg": "blocks/室内平面/装饰_护墙.dwg",
+    "pattern": null,
+    "segments": 59
+  },
+  {
+    "id": "blocks/室内平面/门_1",
+    "name": "门_1",
+    "source": "blocks/室内平面/门_1.sld",
+    "svg": "thumbnails/blocks/室内平面/门_1.svg",
+    "dwg": "blocks/室内平面/门_1.dwg",
+    "pattern": null,
+    "segments": 372
+  },
+  {
+    "id": "blocks/室内平面/门_2",
+    "name": "门_2",
+    "source": "blocks/室内平面/门_2.sld",
+    "svg": "thumbnails/blocks/室内平面/门_2.svg",
+    "dwg": "blocks/室内平面/门_2.dwg",
+    "pattern": null,
+    "segments": 27189
+  },
+  {
+    "id": "blocks/室内平面/门_单开",
+    "name": "门_单开",
+    "source": "blocks/室内平面/门_单开.sld",
+    "svg": "thumbnails/blocks/室内平面/门_单开.svg",
+    "dwg": "blocks/室内平面/门_单开.dwg",
+    "pattern": null,
+    "segments": 70
+  },
+  {
+    "id": "blocks/室内平面/门_单开玻璃",
+    "name": "门_单开玻璃",
+    "source": "blocks/室内平面/门_单开玻璃.sld",
+    "svg": "thumbnails/blocks/室内平面/门_单开玻璃.svg",
+    "dwg": "blocks/室内平面/门_单开玻璃.dwg",
+    "pattern": null,
+    "segments": 45
+  },
+  {
+    "id": "blocks/室内平面/门_双开玻璃",
+    "name": "门_双开玻璃",
+    "source": "blocks/室内平面/门_双开玻璃.sld",
+    "svg": "thumbnails/blocks/室内平面/门_双开玻璃.svg",
+    "dwg": "blocks/室内平面/门_双开玻璃.dwg",
+    "pattern": null,
+    "segments": 417
+  },
+  {
+    "id": "blocks/室内平面/门_普通双开",
+    "name": "门_普通双开",
+    "source": "blocks/室内平面/门_普通双开.sld",
+    "svg": "thumbnails/blocks/室内平面/门_普通双开.svg",
+    "dwg": "blocks/室内平面/门_普通双开.dwg",
+    "pattern": null,
+    "segments": 453
+  },
+  {
+    "id": "blocks/室内平面/门_普通子母",
+    "name": "门_普通子母",
+    "source": "blocks/室内平面/门_普通子母.sld",
+    "svg": "thumbnails/blocks/室内平面/门_普通子母.svg",
+    "dwg": "blocks/室内平面/门_普通子母.dwg",
+    "pattern": null,
+    "segments": 78
+  },
+  {
+    "id": "blocks/室内平面/门套_1",
+    "name": "门套_1",
+    "source": "blocks/室内平面/门套_1.sld",
+    "svg": "thumbnails/blocks/室内平面/门套_1.svg",
+    "dwg": "blocks/室内平面/门套_1.dwg",
+    "pattern": null,
+    "segments": 162
+  },
+  {
+    "id": "blocks/室内平面/门套_2",
+    "name": "门套_2",
+    "source": "blocks/室内平面/门套_2.sld",
+    "svg": "thumbnails/blocks/室内平面/门套_2.svg",
+    "dwg": "blocks/室内平面/门套_2.dwg",
+    "pattern": null,
+    "segments": 271
+  },
+  {
+    "id": "blocks/室内平面/门套线",
+    "name": "门套线",
+    "source": "blocks/室内平面/门套线.sld",
+    "svg": "thumbnails/blocks/室内平面/门套线.svg",
+    "dwg": "blocks/室内平面/门套线.dwg",
+    "pattern": null,
+    "segments": 160
+  },
+  {
+    "id": "blocks/室内立面/墙体框架",
+    "name": "墙体框架",
+    "source": "blocks/室内立面/墙体框架.sld",
+    "svg": "thumbnails/blocks/室内立面/墙体框架.svg",
+    "dwg": "blocks/室内立面/墙体框架.dwg",
+    "pattern": null,
+    "segments": 2485
+  },
+  {
+    "id": "blocks/室内立面/墙体框架2",
+    "name": "墙体框架2",
+    "source": "blocks/室内立面/墙体框架2.sld",
+    "svg": "thumbnails/blocks/室内立面/墙体框架2.svg",
+    "dwg": "blocks/室内立面/墙体框架2.dwg",
+    "pattern": null,
+    "segments": 2553
+  },
+  {
+    "id": "blocks/室内立面/摆件_书本",
+    "name": "摆件_书本",
+    "source": "blocks/室内立面/摆件_书本.sld",
+    "svg": "thumbnails/blocks/室内立面/摆件_书本.svg",
+    "dwg": "blocks/室内立面/摆件_书本.dwg",
+    "pattern": null,
+    "segments": 434
+  },
+  {
+    "id": "blocks/室内立面/窗套_1",
+    "name": "窗套_1",
+    "source": "blocks/室内立面/窗套_1.sld",
+    "svg": "thumbnails/blocks/室内立面/窗套_1.svg",
+    "dwg": "blocks/室内立面/窗套_1.dwg",
+    "pattern": null,
+    "segments": 225
+  },
+  {
+    "id": "blocks/室内立面/窗帘_侧面1",
+    "name": "窗帘_侧面1",
+    "source": "blocks/室内立面/窗帘_侧面1.sld",
+    "svg": "thumbnails/blocks/室内立面/窗帘_侧面1.svg",
+    "dwg": "blocks/室内立面/窗帘_侧面1.dwg",
+    "pattern": null,
+    "segments": 552
+  },
+  {
+    "id": "blocks/室内立面/窗帘_侧面2",
+    "name": "窗帘_侧面2",
+    "source": "blocks/室内立面/窗帘_侧面2.sld",
+    "svg": "thumbnails/blocks/室内立面/窗帘_侧面2.svg",
+    "dwg": "blocks/室内立面/窗帘_侧面2.dwg",
+    "pattern": null,
+    "segments": 288
+  },
+  {
+    "id": "blocks/室内立面/窗帘_卷帘1",
+    "name": "窗帘_卷帘1",
+    "source": "blocks/室内立面/窗帘_卷帘1.sld",
+    "svg": "thumbnails/blocks/室内立面/窗帘_卷帘1.svg",
+    "dwg": "blocks/室内立面/窗帘_卷帘1.dwg",
+    "pattern": null,
+    "segments": 257
+  },
+  {
+    "id": "blocks/室内立面/窗帘_卷帘3",
+    "name": "窗帘_卷帘3",
+    "source": "blocks/室内立面/窗帘_卷帘3.sld",
+    "svg": "thumbnails/blocks/室内立面/窗帘_卷帘3.svg",
+    "dwg": "blocks/室内立面/窗帘_卷帘3.dwg",
+    "pattern": null,
+    "segments": 52
+  },
+  {
+    "id": "blocks/室内立面/窗帘_拉帘1",
+    "name": "窗帘_拉帘1",
+    "source": "blocks/室内立面/窗帘_拉帘1.sld",
+    "svg": "thumbnails/blocks/室内立面/窗帘_拉帘1.svg",
+    "dwg": "blocks/室内立面/窗帘_拉帘1.dwg",
+    "pattern": null,
+    "segments": 4768
+  },
+  {
+    "id": "blocks/室内立面/窗帘_拉帘2",
+    "name": "窗帘_拉帘2",
+    "source": "blocks/室内立面/窗帘_拉帘2.sld",
+    "svg": "thumbnails/blocks/室内立面/窗帘_拉帘2.svg",
+    "dwg": "blocks/室内立面/窗帘_拉帘2.dwg",
+    "pattern": null,
+    "segments": 198
+  },
+  {
+    "id": "blocks/室内立面/窗帘_百叶1",
+    "name": "窗帘_百叶1",
+    "source": "blocks/室内立面/窗帘_百叶1.sld",
+    "svg": "thumbnails/blocks/室内立面/窗帘_百叶1.svg",
+    "dwg": "blocks/室内立面/窗帘_百叶1.dwg",
+    "pattern": null,
+    "segments": 194
+  },
+  {
+    "id": "blocks/室内立面/门",
+    "name": "门",
+    "source": "blocks/室内立面/门.sld",
+    "svg": "thumbnails/blocks/室内立面/门.svg",
+    "dwg": "blocks/室内立面/门.dwg",
+    "pattern": null,
+    "segments": 160
+  },
+  {
+    "id": "blocks/室内立面/门套_八字口",
+    "name": "门套_八字口",
+    "source": "blocks/室内立面/门套_八字口.sld",
+    "svg": "thumbnails/blocks/室内立面/门套_八字口.svg",
+    "dwg": "blocks/室内立面/门套_八字口.dwg",
+    "pattern": null,
+    "segments": 182
+  },
+  {
+    "id": "blocks/室内立面/门套_平口",
+    "name": "门套_平口",
+    "source": "blocks/室内立面/门套_平口.sld",
+    "svg": "thumbnails/blocks/室内立面/门套_平口.svg",
+    "dwg": "blocks/室内立面/门套_平口.dwg",
+    "pattern": null,
+    "segments": 177
+  },
+  {
+    "id": "blocks/室内立面/饰_护墙板1",
+    "name": "饰_护墙板1",
+    "source": "blocks/室内立面/饰_护墙板1.sld",
+    "svg": "thumbnails/blocks/室内立面/饰_护墙板1.svg",
+    "dwg": "blocks/室内立面/饰_护墙板1.dwg",
+    "pattern": null,
+    "segments": 517
+  },
+  {
+    "id": "blocks/室内节点/板_12厘板",
+    "name": "板_12厘板",
+    "source": "blocks/室内节点/板_12厘板.sld",
+    "svg": "thumbnails/blocks/室内节点/板_12厘板.svg",
+    "dwg": "blocks/室内节点/板_12厘板.dwg",
+    "pattern": null,
+    "segments": 94
+  },
+  {
+    "id": "blocks/室内节点/板_12厘石膏板",
+    "name": "板_12厘石膏板",
+    "source": "blocks/室内节点/板_12厘石膏板.sld",
+    "svg": "thumbnails/blocks/室内节点/板_12厘石膏板.svg",
+    "dwg": "blocks/室内节点/板_12厘石膏板.dwg",
+    "pattern": null,
+    "segments": 150
+  },
+  {
+    "id": "blocks/室内节点/板_18厘板",
+    "name": "板_18厘板",
+    "source": "blocks/室内节点/板_18厘板.sld",
+    "svg": "thumbnails/blocks/室内节点/板_18厘板.svg",
+    "dwg": "blocks/室内节点/板_18厘板.dwg",
+    "pattern": null,
+    "segments": 94
+  },
+  {
+    "id": "blocks/室内节点/板_5厘板",
+    "name": "板_5厘板",
+    "source": "blocks/室内节点/板_5厘板.sld",
+    "svg": "thumbnails/blocks/室内节点/板_5厘板.svg",
+    "dwg": "blocks/室内节点/板_5厘板.dwg",
+    "pattern": null,
+    "segments": 42
+  },
+  {
+    "id": "blocks/室内节点/板_9厘板",
+    "name": "板_9厘板",
+    "source": "blocks/室内节点/板_9厘板.sld",
+    "svg": "thumbnails/blocks/室内节点/板_9厘板.svg",
+    "dwg": "blocks/室内节点/板_9厘板.dwg",
+    "pattern": null,
+    "segments": 149
+  },
+  {
+    "id": "blocks/室内节点/板_9厘石膏板",
+    "name": "板_9厘石膏板",
+    "source": "blocks/室内节点/板_9厘石膏板.sld",
+    "svg": "thumbnails/blocks/室内节点/板_9厘石膏板.svg",
+    "dwg": "blocks/室内节点/板_9厘石膏板.dwg",
+    "pattern": null,
+    "segments": 167
+  },
+  {
+    "id": "blocks/室内节点/构件_不锈钢",
+    "name": "构件_不锈钢",
+    "source": "blocks/室内节点/构件_不锈钢.sld",
+    "svg": "thumbnails/blocks/室内节点/构件_不锈钢.svg",
+    "dwg": "blocks/室内节点/构件_不锈钢.dwg",
+    "pattern": null,
+    "segments": 24
+  },
+  {
+    "id": "blocks/室内节点/构件_卡式龙骨1",
+    "name": "构件_卡式龙骨1",
+    "source": "blocks/室内节点/构件_卡式龙骨1.sld",
+    "svg": "thumbnails/blocks/室内节点/构件_卡式龙骨1.svg",
+    "dwg": "blocks/室内节点/构件_卡式龙骨1.dwg",
+    "pattern": null,
+    "segments": 3290
+  },
+  {
+    "id": "blocks/室内节点/构件_吊杆",
+    "name": "构件_吊杆",
+    "source": "blocks/室内节点/构件_吊杆.sld",
+    "svg": "thumbnails/blocks/室内节点/构件_吊杆.svg",
+    "dwg": "blocks/室内节点/构件_吊杆.dwg",
+    "pattern": null,
+    "segments": 82
+  },
+  {
+    "id": "blocks/室内节点/构件_吊杆2",
+    "name": "构件_吊杆2",
+    "source": "blocks/室内节点/构件_吊杆2.sld",
+    "svg": "thumbnails/blocks/室内节点/构件_吊杆2.svg",
+    "dwg": "blocks/室内节点/构件_吊杆2.dwg",
+    "pattern": null,
+    "segments": 163
+  },
+  {
+    "id": "blocks/室内节点/构件_吊筋2",
+    "name": "构件_吊筋2",
+    "source": "blocks/室内节点/构件_吊筋2.sld",
+    "svg": "thumbnails/blocks/室内节点/构件_吊筋2.svg",
+    "dwg": "blocks/室内节点/构件_吊筋2.dwg",
+    "pattern": null,
+    "segments": 96
+  },
+  {
+    "id": "blocks/室内节点/构件_吊筋侧",
+    "name": "构件_吊筋侧",
+    "source": "blocks/室内节点/构件_吊筋侧.sld",
+    "svg": "thumbnails/blocks/室内节点/构件_吊筋侧.svg",
+    "dwg": "blocks/室内节点/构件_吊筋侧.dwg",
+    "pattern": null,
+    "segments": 61
+  },
+  {
+    "id": "blocks/室内节点/构件_吊筋侧2",
+    "name": "构件_吊筋侧2",
+    "source": "blocks/室内节点/构件_吊筋侧2.sld",
+    "svg": "thumbnails/blocks/室内节点/构件_吊筋侧2.svg",
+    "dwg": "blocks/室内节点/构件_吊筋侧2.dwg",
+    "pattern": null,
+    "segments": 113
+  },
+  {
+    "id": "blocks/室内节点/构件_楼板基层",
+    "name": "构件_楼板基层",
+    "source": "blocks/室内节点/构件_楼板基层.sld",
+    "svg": "thumbnails/blocks/室内节点/构件_楼板基层.svg",
+    "dwg": "blocks/室内节点/构件_楼板基层.dwg",
+    "pattern": null,
+    "segments": 712
+  },
+  {
+    "id": "blocks/室内节点/构件_膜扣件",
+    "name": "构件_膜扣件",
+    "source": "blocks/室内节点/构件_膜扣件.sld",
+    "svg": "thumbnails/blocks/室内节点/构件_膜扣件.svg",
+    "dwg": "blocks/室内节点/构件_膜扣件.dwg",
+    "pattern": null,
+    "segments": 539
+  },
+  {
+    "id": "blocks/室内节点/构件_覆面龙骨2",
+    "name": "构件_覆面龙骨2",
+    "source": "blocks/室内节点/构件_覆面龙骨2.sld",
+    "svg": "thumbnails/blocks/室内节点/构件_覆面龙骨2.svg",
+    "dwg": "blocks/室内节点/构件_覆面龙骨2.dwg",
+    "pattern": null,
+    "segments": 134
+  },
+  {
+    "id": "blocks/室内节点/构件_锁头",
+    "name": "构件_锁头",
+    "source": "blocks/室内节点/构件_锁头.sld",
+    "svg": "thumbnails/blocks/室内节点/构件_锁头.svg",
+    "dwg": "blocks/室内节点/构件_锁头.dwg",
+    "pattern": null,
+    "segments": 245
+  },
+  {
+    "id": "blocks/室内节点/构件_龙骨吊件",
+    "name": "构件_龙骨吊件",
+    "source": "blocks/室内节点/构件_龙骨吊件.sld",
+    "svg": "thumbnails/blocks/室内节点/构件_龙骨吊件.svg",
+    "dwg": "blocks/室内节点/构件_龙骨吊件.dwg",
+    "pattern": null,
+    "segments": 4025
+  },
+  {
+    "id": "blocks/室内节点/玻璃_10厘",
+    "name": "玻璃_10厘",
+    "source": "blocks/室内节点/玻璃_10厘.sld",
+    "svg": "thumbnails/blocks/室内节点/玻璃_10厘.svg",
+    "dwg": "blocks/室内节点/玻璃_10厘.dwg",
+    "pattern": null,
+    "segments": 8758
+  },
+  {
+    "id": "blocks/室内节点/玻璃_12厘",
+    "name": "玻璃_12厘",
+    "source": "blocks/室内节点/玻璃_12厘.sld",
+    "svg": "thumbnails/blocks/室内节点/玻璃_12厘.svg",
+    "dwg": "blocks/室内节点/玻璃_12厘.dwg",
+    "pattern": null,
+    "segments": 6178
+  },
+  {
+    "id": "blocks/室内节点/玻璃_15厘",
+    "name": "玻璃_15厘",
+    "source": "blocks/室内节点/玻璃_15厘.sld",
+    "svg": "thumbnails/blocks/室内节点/玻璃_15厘.svg",
+    "dwg": "blocks/室内节点/玻璃_15厘.dwg",
+    "pattern": null,
+    "segments": 3922
+  },
+  {
+    "id": "blocks/室内节点/玻璃_16厘",
+    "name": "玻璃_16厘",
+    "source": "blocks/室内节点/玻璃_16厘.sld",
+    "svg": "thumbnails/blocks/室内节点/玻璃_16厘.svg",
+    "dwg": "blocks/室内节点/玻璃_16厘.dwg",
+    "pattern": null,
+    "segments": 3497
+  },
+  {
+    "id": "blocks/室内节点/玻璃_20厘",
+    "name": "玻璃_20厘",
+    "source": "blocks/室内节点/玻璃_20厘.sld",
+    "svg": "thumbnails/blocks/室内节点/玻璃_20厘.svg",
+    "dwg": "blocks/室内节点/玻璃_20厘.dwg",
+    "pattern": null,
+    "segments": 2320
+  },
+  {
+    "id": "blocks/室内节点/结构_龙骨隔墙",
+    "name": "结构_龙骨隔墙",
+    "source": "blocks/室内节点/结构_龙骨隔墙.sld",
+    "svg": "thumbnails/blocks/室内节点/结构_龙骨隔墙.svg",
+    "dwg": "blocks/室内节点/结构_龙骨隔墙.dwg",
+    "pattern": null,
+    "segments": 899
+  },
+  {
+    "id": "blocks/室内节点/节_地面砂浆",
+    "name": "节_地面砂浆",
+    "source": "blocks/室内节点/节_地面砂浆.sld",
+    "svg": "thumbnails/blocks/室内节点/节_地面砂浆.svg",
+    "dwg": "blocks/室内节点/节_地面砂浆.dwg",
+    "pattern": null,
+    "segments": 429
+  },
+  {
+    "id": "blocks/室内节点/节_大理石贴面",
+    "name": "节_大理石贴面",
+    "source": "blocks/室内节点/节_大理石贴面.sld",
+    "svg": "thumbnails/blocks/室内节点/节_大理石贴面.svg",
+    "dwg": "blocks/室内节点/节_大理石贴面.dwg",
+    "pattern": null,
+    "segments": 622
+  },
+  {
+    "id": "blocks/室内节点/节_大理石贴面2",
+    "name": "节_大理石贴面2",
+    "source": "blocks/室内节点/节_大理石贴面2.sld",
+    "svg": "thumbnails/blocks/室内节点/节_大理石贴面2.svg",
+    "dwg": "blocks/室内节点/节_大理石贴面2.dwg",
+    "pattern": null,
+    "segments": 334
+  },
+  {
+    "id": "blocks/室内节点/节_木饰面转角",
+    "name": "节_木饰面转角",
+    "source": "blocks/室内节点/节_木饰面转角.sld",
+    "svg": "thumbnails/blocks/室内节点/节_木饰面转角.svg",
+    "dwg": "blocks/室内节点/节_木饰面转角.dwg",
+    "pattern": null,
+    "segments": 228
+  },
+  {
+    "id": "blocks/室内节点/节_贴墙砖剖面",
+    "name": "节_贴墙砖剖面",
+    "source": "blocks/室内节点/节_贴墙砖剖面.sld",
+    "svg": "thumbnails/blocks/室内节点/节_贴墙砖剖面.svg",
+    "dwg": "blocks/室内节点/节_贴墙砖剖面.dwg",
+    "pattern": null,
+    "segments": 407
+  },
+  {
+    "id": "blocks/室内节点/镜_6厘车边镜",
+    "name": "镜_6厘车边镜",
+    "source": "blocks/室内节点/镜_6厘车边镜.sld",
+    "svg": "thumbnails/blocks/室内节点/镜_6厘车边镜.svg",
+    "dwg": "blocks/室内节点/镜_6厘车边镜.dwg",
+    "pattern": null,
+    "segments": 18
+  },
+  {
+    "id": "blocks/室内节点/饰_12厘硬包",
+    "name": "饰_12厘硬包",
+    "source": "blocks/室内节点/饰_12厘硬包.sld",
+    "svg": "thumbnails/blocks/室内节点/饰_12厘硬包.svg",
+    "dwg": "blocks/室内节点/饰_12厘硬包.dwg",
+    "pattern": null,
+    "segments": 132
+  },
+  {
+    "id": "blocks/室内节点/饰_20厚软包",
+    "name": "饰_20厚软包",
+    "source": "blocks/室内节点/饰_20厚软包.sld",
+    "svg": "thumbnails/blocks/室内节点/饰_20厚软包.svg",
+    "dwg": "blocks/室内节点/饰_20厚软包.dwg",
+    "pattern": null,
+    "segments": 229
+  },
+  {
+    "id": "blocks/室内节点/饰_墙板全高",
+    "name": "饰_墙板全高",
+    "source": "blocks/室内节点/饰_墙板全高.sld",
+    "svg": "thumbnails/blocks/室内节点/饰_墙板全高.svg",
+    "dwg": "blocks/室内节点/饰_墙板全高.dwg",
+    "pattern": null,
+    "segments": 436
+  },
+  {
+    "id": "blocks/室内节点/饰_墙板半高",
+    "name": "饰_墙板半高",
+    "source": "blocks/室内节点/饰_墙板半高.sld",
+    "svg": "thumbnails/blocks/室内节点/饰_墙板半高.svg",
+    "dwg": "blocks/室内节点/饰_墙板半高.dwg",
+    "pattern": null,
+    "segments": 252
+  },
+  {
+    "id": "blocks/室内节点/饰_大理石",
+    "name": "饰_大理石",
+    "source": "blocks/室内节点/饰_大理石.sld",
+    "svg": "thumbnails/blocks/室内节点/饰_大理石.svg",
+    "dwg": "blocks/室内节点/饰_大理石.dwg",
+    "pattern": null,
+    "segments": 2292
+  },
+  {
+    "id": "blocks/室内节点/饰_硬包2",
+    "name": "饰_硬包2",
+    "source": "blocks/室内节点/饰_硬包2.sld",
+    "svg": "thumbnails/blocks/室内节点/饰_硬包2.svg",
+    "dwg": "blocks/室内节点/饰_硬包2.dwg",
+    "pattern": null,
+    "segments": 83
+  },
+  {
+    "id": "blocks/室内节点/饰_硬包扪皮",
+    "name": "饰_硬包扪皮",
+    "source": "blocks/室内节点/饰_硬包扪皮.sld",
+    "svg": "thumbnails/blocks/室内节点/饰_硬包扪皮.svg",
+    "dwg": "blocks/室内节点/饰_硬包扪皮.dwg",
+    "pattern": null,
+    "segments": 87
+  },
+  {
+    "id": "blocks/室内节点/饰_踢脚线",
+    "name": "饰_踢脚线",
+    "source": "blocks/室内节点/饰_踢脚线.sld",
+    "svg": "thumbnails/blocks/室内节点/饰_踢脚线.svg",
+    "dwg": "blocks/室内节点/饰_踢脚线.dwg",
+    "pattern": null,
+    "segments": 26
+  },
+  {
+    "id": "blocks/室内节点/饰_软包2",
+    "name": "饰_软包2",
+    "source": "blocks/室内节点/饰_软包2.sld",
+    "svg": "thumbnails/blocks/室内节点/饰_软包2.svg",
+    "dwg": "blocks/室内节点/饰_软包2.dwg",
+    "pattern": null,
+    "segments": 489
+  },
+  {
+    "id": "blocks/幕墙/40mm放垫片",
+    "name": "40mm放垫片",
+    "source": "blocks/幕墙/40mm放垫片.sld",
+    "svg": "thumbnails/blocks/幕墙/40mm放垫片.svg",
+    "dwg": "blocks/幕墙/40mm放垫片.dwg",
+    "pattern": null,
+    "segments": 326
+  },
+  {
+    "id": "blocks/幕墙/K5抽芯铆钉",
+    "name": "K5抽芯铆钉",
+    "source": "blocks/幕墙/K5抽芯铆钉.sld",
+    "svg": "thumbnails/blocks/幕墙/K5抽芯铆钉.svg",
+    "dwg": "blocks/幕墙/K5抽芯铆钉.dwg",
+    "pattern": null,
+    "segments": 56
+  },
+  {
+    "id": "blocks/幕墙/M10螺栓组",
+    "name": "M10螺栓组",
+    "source": "blocks/幕墙/M10螺栓组.sld",
+    "svg": "thumbnails/blocks/幕墙/M10螺栓组.svg",
+    "dwg": "blocks/幕墙/M10螺栓组.dwg",
+    "pattern": null,
+    "segments": 93
+  },
+  {
+    "id": "blocks/幕墙/M12化学螺栓",
+    "name": "M12化学螺栓",
+    "source": "blocks/幕墙/M12化学螺栓.sld",
+    "svg": "thumbnails/blocks/幕墙/M12化学螺栓.svg",
+    "dwg": "blocks/幕墙/M12化学螺栓.dwg",
+    "pattern": null,
+    "segments": 792
+  },
+  {
+    "id": "blocks/幕墙/M12螺栓组",
+    "name": "M12螺栓组",
+    "source": "blocks/幕墙/M12螺栓组.sld",
+    "svg": "thumbnails/blocks/幕墙/M12螺栓组.svg",
+    "dwg": "blocks/幕墙/M12螺栓组.dwg",
+    "pattern": null,
+    "segments": 84
+  },
+  {
+    "id": "blocks/幕墙/M16螺栓组",
+    "name": "M16螺栓组",
+    "source": "blocks/幕墙/M16螺栓组.sld",
+    "svg": "thumbnails/blocks/幕墙/M16螺栓组.svg",
+    "dwg": "blocks/幕墙/M16螺栓组.dwg",
+    "pattern": null,
+    "segments": 85
+  },
+  {
+    "id": "blocks/幕墙/M20螺栓组",
+    "name": "M20螺栓组",
+    "source": "blocks/幕墙/M20螺栓组.sld",
+    "svg": "thumbnails/blocks/幕墙/M20螺栓组.svg",
+    "dwg": "blocks/幕墙/M20螺栓组.dwg",
+    "pattern": null,
+    "segments": 92
+  },
+  {
+    "id": "blocks/幕墙/M6螺栓组",
+    "name": "M6螺栓组",
+    "source": "blocks/幕墙/M6螺栓组.sld",
+    "svg": "thumbnails/blocks/幕墙/M6螺栓组.svg",
+    "dwg": "blocks/幕墙/M6螺栓组.dwg",
+    "pattern": null,
+    "segments": 85
+  },
+  {
+    "id": "blocks/幕墙/M8螺栓组",
+    "name": "M8螺栓组",
+    "source": "blocks/幕墙/M8螺栓组.sld",
+    "svg": "thumbnails/blocks/幕墙/M8螺栓组.svg",
+    "dwg": "blocks/幕墙/M8螺栓组.dwg",
+    "pattern": null,
+    "segments": 92
+  },
+  {
+    "id": "blocks/幕墙/ST4.2沉头自攻钉",
+    "name": "ST4.2沉头自攻钉",
+    "source": "blocks/幕墙/ST4.2沉头自攻钉.sld",
+    "svg": "thumbnails/blocks/幕墙/ST4.2沉头自攻钉.svg",
+    "dwg": "blocks/幕墙/ST4.2沉头自攻钉.dwg",
+    "pattern": null,
+    "segments": 55
+  },
+  {
+    "id": "blocks/幕墙/ST4.2盘头自攻自钻钉",
+    "name": "ST4.2盘头自攻自钻钉",
+    "source": "blocks/幕墙/ST4.2盘头自攻自钻钉.sld",
+    "svg": "thumbnails/blocks/幕墙/ST4.2盘头自攻自钻钉.svg",
+    "dwg": "blocks/幕墙/ST4.2盘头自攻自钻钉.dwg",
+    "pattern": null,
+    "segments": 102
+  },
+  {
+    "id": "blocks/幕墙/ST4.2盘头自攻钉",
+    "name": "ST4.2盘头自攻钉",
+    "source": "blocks/幕墙/ST4.2盘头自攻钉.sld",
+    "svg": "thumbnails/blocks/幕墙/ST4.2盘头自攻钉.svg",
+    "dwg": "blocks/幕墙/ST4.2盘头自攻钉.dwg",
+    "pattern": null,
+    "segments": 103
+  },
+  {
+    "id": "blocks/幕墙/ST4.8六角头自攻自钻钉",
+    "name": "ST4.8六角头自攻自钻钉",
+    "source": "blocks/幕墙/ST4.8六角头自攻自钻钉.sld",
+    "svg": "thumbnails/blocks/幕墙/ST4.8六角头自攻自钻钉.svg",
+    "dwg": "blocks/幕墙/ST4.8六角头自攻自钻钉.dwg",
+    "pattern": null,
+    "segments": 125
+  },
+  {
+    "id": "blocks/幕墙/ST4.8沉头自攻钉",
+    "name": "ST4.8沉头自攻钉",
+    "source": "blocks/幕墙/ST4.8沉头自攻钉.sld",
+    "svg": "thumbnails/blocks/幕墙/ST4.8沉头自攻钉.svg",
+    "dwg": "blocks/幕墙/ST4.8沉头自攻钉.dwg",
+    "pattern": null,
+    "segments": 56
+  },
+  {
+    "id": "blocks/幕墙/ST4.8盘头自攻自钻钉",
+    "name": "ST4.8盘头自攻自钻钉",
+    "source": "blocks/幕墙/ST4.8盘头自攻自钻钉.sld",
+    "svg": "thumbnails/blocks/幕墙/ST4.8盘头自攻自钻钉.svg",
+    "dwg": "blocks/幕墙/ST4.8盘头自攻自钻钉.dwg",
+    "pattern": null,
+    "segments": 101
+  },
+  {
+    "id": "blocks/幕墙/ST4.8盘头自攻钉",
+    "name": "ST4.8盘头自攻钉",
+    "source": "blocks/幕墙/ST4.8盘头自攻钉.sld",
+    "svg": "thumbnails/blocks/幕墙/ST4.8盘头自攻钉.svg",
+    "dwg": "blocks/幕墙/ST4.8盘头自攻钉.dwg",
+    "pattern": null,
+    "segments": 94
+  },
+  {
+    "id": "blocks/幕墙/ST5.5六角头自攻自钻钉",
+    "name": "ST5.5六角头自攻自钻钉",
+    "source": "blocks/幕墙/ST5.5六角头自攻自钻钉.sld",
+    "svg": "thumbnails/blocks/幕墙/ST5.5六角头自攻自钻钉.svg",
+    "dwg": "blocks/幕墙/ST5.5六角头自攻自钻钉.dwg",
+    "pattern": null,
+    "segments": 135
+  },
+  {
+    "id": "blocks/幕墙/ST5.5盘头自攻钉",
+    "name": "ST5.5盘头自攻钉",
+    "source": "blocks/幕墙/ST5.5盘头自攻钉.sld",
+    "svg": "thumbnails/blocks/幕墙/ST5.5盘头自攻钉.svg",
+    "dwg": "blocks/幕墙/ST5.5盘头自攻钉.dwg",
+    "pattern": null,
+    "segments": 103
+  },
+  {
+    "id": "blocks/幕墙/ST6.3六角头自攻自钻钉",
+    "name": "ST6.3六角头自攻自钻钉",
+    "source": "blocks/幕墙/ST6.3六角头自攻自钻钉.sld",
+    "svg": "thumbnails/blocks/幕墙/ST6.3六角头自攻自钻钉.svg",
+    "dwg": "blocks/幕墙/ST6.3六角头自攻自钻钉.dwg",
+    "pattern": null,
+    "segments": 126
+  },
+  {
+    "id": "blocks/幕墙/膨胀螺栓",
+    "name": "膨胀螺栓",
+    "source": "blocks/幕墙/膨胀螺栓.sld",
+    "svg": "thumbnails/blocks/幕墙/膨胀螺栓.svg",
+    "dwg": "blocks/幕墙/膨胀螺栓.dwg",
+    "pattern": null,
+    "segments": 81
+  },
+  {
+    "id": "blocks/指北针/NORTH",
+    "name": "NORTH",
+    "source": "blocks/指北针/NORTH.sld",
+    "svg": "thumbnails/blocks/指北针/NORTH.svg",
+    "dwg": "blocks/指北针/NORTH.dwg",
+    "pattern": null,
+    "segments": 62
+  },
+  {
+    "id": "blocks/指北针/NORTH0",
+    "name": "NORTH0",
+    "source": "blocks/指北针/NORTH0.sld",
+    "svg": "thumbnails/blocks/指北针/NORTH0.svg",
+    "dwg": "blocks/指北针/NORTH0.dwg",
+    "pattern": null,
+    "segments": 167
+  },
+  {
+    "id": "blocks/指北针/NORTH1",
+    "name": "NORTH1",
+    "source": "blocks/指北针/NORTH1.sld",
+    "svg": "thumbnails/blocks/指北针/NORTH1.svg",
+    "dwg": "blocks/指北针/NORTH1.dwg",
+    "pattern": null,
+    "segments": 36
+  },
+  {
+    "id": "blocks/指北针/NORTH10",
+    "name": "NORTH10",
+    "source": "blocks/指北针/NORTH10.sld",
+    "svg": "thumbnails/blocks/指北针/NORTH10.svg",
+    "dwg": "blocks/指北针/NORTH10.dwg",
+    "pattern": null,
+    "segments": 61
+  },
+  {
+    "id": "blocks/指北针/NORTH2",
+    "name": "NORTH2",
+    "source": "blocks/指北针/NORTH2.sld",
+    "svg": "thumbnails/blocks/指北针/NORTH2.svg",
+    "dwg": "blocks/指北针/NORTH2.dwg",
+    "pattern": null,
+    "segments": 48
+  },
+  {
+    "id": "blocks/指北针/NORTH3",
+    "name": "NORTH3",
+    "source": "blocks/指北针/NORTH3.sld",
+    "svg": "thumbnails/blocks/指北针/NORTH3.svg",
+    "dwg": "blocks/指北针/NORTH3.dwg",
+    "pattern": null,
+    "segments": 19
+  },
+  {
+    "id": "blocks/指北针/NORTH4",
+    "name": "NORTH4",
+    "source": "blocks/指北针/NORTH4.sld",
+    "svg": "thumbnails/blocks/指北针/NORTH4.svg",
+    "dwg": "blocks/指北针/NORTH4.dwg",
+    "pattern": null,
+    "segments": 67
+  },
+  {
+    "id": "blocks/指北针/NORTH5",
+    "name": "NORTH5",
+    "source": "blocks/指北针/NORTH5.sld",
+    "svg": "thumbnails/blocks/指北针/NORTH5.svg",
+    "dwg": "blocks/指北针/NORTH5.dwg",
+    "pattern": null,
+    "segments": 185
+  },
+  {
+    "id": "blocks/指北针/NORTH6",
+    "name": "NORTH6",
+    "source": "blocks/指北针/NORTH6.sld",
+    "svg": "thumbnails/blocks/指北针/NORTH6.svg",
+    "dwg": "blocks/指北针/NORTH6.dwg",
+    "pattern": null,
+    "segments": 289
+  },
+  {
+    "id": "blocks/指北针/NORTH7",
+    "name": "NORTH7",
+    "source": "blocks/指北针/NORTH7.sld",
+    "svg": "thumbnails/blocks/指北针/NORTH7.svg",
+    "dwg": "blocks/指北针/NORTH7.dwg",
+    "pattern": null,
+    "segments": 68
+  },
+  {
+    "id": "blocks/指北针/NORTH8",
+    "name": "NORTH8",
+    "source": "blocks/指北针/NORTH8.sld",
+    "svg": "thumbnails/blocks/指北针/NORTH8.svg",
+    "dwg": "blocks/指北针/NORTH8.dwg",
+    "pattern": null,
+    "segments": 87
+  },
+  {
+    "id": "blocks/指北针/NORTH9",
+    "name": "NORTH9",
+    "source": "blocks/指北针/NORTH9.sld",
+    "svg": "thumbnails/blocks/指北针/NORTH9.svg",
+    "dwg": "blocks/指北针/NORTH9.dwg",
+    "pattern": null,
+    "segments": 53
+  },
+  {
+    "id": "blocks/指北针/SZ",
+    "name": "SZ",
+    "source": "blocks/指北针/SZ.sld",
+    "svg": "thumbnails/blocks/指北针/SZ.svg",
+    "dwg": "blocks/指北针/SZ.DWG",
+    "pattern": null,
+    "segments": 8
+  },
+  {
+    "id": "blocks/指北针/SZ2",
+    "name": "SZ2",
+    "source": "blocks/指北针/SZ2.sld",
+    "svg": "thumbnails/blocks/指北针/SZ2.svg",
+    "dwg": "blocks/指北针/SZ2.DWG",
+    "pattern": null,
+    "segments": 74
+  },
+  {
+    "id": "blocks/指北针/ZB",
+    "name": "ZB",
+    "source": "blocks/指北针/ZB.sld",
+    "svg": "thumbnails/blocks/指北针/ZB.svg",
+    "dwg": "blocks/指北针/ZB.dwg",
+    "pattern": null,
+    "segments": 286
+  },
+  {
+    "id": "blocks/指北针/ZB1",
+    "name": "ZB1",
+    "source": "blocks/指北针/ZB1.sld",
+    "svg": "thumbnails/blocks/指北针/ZB1.svg",
+    "dwg": "blocks/指北针/ZB1.dwg",
+    "pattern": null,
+    "segments": 381
+  },
+  {
+    "id": "blocks/指北针/ZB2",
+    "name": "ZB2",
+    "source": "blocks/指北针/ZB2.sld",
+    "svg": "thumbnails/blocks/指北针/ZB2.svg",
+    "dwg": "blocks/指北针/ZB2.dwg",
+    "pattern": null,
+    "segments": 119
+  },
+  {
+    "id": "blocks/指北针/ZB3",
+    "name": "ZB3",
+    "source": "blocks/指北针/ZB3.sld",
+    "svg": "thumbnails/blocks/指北针/ZB3.svg",
+    "dwg": "blocks/指北针/ZB3.dwg",
+    "pattern": null,
+    "segments": 76
+  },
+  {
+    "id": "blocks/符号/90度阳角",
+    "name": "90度阳角",
+    "source": "blocks/符号/90度阳角.sld",
+    "svg": "thumbnails/blocks/符号/90度阳角.svg",
+    "dwg": "blocks/符号/90度阳角.dwg",
+    "pattern": null,
+    "segments": 75
+  },
+  {
+    "id": "blocks/符号/双截断线1",
+    "name": "双截断线1",
+    "source": "blocks/符号/双截断线1.sld",
+    "svg": "thumbnails/blocks/符号/双截断线1.svg",
+    "dwg": "blocks/符号/双截断线1.dwg",
+    "pattern": null,
+    "segments": 23802
+  },
+  {
+    "id": "blocks/符号/平面索引块",
+    "name": "平面索引块",
+    "source": "blocks/符号/平面索引块.sld",
+    "svg": "thumbnails/blocks/符号/平面索引块.svg",
+    "dwg": "blocks/符号/平面索引块.dwg",
+    "pattern": null,
+    "segments": 407
+  },
+  {
+    "id": "blocks/符号/瓷砖起铺点",
+    "name": "瓷砖起铺点",
+    "source": "blocks/符号/瓷砖起铺点.sld",
+    "svg": "thumbnails/blocks/符号/瓷砖起铺点.svg",
+    "dwg": "blocks/符号/瓷砖起铺点.dwg",
+    "pattern": null,
+    "segments": 95
+  },
+  {
+    "id": "blocks/符号/符号图号指示",
+    "name": "符号图号指示",
+    "source": "blocks/符号/符号图号指示.sld",
+    "svg": "thumbnails/blocks/符号/符号图号指示.svg",
+    "dwg": "blocks/符号/符号图号指示.dwg",
+    "pattern": null,
+    "segments": 209
+  },
+  {
+    "id": "blocks/符号/符号节点",
+    "name": "符号节点",
+    "source": "blocks/符号/符号节点.sld",
+    "svg": "thumbnails/blocks/符号/符号节点.svg",
+    "dwg": "blocks/符号/符号节点.dwg",
+    "pattern": null,
+    "segments": 186
+  },
+  {
+    "id": "blocks/符号/箭头",
+    "name": "箭头",
+    "source": "blocks/符号/箭头.sld",
+    "svg": "thumbnails/blocks/符号/箭头.svg",
+    "dwg": "blocks/符号/箭头.dwg",
+    "pattern": null,
+    "segments": 9
+  },
+  {
+    "id": "blocks/符号/给排水符号",
+    "name": "给排水符号",
+    "source": "blocks/符号/给排水符号.sld",
+    "svg": "thumbnails/blocks/符号/给排水符号.svg",
+    "dwg": "blocks/符号/给排水符号.dwg",
+    "pattern": null,
+    "segments": 406
+  },
+  {
+    "id": "blocks/符号/铺装启始符",
+    "name": "铺装启始符",
+    "source": "blocks/符号/铺装启始符.sld",
+    "svg": "thumbnails/blocks/符号/铺装启始符.svg",
+    "dwg": "blocks/符号/铺装启始符.dwg",
+    "pattern": null,
+    "segments": 105
+  },
+  {
+    "id": "blocks/符号/铺贴起始点",
+    "name": "铺贴起始点",
+    "source": "blocks/符号/铺贴起始点.sld",
+    "svg": "thumbnails/blocks/符号/铺贴起始点.svg",
+    "dwg": "blocks/符号/铺贴起始点.dwg",
+    "pattern": null,
+    "segments": 194
+  },
+  {
+    "id": "blocks/设备/冰箱",
+    "name": "冰箱",
+    "source": "blocks/设备/冰箱.sld",
+    "svg": "thumbnails/blocks/设备/冰箱.svg",
+    "dwg": "blocks/设备/冰箱.dwg",
+    "pattern": null,
+    "segments": 149
+  },
+  {
+    "id": "blocks/设备/双排T5",
+    "name": "双排T5",
+    "source": "blocks/设备/双排T5.sld",
+    "svg": "thumbnails/blocks/设备/双排T5.svg",
+    "dwg": "blocks/设备/双排T5.dwg",
+    "pattern": null,
+    "segments": 178
+  },
+  {
+    "id": "blocks/设备/平立面灶",
+    "name": "平立面灶",
+    "source": "blocks/设备/平立面灶.sld",
+    "svg": "thumbnails/blocks/设备/平立面灶.svg",
+    "dwg": "blocks/设备/平立面灶.dwg",
+    "pattern": null,
+    "segments": 825
+  },
+  {
+    "id": "blocks/设备/液晶电视机1",
+    "name": "液晶电视机1",
+    "source": "blocks/设备/液晶电视机1.sld",
+    "svg": "thumbnails/blocks/设备/液晶电视机1.svg",
+    "dwg": "blocks/设备/液晶电视机1.dwg",
+    "pattern": null,
+    "segments": 852
+  },
+  {
+    "id": "blocks/设备/灯具all",
+    "name": "灯具all",
+    "source": "blocks/设备/灯具all.sld",
+    "svg": "thumbnails/blocks/设备/灯具all.svg",
+    "dwg": "blocks/设备/灯具all.dwg",
+    "pattern": null,
+    "segments": 579
+  },
+  {
+    "id": "blocks/设备/灯具all2",
+    "name": "灯具all2",
+    "source": "blocks/设备/灯具all2.sld",
+    "svg": "thumbnails/blocks/设备/灯具all2.svg",
+    "dwg": "blocks/设备/灯具all2.dwg",
+    "pattern": null,
+    "segments": 147
+  },
+  {
+    "id": "blocks/设备/空调风口1",
+    "name": "空调风口1",
+    "source": "blocks/设备/空调风口1.sld",
+    "svg": "thumbnails/blocks/设备/空调风口1.svg",
+    "dwg": "blocks/设备/空调风口1.dwg",
+    "pattern": null,
+    "segments": 286
+  },
+  {
+    "id": "blocks/设备/空调风口2",
+    "name": "空调风口2",
+    "source": "blocks/设备/空调风口2.sld",
+    "svg": "thumbnails/blocks/设备/空调风口2.svg",
+    "dwg": "blocks/设备/空调风口2.dwg",
+    "pattern": null,
+    "segments": 327
+  },
+  {
+    "id": "blocks/设备/空调风口3",
+    "name": "空调风口3",
+    "source": "blocks/设备/空调风口3.sld",
+    "svg": "thumbnails/blocks/设备/空调风口3.svg",
+    "dwg": "blocks/设备/空调风口3.dwg",
+    "pattern": null,
+    "segments": 684
+  },
+  {
+    "id": "blocks/设备/空调风口4",
+    "name": "空调风口4",
+    "source": "blocks/设备/空调风口4.sld",
+    "svg": "thumbnails/blocks/设备/空调风口4.svg",
+    "dwg": "blocks/设备/空调风口4.dwg",
+    "pattern": null,
+    "segments": 253
+  },
+  {
+    "id": "blocks/设备/钢琴",
+    "name": "钢琴",
+    "source": "blocks/设备/钢琴.sld",
+    "svg": "thumbnails/blocks/设备/钢琴.svg",
+    "dwg": "blocks/设备/钢琴.dwg",
+    "pattern": null,
+    "segments": 3260
+  },
+  {
+    "id": "blocks/设备/面板开关1",
+    "name": "面板开关1",
+    "source": "blocks/设备/面板开关1.sld",
+    "svg": "thumbnails/blocks/设备/面板开关1.svg",
+    "dwg": "blocks/设备/面板开关1.dwg",
+    "pattern": null,
+    "segments": 14
+  },
+  {
+    "id": "blocks/设备/面板开关2",
+    "name": "面板开关2",
+    "source": "blocks/设备/面板开关2.sld",
+    "svg": "thumbnails/blocks/设备/面板开关2.svg",
+    "dwg": "blocks/设备/面板开关2.dwg",
+    "pattern": null,
+    "segments": 213
+  },
+  {
+    "id": "blocks/设备/面板插座1",
+    "name": "面板插座1",
+    "source": "blocks/设备/面板插座1.sld",
+    "svg": "thumbnails/blocks/设备/面板插座1.svg",
+    "dwg": "blocks/设备/面板插座1.dwg",
+    "pattern": null,
+    "segments": 52
+  },
+  {
+    "id": "blocks/设备/面板插座2",
+    "name": "面板插座2",
+    "source": "blocks/设备/面板插座2.sld",
+    "svg": "thumbnails/blocks/设备/面板插座2.svg",
+    "dwg": "blocks/设备/面板插座2.dwg",
+    "pattern": null,
+    "segments": 185
+  },
+  {
+    "id": "blocks/设备/饮水机",
+    "name": "饮水机",
+    "source": "blocks/设备/饮水机.sld",
+    "svg": "thumbnails/blocks/设备/饮水机.svg",
+    "dwg": "blocks/设备/饮水机.dwg",
+    "pattern": null,
+    "segments": 226
+  },
+  {
+    "id": "library/ENGINE",
+    "name": "ENGINE",
+    "source": "library/ENGINE.sld",
+    "svg": "thumbnails/library/ENGINE.svg",
+    "dwg": null,
+    "pattern": "ENGINE",
+    "segments": 320
+  },
+  {
+    "id": "library/乱理石",
+    "name": "乱理石",
+    "source": "library/乱理石.sld",
+    "svg": "thumbnails/library/乱理石.svg",
+    "dwg": null,
+    "pattern": "乱理石",
+    "segments": 2895
+  },
+  {
+    "id": "library/圆圈铺地",
+    "name": "圆圈铺地",
+    "source": "library/圆圈铺地.sld",
+    "svg": "thumbnails/library/圆圈铺地.svg",
+    "dwg": null,
+    "pattern": "圆圈铺地",
+    "segments": 4958
+  },
+  {
+    "id": "library/雕花",
+    "name": "雕花",
+    "source": "library/雕花.sld",
+    "svg": "thumbnails/library/雕花.svg",
+    "dwg": null,
+    "pattern": "雕花",
+    "segments": 675
+  },
+  {
+    "id": "windows/DRBLK101",
+    "name": "DRBLK101",
+    "source": "windows/DRBLK101.sld",
+    "svg": "thumbnails/windows/DRBLK101.svg",
+    "dwg": "windows/DRBLK101.dwg",
+    "pattern": null,
+    "segments": 39
+  },
+  {
+    "id": "windows/DRBLK102",
+    "name": "DRBLK102",
+    "source": "windows/DRBLK102.sld",
+    "svg": "thumbnails/windows/DRBLK102.svg",
+    "dwg": "windows/DRBLK102.dwg",
+    "pattern": null,
+    "segments": 62
+  },
+  {
+    "id": "windows/DRBLK201",
+    "name": "DRBLK201",
+    "source": "windows/DRBLK201.sld",
+    "svg": "thumbnails/windows/DRBLK201.svg",
+    "dwg": "windows/DRBLK201.dwg",
+    "pattern": null,
+    "segments": 7
+  },
+  {
+    "id": "windows/DRBLK202",
+    "name": "DRBLK202",
+    "source": "windows/DRBLK202.sld",
+    "svg": "thumbnails/windows/DRBLK202.svg",
+    "dwg": "windows/DRBLK202.dwg",
+    "pattern": null,
+    "segments": 8
+  },
+  {
+    "id": "windows/DRBLK20X",
+    "name": "DRBLK20X",
+    "source": "windows/DRBLK20X.sld",
+    "svg": "thumbnails/windows/DRBLK20X.svg",
+    "dwg": "windows/DRBLK20X.dwg",
+    "pattern": null,
+    "segments": 8
+  },
+  {
+    "id": "windows/DR_CDR1",
+    "name": "DR_CDR1",
+    "source": "windows/DR_CDR1.sld",
+    "svg": "thumbnails/windows/DR_CDR1.svg",
+    "dwg": "windows/DR_CDR1.dwg",
+    "pattern": null,
+    "segments": 30
+  },
+  {
+    "id": "windows/DR_CDR2",
+    "name": "DR_CDR2",
+    "source": "windows/DR_CDR2.sld",
+    "svg": "thumbnails/windows/DR_CDR2.svg",
+    "dwg": "windows/DR_CDR2.dwg",
+    "pattern": null,
+    "segments": 48
+  },
+  {
+    "id": "windows/DR_CSDR1",
+    "name": "DR_CSDR1",
+    "source": "windows/DR_CSDR1.sld",
+    "svg": "thumbnails/windows/DR_CSDR1.svg",
+    "dwg": "windows/DR_CSDR1.dwg",
+    "pattern": null,
+    "segments": 46
+  },
+  {
+    "id": "windows/DR_CSDR2",
+    "name": "DR_CSDR2",
+    "source": "windows/DR_CSDR2.sld",
+    "svg": "thumbnails/windows/DR_CSDR2.svg",
+    "dwg": "windows/DR_CSDR2.dwg",
+    "pattern": null,
+    "segments": 62
+  },
+  {
+    "id": "windows/DR_D01",
+    "name": "DR_D01",
+    "source": "windows/DR_D01.sld",
+    "svg": "thumbnails/windows/DR_D01.svg",
+    "dwg": "windows/DR_D01.dwg",
+    "pattern": null,
+    "segments": 69
+  },
+  {
+    "id": "windows/DR_D02",
+    "name": "DR_D02",
+    "source": "windows/DR_D02.sld",
+    "svg": "thumbnails/windows/DR_D02.svg",
+    "dwg": "windows/DR_D02.dwg",
+    "pattern": null,
+    "segments": 82
+  },
+  {
+    "id": "windows/DR_D03",
+    "name": "DR_D03",
+    "source": "windows/DR_D03.sld",
+    "svg": "thumbnails/windows/DR_D03.svg",
+    "dwg": "windows/DR_D03.dwg",
+    "pattern": null,
+    "segments": 126
+  },
+  {
+    "id": "windows/DR_D04",
+    "name": "DR_D04",
+    "source": "windows/DR_D04.sld",
+    "svg": "thumbnails/windows/DR_D04.svg",
+    "dwg": "windows/DR_D04.dwg",
+    "pattern": null,
+    "segments": 203
+  },
+  {
+    "id": "windows/DR_D06",
+    "name": "DR_D06",
+    "source": "windows/DR_D06.sld",
+    "svg": "thumbnails/windows/DR_D06.svg",
+    "dwg": "windows/DR_D06.dwg",
+    "pattern": null,
+    "segments": 172
+  },
+  {
+    "id": "windows/DR_DBS",
+    "name": "DR_DBS",
+    "source": "windows/DR_DBS.sld",
+    "svg": "thumbnails/windows/DR_DBS.svg",
+    "dwg": "windows/DR_DBS.dwg",
+    "pattern": null,
+    "segments": 82
+  },
+  {
+    "id": "windows/DR_SD1",
+    "name": "DR_SD1",
+    "source": "windows/DR_SD1.sld",
+    "svg": "thumbnails/windows/DR_SD1.svg",
+    "dwg": "windows/DR_SD1.dwg",
+    "pattern": null,
+    "segments": 87
+  },
+  {
+    "id": "windows/DR_SD2",
+    "name": "DR_SD2",
+    "source": "windows/DR_SD2.sld",
+    "svg": "thumbnails/windows/DR_SD2.svg",
+    "dwg": "windows/DR_SD2.dwg",
+    "pattern": null,
+    "segments": 144
+  },
+  {
+    "id": "windows/DR_SD3",
+    "name": "DR_SD3",
+    "source": "windows/DR_SD3.sld",
+    "svg": "thumbnails/windows/DR_SD3.svg",
+    "dwg": "windows/DR_SD3.dwg",
+    "pattern": null,
+    "segments": 216
+  },
+  {
+    "id": "windows/DR_SD4",
+    "name": "DR_SD4",
+    "source": "windows/DR_SD4.sld",
+    "svg": "thumbnails/windows/DR_SD4.svg",
+    "dwg": "windows/DR_SD4.dwg",
+    "pattern": null,
+    "segments": 262
+  },
+  {
+    "id": "windows/DR_SD6",
+    "name": "DR_SD6",
+    "source": "windows/DR_SD6.sld",
+    "svg": "thumbnails/windows/DR_SD6.svg",
+    "dwg": "windows/DR_SD6.dwg",
+    "pattern": null,
+    "segments": 318
+  },
+  {
+    "id": "windows/DR_UKF1",
+    "name": "DR_UKF1",
+    "source": "windows/DR_UKF1.sld",
+    "svg": "thumbnails/windows/DR_UKF1.svg",
+    "dwg": "windows/DR_UKF1.DWG",
+    "pattern": null,
+    "segments": 65
+  },
+  {
+    "id": "windows/DR_UKF2",
+    "name": "DR_UKF2",
+    "source": "windows/DR_UKF2.sld",
+    "svg": "thumbnails/windows/DR_UKF2.svg",
+    "dwg": "windows/DR_UKF2.DWG",
+    "pattern": null,
+    "segments": 86
+  },
+  {
+    "id": "windows/DR_UKFBS",
+    "name": "DR_UKFBS",
+    "source": "windows/DR_UKFBS.sld",
+    "svg": "thumbnails/windows/DR_UKFBS.svg",
+    "dwg": "windows/DR_UKFBS.dwg",
+    "pattern": null,
+    "segments": 176
+  },
+  {
+    "id": "windows/DR_WDW",
+    "name": "DR_WDW",
+    "source": "windows/DR_WDW.sld",
+    "svg": "thumbnails/windows/DR_WDW.svg",
+    "dwg": "windows/DR_WDW.DWG",
+    "pattern": null,
+    "segments": 56
+  },
+  {
+    "id": "windows/DR_XZM",
+    "name": "DR_XZM",
+    "source": "windows/DR_XZM.sld",
+    "svg": "thumbnails/windows/DR_XZM.svg",
+    "dwg": "windows/DR_XZM.dwg",
+    "pattern": null,
+    "segments": 240
+  },
+  {
+    "id": "windows/DR_ZRT",
+    "name": "DR_ZRT",
+    "source": "windows/DR_ZRT.sld",
+    "svg": "thumbnails/windows/DR_ZRT.svg",
+    "dwg": "windows/DR_ZRT.dwg",
+    "pattern": null,
+    "segments": 267
+  },
+  {
+    "id": "windows/WD_00_X1",
+    "name": "WD_00_X1",
+    "source": "windows/WD_00_X1.sld",
+    "svg": "thumbnails/windows/WD_00_X1.svg",
+    "dwg": "windows/WD_00_X1.dwg",
+    "pattern": null,
+    "segments": 12
+  },
+  {
+    "id": "windows/WD_00_X2",
+    "name": "WD_00_X2",
+    "source": "windows/WD_00_X2.sld",
+    "svg": "thumbnails/windows/WD_00_X2.svg",
+    "dwg": "windows/WD_00_X2.dwg",
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "windows/WD_00_X3",
+    "name": "WD_00_X3",
+    "source": "windows/WD_00_X3.sld",
+    "svg": "thumbnails/windows/WD_00_X3.svg",
+    "dwg": "windows/WD_00_X3.dwg",
+    "pattern": null,
+    "segments": 20
+  },
+  {
+    "id": "windows/WD_00_X4",
+    "name": "WD_00_X4",
+    "source": "windows/WD_00_X4.sld",
+    "svg": "thumbnails/windows/WD_00_X4.svg",
+    "dwg": "windows/WD_00_X4.dwg",
+    "pattern": null,
+    "segments": 21
+  },
+  {
+    "id": "windows/WD_1TLP",
+    "name": "WD_1TLP",
+    "source": "windows/WD_1TLP.sld",
+    "svg": "thumbnails/windows/WD_1TLP.svg",
+    "dwg": "windows/WD_1TLP.dwg",
+    "pattern": null,
+    "segments": 11
+  },
+  {
+    "id": "windows/WD_2LINE",
+    "name": "WD_2LINE",
+    "source": "windows/WD_2LINE.sld",
+    "svg": "thumbnails/windows/WD_2LINE.svg",
+    "dwg": "windows/WD_2LINE.dwg",
+    "pattern": null,
+    "segments": 8
+  },
+  {
+    "id": "windows/WD_2TLP",
+    "name": "WD_2TLP",
+    "source": "windows/WD_2TLP.sld",
+    "svg": "thumbnails/windows/WD_2TLP.svg",
+    "dwg": "windows/WD_2TLP.dwg",
+    "pattern": null,
+    "segments": 11
+  },
+  {
+    "id": "windows/WD_HIGH4",
+    "name": "WD_HIGH4",
+    "source": "windows/WD_HIGH4.sld",
+    "svg": "thumbnails/windows/WD_HIGH4.svg",
+    "dwg": "windows/WD_HIGH4.dwg",
+    "pattern": null,
+    "segments": 14
+  },
+  {
+    "id": "windows/WD_LD1",
+    "name": "WD_LD1",
+    "source": "windows/WD_LD1.sld",
+    "svg": "thumbnails/windows/WD_LD1.svg",
+    "dwg": "windows/WD_LD1.dwg",
+    "pattern": null,
+    "segments": 12
+  },
+  {
+    "id": "windows/WD_LD2",
+    "name": "WD_LD2",
+    "source": "windows/WD_LD2.sld",
+    "svg": "thumbnails/windows/WD_LD2.svg",
+    "dwg": "windows/WD_LD2.dwg",
+    "pattern": null,
+    "segments": 12
+  },
+  {
+    "id": "windows/WD_LD3",
+    "name": "WD_LD3",
+    "source": "windows/WD_LD3.sld",
+    "svg": "thumbnails/windows/WD_LD3.svg",
+    "dwg": "windows/WD_LD3.dwg",
+    "pattern": null,
+    "segments": 15
+  },
+  {
+    "id": "windows/WD_LD4",
+    "name": "WD_LD4",
+    "source": "windows/WD_LD4.sld",
+    "svg": "thumbnails/windows/WD_LD4.svg",
+    "dwg": "windows/WD_LD4.dwg",
+    "pattern": null,
+    "segments": 18
+  },
+  {
+    "id": "windows/WD_T1500x500",
+    "name": "WD_T1500x500",
+    "source": "windows/WD_T1500x500.sld",
+    "svg": "thumbnails/windows/WD_T1500x500.svg",
+    "dwg": "windows/WD_T1500x500.dwg",
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "windows/WD_T1800x600",
+    "name": "WD_T1800x600",
+    "source": "windows/WD_T1800x600.sld",
+    "svg": "thumbnails/windows/WD_T1800x600.svg",
+    "dwg": "windows/WD_T1800x600.dwg",
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "windows/WD_TD1500x500",
+    "name": "WD_TD1500x500",
+    "source": "windows/WD_TD1500x500.sld",
+    "svg": "thumbnails/windows/WD_TD1500x500.svg",
+    "dwg": "windows/WD_TD1500x500.dwg",
+    "pattern": null,
+    "segments": 17
+  },
+  {
+    "id": "windows/WD_TX1800x500",
+    "name": "WD_TX1800x500",
+    "source": "windows/WD_TX1800x500.sld",
+    "svg": "thumbnails/windows/WD_TX1800x500.svg",
+    "dwg": "windows/WD_TX1800x500.dwg",
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "windows/WD_TXD1800x500",
+    "name": "WD_TXD1800x500",
+    "source": "windows/WD_TXD1800x500.sld",
+    "svg": "thumbnails/windows/WD_TXD1800x500.svg",
+    "dwg": "windows/WD_TXD1800x500.dwg",
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "windows/WD_WIN3",
+    "name": "WD_WIN3",
+    "source": "windows/WD_WIN3.sld",
+    "svg": "thumbnails/windows/WD_WIN3.svg",
+    "dwg": "windows/WD_WIN3.dwg",
+    "pattern": null,
+    "segments": 9
+  },
+  {
+    "id": "windows/WD_WIN4",
+    "name": "WD_WIN4",
+    "source": "windows/WD_WIN4.sld",
+    "svg": "thumbnails/windows/WD_WIN4.svg",
+    "dwg": "windows/WD_WIN4.dwg",
+    "pattern": null,
+    "segments": 10
+  },
+  {
+    "id": "windows/WD_dtj1",
+    "name": "WD_dtj1",
+    "source": "windows/WD_dtj1.sld",
+    "svg": "thumbnails/windows/WD_dtj1.svg",
+    "dwg": "windows/WD_dtj1.dwg",
+    "pattern": null,
+    "segments": 7
+  },
+  {
+    "id": "windows/WD_dtj2",
+    "name": "WD_dtj2",
+    "source": "windows/WD_dtj2.sld",
+    "svg": "thumbnails/windows/WD_dtj2.svg",
+    "dwg": "windows/WD_dtj2.dwg",
+    "pattern": null,
+    "segments": 11
+  },
+  {
+    "id": "slb/library_patterns/2X2地砖",
+    "name": "2X2地砖",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/2X2地砖.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 222
+  },
+  {
+    "id": "slb/library_patterns/L形人行道砖",
+    "name": "L形人行道砖",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/L形人行道砖.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 192
+  },
+  {
+    "id": "slb/library_patterns/S形人行道砖",
+    "name": "S形人行道砖",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/S形人行道砖.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 183
+  },
+  {
+    "id": "slb/library_patterns/编织材料",
+    "name": "编织材料",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/编织材料.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 75
+  },
+  {
+    "id": "slb/library_patterns/编织花纹",
+    "name": "编织花纹",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/编织花纹.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 120
+  },
+  {
+    "id": "slb/library_patterns/编织金属网",
+    "name": "编织金属网",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/编织金属网.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 199
+  },
+  {
+    "id": "slb/library_patterns/玻璃",
+    "name": "玻璃",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/玻璃.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 17
+  },
+  {
+    "id": "slb/library_patterns/玻璃1",
+    "name": "玻璃1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/玻璃1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 65
+  },
+  {
+    "id": "slb/library_patterns/玻璃2",
+    "name": "玻璃2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/玻璃2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 69
+  },
+  {
+    "id": "slb/library_patterns/玻璃影1",
+    "name": "玻璃影1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/玻璃影1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 92
+  },
+  {
+    "id": "slb/library_patterns/玻璃影2",
+    "name": "玻璃影2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/玻璃影2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 131
+  },
+  {
+    "id": "slb/library_patterns/玻璃砖墙",
+    "name": "玻璃砖墙",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/玻璃砖墙.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 202
+  },
+  {
+    "id": "slb/library_patterns/草坪或沼泽",
+    "name": "草坪或沼泽",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/草坪或沼泽.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 282
+  },
+  {
+    "id": "slb/library_patterns/窗花1",
+    "name": "窗花1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/窗花1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 243
+  },
+  {
+    "id": "slb/library_patterns/窗花2",
+    "name": "窗花2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/窗花2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 205
+  },
+  {
+    "id": "slb/library_patterns/窗花3",
+    "name": "窗花3",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/窗花3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 226
+  },
+  {
+    "id": "slb/library_patterns/窗花4",
+    "name": "窗花4",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/窗花4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 106
+  },
+  {
+    "id": "slb/library_patterns/大理石",
+    "name": "大理石",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/大理石.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 192
+  },
+  {
+    "id": "slb/library_patterns/大理石2",
+    "name": "大理石2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/大理石2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1421
+  },
+  {
+    "id": "slb/library_patterns/大理石3",
+    "name": "大理石3",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/大理石3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 945
+  },
+  {
+    "id": "slb/library_patterns/大理石4",
+    "name": "大理石4",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/大理石4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 720
+  },
+  {
+    "id": "slb/library_patterns/地板1",
+    "name": "地板1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/地板1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 125
+  },
+  {
+    "id": "slb/library_patterns/地板2",
+    "name": "地板2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/地板2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 98
+  },
+  {
+    "id": "slb/library_patterns/地板3",
+    "name": "地板3",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/地板3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 61
+  },
+  {
+    "id": "slb/library_patterns/地板4",
+    "name": "地板4",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/地板4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 80
+  },
+  {
+    "id": "slb/library_patterns/多孔材料",
+    "name": "多孔材料",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/多孔材料.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 25
+  },
+  {
+    "id": "slb/library_patterns/鹅卵石",
+    "name": "鹅卵石",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/鹅卵石.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1332
+  },
+  {
+    "id": "slb/library_patterns/防水材料",
+    "name": "防水材料",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/防水材料.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 71
+  },
+  {
+    "id": "slb/library_patterns/粉刷",
+    "name": "粉刷",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/粉刷.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 236
+  },
+  {
+    "id": "slb/library_patterns/钢筋混凝土",
+    "name": "钢筋混凝土",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/钢筋混凝土.svg",
+    "dwg": null,
+    "pattern": "钢筋混凝土",
+    "segments": 227
+  },
+  {
+    "id": "slb/library_patterns/隔热材料01",
+    "name": "隔热材料01",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/隔热材料01.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 475
+  },
+  {
+    "id": "slb/library_patterns/隔热材料02",
+    "name": "隔热材料02",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/隔热材料02.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 468
+  },
+  {
+    "id": "slb/library_patterns/隔热材料03",
+    "name": "隔热材料03",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/隔热材料03.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 495
+  },
+  {
+    "id": "slb/library_patterns/夯实土壤",
+    "name": "夯实土壤",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/夯实土壤.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 80
+  },
+  {
+    "id": "slb/library_patterns/混凝土",
+    "name": "混凝土",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/混凝土.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 127
+  },
+  {
+    "id": "slb/library_patterns/加气混凝土",
+    "name": "加气混凝土",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/加气混凝土.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 192
+  },
+  {
+    "id": "slb/library_patterns/胶合板",
+    "name": "胶合板",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/胶合板.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 29
+  },
+  {
+    "id": "slb/library_patterns/胶合板1",
+    "name": "胶合板1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/胶合板1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 123
+  },
+  {
+    "id": "slb/library_patterns/焦渣矿渣",
+    "name": "焦渣矿渣",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/焦渣矿渣.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 118
+  },
+  {
+    "id": "slb/library_patterns/金属",
+    "name": "金属",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/金属.svg",
+    "dwg": null,
+    "pattern": "金属",
+    "segments": 28
+  },
+  {
+    "id": "slb/library_patterns/矩形格条面板",
+    "name": "矩形格条面板",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/矩形格条面板.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 142
+  },
+  {
+    "id": "slb/library_patterns/空心砖",
+    "name": "空心砖",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/空心砖.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 26
+  },
+  {
+    "id": "slb/library_patterns/离散材料",
+    "name": "离散材料",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/离散材料.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 643
+  },
+  {
+    "id": "slb/library_patterns/立面砖1",
+    "name": "立面砖1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/立面砖1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 116
+  },
+  {
+    "id": "slb/library_patterns/立面砖2",
+    "name": "立面砖2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/立面砖2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 168
+  },
+  {
+    "id": "slb/library_patterns/立面砖3",
+    "name": "立面砖3",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/立面砖3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 258
+  },
+  {
+    "id": "slb/library_patterns/立面砖4",
+    "name": "立面砖4",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/立面砖4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 220
+  },
+  {
+    "id": "slb/library_patterns/立面砖5",
+    "name": "立面砖5",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/立面砖5.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 274
+  },
+  {
+    "id": "slb/library_patterns/立面砖6",
+    "name": "立面砖6",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/立面砖6.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 196
+  },
+  {
+    "id": "slb/library_patterns/立面砖240",
+    "name": "立面砖240",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/立面砖240.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 35
+  },
+  {
+    "id": "slb/library_patterns/砾石铺砌",
+    "name": "砾石铺砌",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/砾石铺砌.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 483
+  },
+  {
+    "id": "slb/library_patterns/菱形金属网",
+    "name": "菱形金属网",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/菱形金属网.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 293
+  },
+  {
+    "id": "slb/library_patterns/卵石1",
+    "name": "卵石1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/卵石1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 335
+  },
+  {
+    "id": "slb/library_patterns/卵石2",
+    "name": "卵石2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/卵石2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 462
+  },
+  {
+    "id": "slb/library_patterns/卵石3",
+    "name": "卵石3",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/卵石3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 482
+  },
+  {
+    "id": "slb/library_patterns/毛石",
+    "name": "毛石",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/毛石.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 179
+  },
+  {
+    "id": "slb/library_patterns/毛石2",
+    "name": "毛石2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/毛石2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 491
+  },
+  {
+    "id": "slb/library_patterns/茅草屋面",
+    "name": "茅草屋面",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/茅草屋面.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 182
+  },
+  {
+    "id": "slb/library_patterns/木板",
+    "name": "木板",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/木板.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 24
+  },
+  {
+    "id": "slb/library_patterns/木材",
+    "name": "木材",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/木材.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 48
+  },
+  {
+    "id": "slb/library_patterns/木材2",
+    "name": "木材2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/木材2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1039
+  },
+  {
+    "id": "slb/library_patterns/木地板",
+    "name": "木地板",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/木地板.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 47
+  },
+  {
+    "id": "slb/library_patterns/木地板1",
+    "name": "木地板1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/木地板1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 143
+  },
+  {
+    "id": "slb/library_patterns/木纹",
+    "name": "木纹",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/木纹.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1062
+  },
+  {
+    "id": "slb/library_patterns/木纹1",
+    "name": "木纹1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/木纹1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1542
+  },
+  {
+    "id": "slb/library_patterns/木纹2",
+    "name": "木纹2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/木纹2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1038
+  },
+  {
+    "id": "slb/library_patterns/木纹3",
+    "name": "木纹3",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/木纹3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 2089
+  },
+  {
+    "id": "slb/library_patterns/木纹4",
+    "name": "木纹4",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/木纹4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 582
+  },
+  {
+    "id": "slb/library_patterns/木纹5",
+    "name": "木纹5",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/木纹5.svg",
+    "dwg": null,
+    "pattern": "木纹5",
+    "segments": 352
+  },
+  {
+    "id": "slb/library_patterns/木纹6",
+    "name": "木纹6",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/木纹6.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 283
+  },
+  {
+    "id": "slb/library_patterns/耐火砖",
+    "name": "耐火砖",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/耐火砖.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 146
+  },
+  {
+    "id": "slb/library_patterns/片石墙",
+    "name": "片石墙",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/片石墙.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 261
+  },
+  {
+    "id": "slb/library_patterns/拚花地砖01",
+    "name": "拚花地砖01",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/拚花地砖01.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 161
+  },
+  {
+    "id": "slb/library_patterns/拼花地砖02",
+    "name": "拼花地砖02",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/拼花地砖02.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 57
+  },
+  {
+    "id": "slb/library_patterns/拼花地砖03",
+    "name": "拼花地砖03",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/拼花地砖03.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 76
+  },
+  {
+    "id": "slb/library_patterns/平铺砖",
+    "name": "平铺砖",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/平铺砖.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 638
+  },
+  {
+    "id": "slb/library_patterns/铺地1",
+    "name": "铺地1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/铺地1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 850
+  },
+  {
+    "id": "slb/library_patterns/铺地2",
+    "name": "铺地2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/铺地2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 793
+  },
+  {
+    "id": "slb/library_patterns/铺地3",
+    "name": "铺地3",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/铺地3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 973
+  },
+  {
+    "id": "slb/library_patterns/铺地4",
+    "name": "铺地4",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/铺地4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 807
+  },
+  {
+    "id": "slb/library_patterns/铺地11",
+    "name": "铺地11",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/铺地11.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 401
+  },
+  {
+    "id": "slb/library_patterns/铺地12",
+    "name": "铺地12",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/铺地12.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 259
+  },
+  {
+    "id": "slb/library_patterns/铺地13",
+    "name": "铺地13",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/铺地13.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 159
+  },
+  {
+    "id": "slb/library_patterns/铺地14",
+    "name": "铺地14",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/铺地14.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 207
+  },
+  {
+    "id": "slb/library_patterns/铺地15",
+    "name": "铺地15",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/铺地15.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 232
+  },
+  {
+    "id": "slb/library_patterns/普通砖",
+    "name": "普通砖",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/普通砖.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 26
+  },
+  {
+    "id": "slb/library_patterns/墙纸1",
+    "name": "墙纸1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/墙纸1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 291
+  },
+  {
+    "id": "slb/library_patterns/墙纸2",
+    "name": "墙纸2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/墙纸2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 512
+  },
+  {
+    "id": "slb/library_patterns/人字花纹",
+    "name": "人字花纹",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/人字花纹.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 85
+  },
+  {
+    "id": "slb/library_patterns/人字形人行道砖",
+    "name": "人字形人行道砖",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/人字形人行道砖.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 267
+  },
+  {
+    "id": "slb/library_patterns/砂灰土",
+    "name": "砂灰土",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/砂灰土.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 233
+  },
+  {
+    "id": "slb/library_patterns/砂石碎砖",
+    "name": "砂石碎砖",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/砂石碎砖.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 82
+  },
+  {
+    "id": "slb/library_patterns/十字花纹",
+    "name": "十字花纹",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/十字花纹.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 226
+  },
+  {
+    "id": "slb/library_patterns/石板屋面",
+    "name": "石板屋面",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/石板屋面.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 131
+  },
+  {
+    "id": "slb/library_patterns/石膏板",
+    "name": "石膏板",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/石膏板.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 98
+  },
+  {
+    "id": "slb/library_patterns/实木地板",
+    "name": "实木地板",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/实木地板.svg",
+    "dwg": null,
+    "pattern": "实木地板",
+    "segments": 45
+  },
+  {
+    "id": "slb/library_patterns/饰面砖",
+    "name": "饰面砖",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/饰面砖.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 15
+  },
+  {
+    "id": "slb/library_patterns/竖砌石材",
+    "name": "竖砌石材",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/竖砌石材.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 231
+  },
+  {
+    "id": "slb/library_patterns/竖砌砖墙",
+    "name": "竖砌砖墙",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/竖砌砖墙.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 260
+  },
+  {
+    "id": "slb/library_patterns/水",
+    "name": "水",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/水.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 389
+  },
+  {
+    "id": "slb/library_patterns/松散材料",
+    "name": "松散材料",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/松散材料.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 155
+  },
+  {
+    "id": "slb/library_patterns/塑料",
+    "name": "塑料",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/塑料.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 73
+  },
+  {
+    "id": "slb/library_patterns/天然石材",
+    "name": "天然石材",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/天然石材.svg",
+    "dwg": null,
+    "pattern": "天然石材",
+    "segments": 155
+  },
+  {
+    "id": "slb/library_patterns/条板栏杆",
+    "name": "条板栏杆",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/条板栏杆.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 324
+  },
+  {
+    "id": "slb/library_patterns/铁艺花格网",
+    "name": "铁艺花格网",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/铁艺花格网.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 768
+  },
+  {
+    "id": "slb/library_patterns/土壤",
+    "name": "土壤",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/土壤.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 155
+  },
+  {
+    "id": "slb/library_patterns/弯瓦屋面",
+    "name": "弯瓦屋面",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/弯瓦屋面.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 222
+  },
+  {
+    "id": "slb/library_patterns/网状材料",
+    "name": "网状材料",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/网状材料.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 152
+  },
+  {
+    "id": "slb/library_patterns/文化石1",
+    "name": "文化石1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/文化石1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 102
+  },
+  {
+    "id": "slb/library_patterns/文化石2",
+    "name": "文化石2",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/文化石2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 80
+  },
+  {
+    "id": "slb/library_patterns/文化石3",
+    "name": "文化石3",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/文化石3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 99
+  },
+  {
+    "id": "slb/library_patterns/西班牙屋面",
+    "name": "西班牙屋面",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/西班牙屋面.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 447
+  },
+  {
+    "id": "slb/library_patterns/纤维材料",
+    "name": "纤维材料",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/纤维材料.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 163
+  },
+  {
+    "id": "slb/library_patterns/橡胶",
+    "name": "橡胶",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/橡胶.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 58
+  },
+  {
+    "id": "slb/library_patterns/虚线方格",
+    "name": "虚线方格",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/虚线方格.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 186
+  },
+  {
+    "id": "slb/library_patterns/圆形花纹",
+    "name": "圆形花纹",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/圆形花纹.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 844
+  },
+  {
+    "id": "slb/library_patterns/正方形花纹",
+    "name": "正方形花纹",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/正方形花纹.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 135
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO02W100",
+    "name": "ACAD_ISO02W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO02W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 91
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO03W100",
+    "name": "ACAD_ISO03W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO03W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 52
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO04W100",
+    "name": "ACAD_ISO04W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO04W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 98
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO05W100",
+    "name": "ACAD_ISO05W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO05W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 140
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO06W100",
+    "name": "ACAD_ISO06W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO06W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 140
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO07W100",
+    "name": "ACAD_ISO07W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO07W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 60
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO08W100",
+    "name": "ACAD_ISO08W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO08W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 98
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO09W100",
+    "name": "ACAD_ISO09W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO09W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 98
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO10W100",
+    "name": "ACAD_ISO10W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO10W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 168
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO11W100",
+    "name": "ACAD_ISO11W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO11W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 140
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO12W100",
+    "name": "ACAD_ISO12W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO12W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 182
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO13W100",
+    "name": "ACAD_ISO13W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO13W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 154
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO14W100",
+    "name": "ACAD_ISO14W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO14W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 238
+  },
+  {
+    "id": "slb/library_patterns/ACAD_ISO15W100",
+    "name": "ACAD_ISO15W100",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ACAD_ISO15W100.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 168
+  },
+  {
+    "id": "slb/library_patterns/ANGLE",
+    "name": "ANGLE",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ANGLE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 93
+  },
+  {
+    "id": "slb/library_patterns/ANSI31",
+    "name": "ANSI31",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ANSI31.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 28
+  },
+  {
+    "id": "slb/library_patterns/ANSI32",
+    "name": "ANSI32",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ANSI32.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 19
+  },
+  {
+    "id": "slb/library_patterns/ANSI33",
+    "name": "ANSI33",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ANSI33.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 145
+  },
+  {
+    "id": "slb/library_patterns/ANSI34",
+    "name": "ANSI34",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ANSI34.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 18
+  },
+  {
+    "id": "slb/library_patterns/ANSI35",
+    "name": "ANSI35",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ANSI35.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 127
+  },
+  {
+    "id": "slb/library_patterns/ANSI36",
+    "name": "ANSI36",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ANSI36.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 226
+  },
+  {
+    "id": "slb/library_patterns/ANSI37",
+    "name": "ANSI37",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ANSI37.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 30
+  },
+  {
+    "id": "slb/library_patterns/ANSI38",
+    "name": "ANSI38",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ANSI38.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 69
+  },
+  {
+    "id": "slb/library_patterns/AR-B88",
+    "name": "AR-B88",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/AR-B88.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 83
+  },
+  {
+    "id": "slb/library_patterns/AR-B816",
+    "name": "AR-B816",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/AR-B816.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 41
+  },
+  {
+    "id": "slb/library_patterns/AR-B816C",
+    "name": "AR-B816C",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/AR-B816C.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 149
+  },
+  {
+    "id": "slb/library_patterns/AR-BRELM",
+    "name": "AR-BRELM",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/AR-BRELM.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 216
+  },
+  {
+    "id": "slb/library_patterns/AR-BRSTD",
+    "name": "AR-BRSTD",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/AR-BRSTD.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 44
+  },
+  {
+    "id": "slb/library_patterns/AR-CONC",
+    "name": "AR-CONC",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/AR-CONC.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 243
+  },
+  {
+    "id": "slb/library_patterns/AR-HBONE",
+    "name": "AR-HBONE",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/AR-HBONE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 62
+  },
+  {
+    "id": "slb/library_patterns/AR-PARQ1",
+    "name": "AR-PARQ1",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/AR-PARQ1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 73
+  },
+  {
+    "id": "slb/library_patterns/AR-RROOF",
+    "name": "AR-RROOF",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/AR-RROOF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 62
+  },
+  {
+    "id": "slb/library_patterns/AR-RSHKE",
+    "name": "AR-RSHKE",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/AR-RSHKE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 266
+  },
+  {
+    "id": "slb/library_patterns/AR-SAND",
+    "name": "AR-SAND",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/AR-SAND.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 163
+  },
+  {
+    "id": "slb/library_patterns/BOX",
+    "name": "BOX",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/BOX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 143
+  },
+  {
+    "id": "slb/library_patterns/BRASS",
+    "name": "BRASS",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/BRASS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 145
+  },
+  {
+    "id": "slb/library_patterns/BRICK",
+    "name": "BRICK",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/BRICK.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 47
+  },
+  {
+    "id": "slb/library_patterns/BRSTONE",
+    "name": "BRSTONE",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/BRSTONE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 122
+  },
+  {
+    "id": "slb/library_patterns/CLAY",
+    "name": "CLAY",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/CLAY.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 72
+  },
+  {
+    "id": "slb/library_patterns/CORK",
+    "name": "CORK",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/CORK.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 127
+  },
+  {
+    "id": "slb/library_patterns/CROSS",
+    "name": "CROSS",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/CROSS.svg",
+    "dwg": null,
+    "pattern": "CROSS",
+    "segments": 83
+  },
+  {
+    "id": "slb/library_patterns/DASH",
+    "name": "DASH",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/DASH.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 154
+  },
+  {
+    "id": "slb/library_patterns/DOLMIT",
+    "name": "DOLMIT",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/DOLMIT.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 27
+  },
+  {
+    "id": "slb/library_patterns/DOTS",
+    "name": "DOTS",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/DOTS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 182
+  },
+  {
+    "id": "slb/library_patterns/EARTH",
+    "name": "EARTH",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/EARTH.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 100
+  },
+  {
+    "id": "slb/library_patterns/ESCHER",
+    "name": "ESCHER",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ESCHER.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 101
+  },
+  {
+    "id": "slb/library_patterns/FLEX",
+    "name": "FLEX",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/FLEX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 125
+  },
+  {
+    "id": "slb/library_patterns/GOST_GLASS",
+    "name": "GOST_GLASS",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/GOST_GLASS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 68
+  },
+  {
+    "id": "slb/library_patterns/GOST_GROUND",
+    "name": "GOST_GROUND",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/GOST_GROUND.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 66
+  },
+  {
+    "id": "slb/library_patterns/GOST_WOOD",
+    "name": "GOST_WOOD",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/GOST_WOOD.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 187
+  },
+  {
+    "id": "slb/library_patterns/GRASS",
+    "name": "GRASS",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/GRASS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 54
+  },
+  {
+    "id": "slb/library_patterns/GRATE",
+    "name": "GRATE",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/GRATE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 17
+  },
+  {
+    "id": "slb/library_patterns/GRAVEL",
+    "name": "GRAVEL",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/GRAVEL.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 352
+  },
+  {
+    "id": "slb/library_patterns/HEX",
+    "name": "HEX",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/HEX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 176
+  },
+  {
+    "id": "slb/library_patterns/HONEY",
+    "name": "HONEY",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/HONEY.svg",
+    "dwg": null,
+    "pattern": "HONEY",
+    "segments": 232
+  },
+  {
+    "id": "slb/library_patterns/HOUND",
+    "name": "HOUND",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/HOUND.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 92
+  },
+  {
+    "id": "slb/library_patterns/INSUL",
+    "name": "INSUL",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/INSUL.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 104
+  },
+  {
+    "id": "slb/library_patterns/JIS_LC_8",
+    "name": "JIS_LC_8",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/JIS_LC_8.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 23
+  },
+  {
+    "id": "slb/library_patterns/JIS_LC_8A",
+    "name": "JIS_LC_8A",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/JIS_LC_8A.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 23
+  },
+  {
+    "id": "slb/library_patterns/JIS_LC_20",
+    "name": "JIS_LC_20",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/JIS_LC_20.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 8
+  },
+  {
+    "id": "slb/library_patterns/JIS_LC_20A",
+    "name": "JIS_LC_20A",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/JIS_LC_20A.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 8
+  },
+  {
+    "id": "slb/library_patterns/JIS_RC_10",
+    "name": "JIS_RC_10",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/JIS_RC_10.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 27
+  },
+  {
+    "id": "slb/library_patterns/JIS_RC_15",
+    "name": "JIS_RC_15",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/JIS_RC_15.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 18
+  },
+  {
+    "id": "slb/library_patterns/JIS_RC_18",
+    "name": "JIS_RC_18",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/JIS_RC_18.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 15
+  },
+  {
+    "id": "slb/library_patterns/JIS_RC_30",
+    "name": "JIS_RC_30",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/JIS_RC_30.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 9
+  },
+  {
+    "id": "slb/library_patterns/JIS_STN_1E",
+    "name": "JIS_STN_1E",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/JIS_STN_1E.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 116
+  },
+  {
+    "id": "slb/library_patterns/JIS_STN_2.5",
+    "name": "JIS_STN_2.5",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/JIS_STN_2.5.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 189
+  },
+  {
+    "id": "slb/library_patterns/JIS_WOOD",
+    "name": "JIS_WOOD",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/JIS_WOOD.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 21
+  },
+  {
+    "id": "slb/library_patterns/LINE",
+    "name": "LINE",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/LINE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 9
+  },
+  {
+    "id": "slb/library_patterns/MUDST",
+    "name": "MUDST",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/MUDST.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 72
+  },
+  {
+    "id": "slb/library_patterns/NET",
+    "name": "NET",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/NET.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "slb/library_patterns/NET3",
+    "name": "NET3",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/NET3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 28
+  },
+  {
+    "id": "slb/library_patterns/PLAST",
+    "name": "PLAST",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/PLAST.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "slb/library_patterns/PLASTI",
+    "name": "PLASTI",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/PLASTI.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "slb/library_patterns/SACNCR",
+    "name": "SACNCR",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/SACNCR.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 139
+  },
+  {
+    "id": "slb/library_patterns/SQUARE",
+    "name": "SQUARE",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/SQUARE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 128
+  },
+  {
+    "id": "slb/library_patterns/STARS",
+    "name": "STARS",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/STARS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 165
+  },
+  {
+    "id": "slb/library_patterns/STEEL",
+    "name": "STEEL",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/STEEL.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 28
+  },
+  {
+    "id": "slb/library_patterns/SWAMP",
+    "name": "SWAMP",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/SWAMP.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 60
+  },
+  {
+    "id": "slb/library_patterns/TRANS",
+    "name": "TRANS",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/TRANS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 104
+  },
+  {
+    "id": "slb/library_patterns/TRIANG",
+    "name": "TRIANG",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/TRIANG.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 119
+  },
+  {
+    "id": "slb/library_patterns/ZIGZAG",
+    "name": "ZIGZAG",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/ZIGZAG.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 137
+  },
+  {
+    "id": "slb/library_patterns/SOLID",
+    "name": "SOLID",
+    "source": "library/patterns.slb",
+    "svg": "thumbnails/slb/library_patterns/SOLID.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 0
+  },
+  {
+    "id": "slb/yqarch/ZOOM-IN",
+    "name": "ZOOM-IN",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZOOM-IN.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 100
+  },
+  {
+    "id": "slb/yqarch/NOSLIDE",
+    "name": "NOSLIDE",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/NOSLIDE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1280
+  },
+  {
+    "id": "slb/yqarch/ZOOM-IN2",
+    "name": "ZOOM-IN2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZOOM-IN2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 105
+  },
+  {
+    "id": "slb/yqarch/2DVIEW_P",
+    "name": "2DVIEW_P",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/2DVIEW_P.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 870
+  },
+  {
+    "id": "slb/yqarch/3DVIEW_P",
+    "name": "3DVIEW_P",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/3DVIEW_P.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 3540
+  },
+  {
+    "id": "slb/yqarch/SIMPLEX",
+    "name": "SIMPLEX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SIMPLEX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 70
+  },
+  {
+    "id": "slb/yqarch/ROMAND",
+    "name": "ROMAND",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ROMAND.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 157
+  },
+  {
+    "id": "slb/yqarch/ROMANC",
+    "name": "ROMANC",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ROMANC.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 154
+  },
+  {
+    "id": "slb/yqarch/_HZDX",
+    "name": "_HZDX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZDX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 66
+  },
+  {
+    "id": "slb/yqarch/_HZDXGC",
+    "name": "_HZDXGC",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZDXGC.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 50
+  },
+  {
+    "id": "slb/yqarch/_HZFS",
+    "name": "_HZFS",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZFS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 161
+  },
+  {
+    "id": "slb/yqarch/_HZHP",
+    "name": "_HZHP",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZHP.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 217
+  },
+  {
+    "id": "slb/yqarch/_HZHPF",
+    "name": "_HZHPF",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZHPF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 400
+  },
+  {
+    "id": "slb/yqarch/_HZHT",
+    "name": "_HZHT",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZHT.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 190
+  },
+  {
+    "id": "slb/yqarch/_HZHTF",
+    "name": "_HZHTF",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZHTF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 178
+  },
+  {
+    "id": "slb/yqarch/_HZKT",
+    "name": "_HZKT",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZKT.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 157
+  },
+  {
+    "id": "slb/yqarch/_HZLS",
+    "name": "_HZLS",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZLS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 174
+  },
+  {
+    "id": "slb/yqarch/_HZST",
+    "name": "_HZST",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZST.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 95
+  },
+  {
+    "id": "slb/yqarch/_HZWB",
+    "name": "_HZWB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZWB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 190
+  },
+  {
+    "id": "slb/yqarch/_HZXK",
+    "name": "_HZXK",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZXK.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 227
+  },
+  {
+    "id": "slb/yqarch/_HZXY",
+    "name": "_HZXY",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZXY.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 179
+  },
+  {
+    "id": "slb/yqarch/_HZZY",
+    "name": "_HZZY",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZZY.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 123
+  },
+  {
+    "id": "slb/yqarch/_HZZYF",
+    "name": "_HZZYF",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/_HZZYF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 249
+  },
+  {
+    "id": "slb/yqarch/WDELEV",
+    "name": "WDELEV",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDELEV.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 712
+  },
+  {
+    "id": "slb/yqarch/SIMSUN",
+    "name": "SIMSUN",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SIMSUN.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 70
+  },
+  {
+    "id": "slb/yqarch/SIMHEI",
+    "name": "SIMHEI",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SIMHEI.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 70
+  },
+  {
+    "id": "slb/yqarch/SIMFANG",
+    "name": "SIMFANG",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SIMFANG.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 70
+  },
+  {
+    "id": "slb/yqarch/SIMKAI",
+    "name": "SIMKAI",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SIMKAI.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 70
+  },
+  {
+    "id": "slb/yqarch/FREEHANDE",
+    "name": "FREEHANDE",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/FREEHANDE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 630
+  },
+  {
+    "id": "slb/yqarch/FREEHAND",
+    "name": "FREEHAND",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/FREEHAND.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 295
+  },
+  {
+    "id": "slb/yqarch/WDELEVE",
+    "name": "WDELEVE",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDELEVE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1186
+  },
+  {
+    "id": "slb/yqarch/ESCAL1",
+    "name": "ESCAL1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ESCAL1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 643
+  },
+  {
+    "id": "slb/yqarch/ESCAL1E",
+    "name": "ESCAL1E",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ESCAL1E.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1117
+  },
+  {
+    "id": "slb/yqarch/ESCAL2",
+    "name": "ESCAL2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ESCAL2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 438
+  },
+  {
+    "id": "slb/yqarch/ESCAL2E",
+    "name": "ESCAL2E",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ESCAL2E.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 724
+  },
+  {
+    "id": "slb/yqarch/STAIRPLAN",
+    "name": "STAIRPLAN",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/STAIRPLAN.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 850
+  },
+  {
+    "id": "slb/yqarch/STAIRPLANE",
+    "name": "STAIRPLANE",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/STAIRPLANE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1296
+  },
+  {
+    "id": "slb/yqarch/ABH",
+    "name": "ABH",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ABH.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 166
+  },
+  {
+    "id": "slb/yqarch/AZH",
+    "name": "AZH",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AZH.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 276
+  },
+  {
+    "id": "slb/yqarch/BG",
+    "name": "BG",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/BG.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 164
+  },
+  {
+    "id": "slb/yqarch/SY1",
+    "name": "SY1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SY1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 95
+  },
+  {
+    "id": "slb/yqarch/SY2",
+    "name": "SY2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SY2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 36
+  },
+  {
+    "id": "slb/yqarch/XT1",
+    "name": "XT1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/XT1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 6
+  },
+  {
+    "id": "slb/yqarch/XT2",
+    "name": "XT2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/XT2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 8
+  },
+  {
+    "id": "slb/yqarch/ZB",
+    "name": "ZB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 247
+  },
+  {
+    "id": "slb/yqarch/ZH",
+    "name": "ZH",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZH.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 287
+  },
+  {
+    "id": "slb/yqarch/ZX",
+    "name": "ZX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 6
+  },
+  {
+    "id": "slb/yqarch/FN",
+    "name": "FN",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/FN.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 6
+  },
+  {
+    "id": "slb/yqarch/FS",
+    "name": "FS",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/FS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 66
+  },
+  {
+    "id": "slb/yqarch/FSC",
+    "name": "FSC",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/FSC.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 57
+  },
+  {
+    "id": "slb/yqarch/LTA",
+    "name": "LTA",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/LTA.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 189
+  },
+  {
+    "id": "slb/yqarch/LTF",
+    "name": "LTF",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/LTF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 185
+  },
+  {
+    "id": "slb/yqarch/LTJ",
+    "name": "LTJ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/LTJ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 60
+  },
+  {
+    "id": "slb/yqarch/LTP",
+    "name": "LTP",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/LTP.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 120
+  },
+  {
+    "id": "slb/yqarch/MQ",
+    "name": "MQ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MQ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 40
+  },
+  {
+    "id": "slb/yqarch/WDE",
+    "name": "WDE",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 38
+  },
+  {
+    "id": "slb/yqarch/AAE",
+    "name": "AAE",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AAE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 93
+  },
+  {
+    "id": "slb/yqarch/AAW",
+    "name": "AAW",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AAW.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 268
+  },
+  {
+    "id": "slb/yqarch/PD",
+    "name": "PD",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/PD.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 101
+  },
+  {
+    "id": "slb/yqarch/SDX",
+    "name": "SDX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SDX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 239
+  },
+  {
+    "id": "slb/yqarch/DTJ",
+    "name": "DTJ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DTJ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 67
+  },
+  {
+    "id": "slb/yqarch/JB",
+    "name": "JB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/JB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 29
+  },
+  {
+    "id": "slb/yqarch/MGB",
+    "name": "MGB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MGB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 12
+  },
+  {
+    "id": "slb/yqarch/BL",
+    "name": "BL",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/BL.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "slb/yqarch/BBL",
+    "name": "BBL",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/BBL.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1917
+  },
+  {
+    "id": "slb/yqarch/PMJ",
+    "name": "PMJ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/PMJ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 288
+  },
+  {
+    "id": "slb/yqarch/PZC",
+    "name": "PZC",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/PZC.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 227
+  },
+  {
+    "id": "slb/yqarch/MJ",
+    "name": "MJ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MJ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 521
+  },
+  {
+    "id": "slb/yqarch/ZC",
+    "name": "ZC",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZC.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 327
+  },
+  {
+    "id": "slb/yqarch/CHA",
+    "name": "CHA",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/CHA.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 120
+  },
+  {
+    "id": "slb/yqarch/CHU",
+    "name": "CHU",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/CHU.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 112
+  },
+  {
+    "id": "slb/yqarch/HE",
+    "name": "HE",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/HE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 104
+  },
+  {
+    "id": "slb/yqarch/JI",
+    "name": "JI",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/JI.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 106
+  },
+  {
+    "id": "slb/yqarch/JS",
+    "name": "JS",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/JS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 369
+  },
+  {
+    "id": "slb/yqarch/BS1",
+    "name": "BS1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/BS1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1304
+  },
+  {
+    "id": "slb/yqarch/BS2",
+    "name": "BS2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/BS2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 846
+  },
+  {
+    "id": "slb/yqarch/BS0",
+    "name": "BS0",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/BS0.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1002
+  },
+  {
+    "id": "slb/yqarch/SS",
+    "name": "SS",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 218
+  },
+  {
+    "id": "slb/yqarch/T2E",
+    "name": "T2E",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/T2E.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 286
+  },
+  {
+    "id": "slb/yqarch/MCB",
+    "name": "MCB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MCB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 346
+  },
+  {
+    "id": "slb/yqarch/TMJ",
+    "name": "TMJ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TMJ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1228
+  },
+  {
+    "id": "slb/yqarch/TTZ",
+    "name": "TTZ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TTZ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 110
+  },
+  {
+    "id": "slb/yqarch/TTQ",
+    "name": "TTQ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TTQ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 431
+  },
+  {
+    "id": "slb/yqarch/ZZB",
+    "name": "ZZB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZZB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1072
+  },
+  {
+    "id": "slb/yqarch/KBG",
+    "name": "KBG",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/KBG.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 25
+  },
+  {
+    "id": "slb/yqarch/MDB",
+    "name": "MDB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MDB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 14
+  },
+  {
+    "id": "slb/yqarch/DCZ",
+    "name": "DCZ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DCZ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 9
+  },
+  {
+    "id": "slb/yqarch/IDENCOM0",
+    "name": "IDENCOM0",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM0.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 61
+  },
+  {
+    "id": "slb/yqarch/IDENCOM1",
+    "name": "IDENCOM1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 120
+  },
+  {
+    "id": "slb/yqarch/IDENCOM2",
+    "name": "IDENCOM2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 84
+  },
+  {
+    "id": "slb/yqarch/IDENCOM3",
+    "name": "IDENCOM3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 158
+  },
+  {
+    "id": "slb/yqarch/IDENCOM4",
+    "name": "IDENCOM4",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 68
+  },
+  {
+    "id": "slb/yqarch/IDENCOM5",
+    "name": "IDENCOM5",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM5.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 140
+  },
+  {
+    "id": "slb/yqarch/S1",
+    "name": "S1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/S1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 93
+  },
+  {
+    "id": "slb/yqarch/S2",
+    "name": "S2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/S2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 121
+  },
+  {
+    "id": "slb/yqarch/S3",
+    "name": "S3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/S3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 68
+  },
+  {
+    "id": "slb/yqarch/S4",
+    "name": "S4",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/S4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 136
+  },
+  {
+    "id": "slb/yqarch/I0",
+    "name": "I0",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/I0.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 188
+  },
+  {
+    "id": "slb/yqarch/I1",
+    "name": "I1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/I1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 35
+  },
+  {
+    "id": "slb/yqarch/I2",
+    "name": "I2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/I2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 70
+  },
+  {
+    "id": "slb/yqarch/I3",
+    "name": "I3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/I3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 64
+  },
+  {
+    "id": "slb/yqarch/I4",
+    "name": "I4",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/I4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 34
+  },
+  {
+    "id": "slb/yqarch/MF",
+    "name": "MF",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 32
+  },
+  {
+    "id": "slb/yqarch/BWM",
+    "name": "BWM",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/BWM.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 306
+  },
+  {
+    "id": "slb/yqarch/HF",
+    "name": "HF",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/HF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 108
+  },
+  {
+    "id": "slb/yqarch/AAB",
+    "name": "AAB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AAB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 129
+  },
+  {
+    "id": "slb/yqarch/AAD",
+    "name": "AAD",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AAD.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 79
+  },
+  {
+    "id": "slb/yqarch/AAV",
+    "name": "AAV",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AAV.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 98
+  },
+  {
+    "id": "slb/yqarch/CL",
+    "name": "CL",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/CL.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 644
+  },
+  {
+    "id": "slb/yqarch/YG",
+    "name": "YG",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/YG.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 159
+  },
+  {
+    "id": "slb/yqarch/JJ",
+    "name": "JJ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/JJ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1385
+  },
+  {
+    "id": "slb/yqarch/TCC0",
+    "name": "TCC0",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC0.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 345
+  },
+  {
+    "id": "slb/yqarch/TCC1",
+    "name": "TCC1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 385
+  },
+  {
+    "id": "slb/yqarch/TCC2",
+    "name": "TCC2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 33
+  },
+  {
+    "id": "slb/yqarch/TCC3",
+    "name": "TCC3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 34
+  },
+  {
+    "id": "slb/yqarch/TCC4",
+    "name": "TCC4",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 62
+  },
+  {
+    "id": "slb/yqarch/TCC5",
+    "name": "TCC5",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC5.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 59
+  },
+  {
+    "id": "slb/yqarch/TCC6",
+    "name": "TCC6",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC6.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 68
+  },
+  {
+    "id": "slb/yqarch/TCC7",
+    "name": "TCC7",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC7.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 81
+  },
+  {
+    "id": "slb/yqarch/TCC8",
+    "name": "TCC8",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC8.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 108
+  },
+  {
+    "id": "slb/yqarch/TCC9",
+    "name": "TCC9",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC9.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 115
+  },
+  {
+    "id": "slb/yqarch/TCC10",
+    "name": "TCC10",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC10.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 139
+  },
+  {
+    "id": "slb/yqarch/TF00",
+    "name": "TF00",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TF00.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 5664
+  },
+  {
+    "id": "slb/yqarch/TF01",
+    "name": "TF01",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TF01.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 5663
+  },
+  {
+    "id": "slb/yqarch/TF02",
+    "name": "TF02",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TF02.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 5529
+  },
+  {
+    "id": "slb/yqarch/XBG",
+    "name": "XBG",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/XBG.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 340
+  },
+  {
+    "id": "slb/yqarch/KD",
+    "name": "KD",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/KD.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 6
+  },
+  {
+    "id": "slb/yqarch/AC",
+    "name": "AC",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AC.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 62
+  },
+  {
+    "id": "slb/yqarch/EC",
+    "name": "EC",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/EC.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 57
+  },
+  {
+    "id": "slb/yqarch/BANISTER",
+    "name": "BANISTER",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/BANISTER.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 84
+  },
+  {
+    "id": "slb/yqarch/LG",
+    "name": "LG",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/LG.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 42
+  },
+  {
+    "id": "slb/yqarch/LXTB",
+    "name": "LXTB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/LXTB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 37
+  },
+  {
+    "id": "slb/yqarch/XG",
+    "name": "XG",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/XG.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 140
+  },
+  {
+    "id": "slb/yqarch/ZXX",
+    "name": "ZXX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZXX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 22
+  },
+  {
+    "id": "slb/yqarch/TB",
+    "name": "TB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 992
+  },
+  {
+    "id": "slb/yqarch/WDD",
+    "name": "WDD",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDD.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 54
+  },
+  {
+    "id": "slb/yqarch/DQ_CKX",
+    "name": "DQ_CKX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DQ_CKX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 15
+  },
+  {
+    "id": "slb/yqarch/DQ_CKY",
+    "name": "DQ_CKY",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DQ_CKY.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 15
+  },
+  {
+    "id": "slb/yqarch/DQ_CZ",
+    "name": "DQ_CZ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DQ_CZ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 13
+  },
+  {
+    "id": "slb/yqarch/DQ_DOWN",
+    "name": "DQ_DOWN",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DQ_DOWN.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 13
+  },
+  {
+    "id": "slb/yqarch/DQ_LEFT",
+    "name": "DQ_LEFT",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DQ_LEFT.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 13
+  },
+  {
+    "id": "slb/yqarch/DQ_LXCZ",
+    "name": "DQ_LXCZ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DQ_LXCZ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "slb/yqarch/DQ_LXJF",
+    "name": "DQ_LXJF",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DQ_LXJF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 20
+  },
+  {
+    "id": "slb/yqarch/DQ_RIGHT",
+    "name": "DQ_RIGHT",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DQ_RIGHT.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 13
+  },
+  {
+    "id": "slb/yqarch/DQ_SP",
+    "name": "DQ_SP",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DQ_SP.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 13
+  },
+  {
+    "id": "slb/yqarch/DQ_UP",
+    "name": "DQ_UP",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DQ_UP.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 13
+  },
+  {
+    "id": "slb/yqarch/DQ_ZZX",
+    "name": "DQ_ZZX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DQ_ZZX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 14
+  },
+  {
+    "id": "slb/yqarch/SIMLI",
+    "name": "SIMLI",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SIMLI.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 63
+  },
+  {
+    "id": "slb/yqarch/PQF",
+    "name": "PQF",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/PQF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 144
+  },
+  {
+    "id": "slb/yqarch/T2W",
+    "name": "T2W",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/T2W.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 175
+  },
+  {
+    "id": "slb/yqarch/IDENCOM6",
+    "name": "IDENCOM6",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM6.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 118
+  },
+  {
+    "id": "slb/yqarch/IDENCOM7",
+    "name": "IDENCOM7",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM7.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 142
+  },
+  {
+    "id": "slb/yqarch/STB",
+    "name": "STB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/STB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1609
+  },
+  {
+    "id": "slb/yqarch/TF09",
+    "name": "TF09",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TF09.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 6514
+  },
+  {
+    "id": "slb/yqarch/TF03",
+    "name": "TF03",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TF03.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 183
+  },
+  {
+    "id": "slb/yqarch/SGB",
+    "name": "SGB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SGB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 453
+  },
+  {
+    "id": "slb/yqarch/FTB",
+    "name": "FTB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/FTB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1044
+  },
+  {
+    "id": "slb/yqarch/TF04",
+    "name": "TF04",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TF04.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1321
+  },
+  {
+    "id": "slb/yqarch/TF05",
+    "name": "TF05",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TF05.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1497
+  },
+  {
+    "id": "slb/yqarch/TF06",
+    "name": "TF06",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TF06.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1566
+  },
+  {
+    "id": "slb/yqarch/SIMYOU",
+    "name": "SIMYOU",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SIMYOU.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 63
+  },
+  {
+    "id": "slb/yqarch/JGJ",
+    "name": "JGJ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/JGJ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 200
+  },
+  {
+    "id": "slb/yqarch/S6",
+    "name": "S6",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/S6.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 69
+  },
+  {
+    "id": "slb/yqarch/JJCF",
+    "name": "JJCF",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/JJCF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 447
+  },
+  {
+    "id": "slb/yqarch/JJCS",
+    "name": "JJCS",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/JJCS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 839
+  },
+  {
+    "id": "slb/yqarch/JJFT",
+    "name": "JJFT",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/JJFT.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 449
+  },
+  {
+    "id": "slb/yqarch/JJKT",
+    "name": "JJKT",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/JJKT.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 3156
+  },
+  {
+    "id": "slb/yqarch/JJSF",
+    "name": "JJSF",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/JJSF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 267
+  },
+  {
+    "id": "slb/yqarch/JJWF",
+    "name": "JJWF",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/JJWF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1335
+  },
+  {
+    "id": "slb/yqarch/WCGD",
+    "name": "WCGD",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WCGD.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 915
+  },
+  {
+    "id": "slb/yqarch/WCXSP",
+    "name": "WCXSP",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WCXSP.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 743
+  },
+  {
+    "id": "slb/yqarch/WCXBD",
+    "name": "WCXBD",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WCXBD.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 294
+  },
+  {
+    "id": "slb/yqarch/WCLYJ",
+    "name": "WCLYJ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WCLYJ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 168
+  },
+  {
+    "id": "slb/yqarch/IDENCOM15",
+    "name": "IDENCOM15",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM15.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 95
+  },
+  {
+    "id": "slb/yqarch/IDENCOM16",
+    "name": "IDENCOM16",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM16.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 95
+  },
+  {
+    "id": "slb/yqarch/IDENCOM17",
+    "name": "IDENCOM17",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM17.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 93
+  },
+  {
+    "id": "slb/yqarch/IDENCOM14",
+    "name": "IDENCOM14",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM14.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 239
+  },
+  {
+    "id": "slb/yqarch/IDENCOM8",
+    "name": "IDENCOM8",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM8.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 45
+  },
+  {
+    "id": "slb/yqarch/IDENCOM9",
+    "name": "IDENCOM9",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM9.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 124
+  },
+  {
+    "id": "slb/yqarch/IDENCOM10",
+    "name": "IDENCOM10",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM10.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 125
+  },
+  {
+    "id": "slb/yqarch/IDENCOM11",
+    "name": "IDENCOM11",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM11.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 183
+  },
+  {
+    "id": "slb/yqarch/IDENCOM12",
+    "name": "IDENCOM12",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM12.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 143
+  },
+  {
+    "id": "slb/yqarch/IDENCOM13",
+    "name": "IDENCOM13",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM13.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 277
+  },
+  {
+    "id": "slb/yqarch/S5",
+    "name": "S5",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/S5.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 114
+  },
+  {
+    "id": "slb/yqarch/S7",
+    "name": "S7",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/S7.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 114
+  },
+  {
+    "id": "slb/yqarch/S8",
+    "name": "S8",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/S8.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 169
+  },
+  {
+    "id": "slb/yqarch/S9",
+    "name": "S9",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/S9.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 262
+  },
+  {
+    "id": "slb/yqarch/DDWW1",
+    "name": "DDWW1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DDWW1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 420
+  },
+  {
+    "id": "slb/yqarch/DDWW2",
+    "name": "DDWW2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DDWW2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 368
+  },
+  {
+    "id": "slb/yqarch/DDWW3",
+    "name": "DDWW3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DDWW3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 313
+  },
+  {
+    "id": "slb/yqarch/HJCSJGZ1",
+    "name": "HJCSJGZ1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/HJCSJGZ1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 158
+  },
+  {
+    "id": "slb/yqarch/HJJGJHZX",
+    "name": "HJJGJHZX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/HJJGJHZX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 0
+  },
+  {
+    "id": "slb/yqarch/HJCSJGZ2",
+    "name": "HJCSJGZ2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/HJCSJGZ2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 124
+  },
+  {
+    "id": "slb/yqarch/HJCSJGZ3",
+    "name": "HJCSJGZ3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/HJCSJGZ3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 76
+  },
+  {
+    "id": "slb/yqarch/HJCSJGZL",
+    "name": "HJCSJGZL",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/HJCSJGZL.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 0
+  },
+  {
+    "id": "slb/yqarch/HJCSJHKJ",
+    "name": "HJCSJHKJ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/HJCSJHKJ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 144
+  },
+  {
+    "id": "slb/yqarch/HJCSLDKJ",
+    "name": "HJCSLDKJ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/HJCSLDKJ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 113
+  },
+  {
+    "id": "slb/yqarch/HJLHJGZL",
+    "name": "HJLHJGZL",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/HJLHJGZL.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 0
+  },
+  {
+    "id": "slb/yqarch/SGX",
+    "name": "SGX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SGX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 62
+  },
+  {
+    "id": "slb/yqarch/TCC11",
+    "name": "TCC11",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC11.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 105
+  },
+  {
+    "id": "slb/yqarch/TCC12",
+    "name": "TCC12",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC12.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 117
+  },
+  {
+    "id": "slb/yqarch/AACIR",
+    "name": "AACIR",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AACIR.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 2
+  },
+  {
+    "id": "slb/yqarch/AAREC",
+    "name": "AAREC",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AAREC.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1
+  },
+  {
+    "id": "slb/yqarch/AA0",
+    "name": "AA0",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AA0.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 3
+  },
+  {
+    "id": "slb/yqarch/AA1",
+    "name": "AA1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AA1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 2
+  },
+  {
+    "id": "slb/yqarch/AA2",
+    "name": "AA2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AA2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 3
+  },
+  {
+    "id": "slb/yqarch/AA3",
+    "name": "AA3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AA3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 2
+  },
+  {
+    "id": "slb/yqarch/AAK",
+    "name": "AAK",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AAK.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 4
+  },
+  {
+    "id": "slb/yqarch/WDT1",
+    "name": "WDT1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 10
+  },
+  {
+    "id": "slb/yqarch/WDT2",
+    "name": "WDT2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 9
+  },
+  {
+    "id": "slb/yqarch/WDT3",
+    "name": "WDT3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 20
+  },
+  {
+    "id": "slb/yqarch/WDT4",
+    "name": "WDT4",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 14
+  },
+  {
+    "id": "slb/yqarch/WDT5",
+    "name": "WDT5",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT5.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 8
+  },
+  {
+    "id": "slb/yqarch/WDT6",
+    "name": "WDT6",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT6.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 7
+  },
+  {
+    "id": "slb/yqarch/WDT7",
+    "name": "WDT7",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT7.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 15
+  },
+  {
+    "id": "slb/yqarch/ZJC1",
+    "name": "ZJC1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZJC1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 51
+  },
+  {
+    "id": "slb/yqarch/ZJC2",
+    "name": "ZJC2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZJC2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 49
+  },
+  {
+    "id": "slb/yqarch/ZJC3",
+    "name": "ZJC3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZJC3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 104
+  },
+  {
+    "id": "slb/yqarch/ZJC4",
+    "name": "ZJC4",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZJC4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 102
+  },
+  {
+    "id": "slb/yqarch/ZJC5",
+    "name": "ZJC5",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZJC5.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 102
+  },
+  {
+    "id": "slb/yqarch/ZJC6",
+    "name": "ZJC6",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZJC6.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 102
+  },
+  {
+    "id": "slb/yqarch/ZJC7",
+    "name": "ZJC7",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZJC7.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 102
+  },
+  {
+    "id": "slb/yqarch/ZJC8",
+    "name": "ZJC8",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZJC8.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 100
+  },
+  {
+    "id": "slb/yqarch/ZJC9",
+    "name": "ZJC9",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZJC9.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 101
+  },
+  {
+    "id": "slb/yqarch/ZJC10",
+    "name": "ZJC10",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZJC10.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 99
+  },
+  {
+    "id": "slb/yqarch/ZJC11",
+    "name": "ZJC11",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZJC11.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 251
+  },
+  {
+    "id": "slb/yqarch/WDT10",
+    "name": "WDT10",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT10.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 13
+  },
+  {
+    "id": "slb/yqarch/WDT11",
+    "name": "WDT11",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT11.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 12
+  },
+  {
+    "id": "slb/yqarch/WDT12",
+    "name": "WDT12",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT12.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 11
+  },
+  {
+    "id": "slb/yqarch/WDT13",
+    "name": "WDT13",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT13.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "slb/yqarch/WDT14",
+    "name": "WDT14",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT14.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "slb/yqarch/WDT15",
+    "name": "WDT15",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT15.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "slb/yqarch/WDT16",
+    "name": "WDT16",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT16.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 14
+  },
+  {
+    "id": "slb/yqarch/WDT17",
+    "name": "WDT17",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT17.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 14
+  },
+  {
+    "id": "slb/yqarch/WDT18",
+    "name": "WDT18",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT18.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 12
+  },
+  {
+    "id": "slb/yqarch/WDT19",
+    "name": "WDT19",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT19.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "slb/yqarch/WDT20",
+    "name": "WDT20",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT20.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "slb/yqarch/WDT21",
+    "name": "WDT21",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT21.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 16
+  },
+  {
+    "id": "slb/yqarch/WDT22",
+    "name": "WDT22",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT22.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 14
+  },
+  {
+    "id": "slb/yqarch/WDT23",
+    "name": "WDT23",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT23.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 101
+  },
+  {
+    "id": "slb/yqarch/WDT24",
+    "name": "WDT24",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT24.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 32
+  },
+  {
+    "id": "slb/yqarch/WDT8",
+    "name": "WDT8",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT8.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 18
+  },
+  {
+    "id": "slb/yqarch/WDT9",
+    "name": "WDT9",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT9.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 15
+  },
+  {
+    "id": "slb/yqarch/GQ",
+    "name": "GQ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/GQ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 266
+  },
+  {
+    "id": "slb/yqarch/SECSTAIR",
+    "name": "SECSTAIR",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SECSTAIR.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1162
+  },
+  {
+    "id": "slb/yqarch/SECSTAIRE",
+    "name": "SECSTAIRE",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SECSTAIRE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1790
+  },
+  {
+    "id": "slb/yqarch/WDT25",
+    "name": "WDT25",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT25.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 12
+  },
+  {
+    "id": "slb/yqarch/WDT26",
+    "name": "WDT26",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT26.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 317
+  },
+  {
+    "id": "slb/yqarch/WDT27",
+    "name": "WDT27",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT27.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 10
+  },
+  {
+    "id": "slb/yqarch/WDT28",
+    "name": "WDT28",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDT28.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 368
+  },
+  {
+    "id": "slb/yqarch/DJ",
+    "name": "DJ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DJ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 220
+  },
+  {
+    "id": "slb/yqarch/LM",
+    "name": "LM",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/LM.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1388
+  },
+  {
+    "id": "slb/yqarch/MQ1",
+    "name": "MQ1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MQ1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 604
+  },
+  {
+    "id": "slb/yqarch/MQ1E",
+    "name": "MQ1E",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MQ1E.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 873
+  },
+  {
+    "id": "slb/yqarch/MQ2",
+    "name": "MQ2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MQ2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 592
+  },
+  {
+    "id": "slb/yqarch/MQ2E",
+    "name": "MQ2E",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MQ2E.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 861
+  },
+  {
+    "id": "slb/yqarch/UD_C",
+    "name": "UD_C",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/UD_C.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 145
+  },
+  {
+    "id": "slb/yqarch/UD_D",
+    "name": "UD_D",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/UD_D.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 17
+  },
+  {
+    "id": "slb/yqarch/UD_L",
+    "name": "UD_L",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/UD_L.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 21
+  },
+  {
+    "id": "slb/yqarch/UD_R",
+    "name": "UD_R",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/UD_R.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 17
+  },
+  {
+    "id": "slb/yqarch/UD_U",
+    "name": "UD_U",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/UD_U.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 42
+  },
+  {
+    "id": "slb/yqarch/GZ",
+    "name": "GZ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/GZ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 12
+  },
+  {
+    "id": "slb/yqarch/DC1",
+    "name": "DC1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DC1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1957
+  },
+  {
+    "id": "slb/yqarch/DC2",
+    "name": "DC2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DC2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1322
+  },
+  {
+    "id": "slb/yqarch/IDENCOM18",
+    "name": "IDENCOM18",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM18.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 114
+  },
+  {
+    "id": "slb/yqarch/IDENCOM19",
+    "name": "IDENCOM19",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM19.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 147
+  },
+  {
+    "id": "slb/yqarch/IDENCOM20",
+    "name": "IDENCOM20",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM20.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 163
+  },
+  {
+    "id": "slb/yqarch/IDENCOM21",
+    "name": "IDENCOM21",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/IDENCOM21.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 204
+  },
+  {
+    "id": "slb/yqarch/RG",
+    "name": "RG",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/RG.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 243
+  },
+  {
+    "id": "slb/yqarch/GPX",
+    "name": "GPX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/GPX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 136
+  },
+  {
+    "id": "slb/yqarch/MTX",
+    "name": "MTX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MTX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 2704
+  },
+  {
+    "id": "slb/yqarch/YQJZ",
+    "name": "YQJZ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/YQJZ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 528
+  },
+  {
+    "id": "slb/yqarch/YZX",
+    "name": "YZX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/YZX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 12
+  },
+  {
+    "id": "slb/yqarch/ADT1D",
+    "name": "ADT1D",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT1D.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 178
+  },
+  {
+    "id": "slb/yqarch/ADT2D",
+    "name": "ADT2D",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT2D.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 184
+  },
+  {
+    "id": "slb/yqarch/ADT3D",
+    "name": "ADT3D",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT3D.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 202
+  },
+  {
+    "id": "slb/yqarch/ADT3Q",
+    "name": "ADT3Q",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT3Q.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 301
+  },
+  {
+    "id": "slb/yqarch/ADT3S",
+    "name": "ADT3S",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT3S.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 373
+  },
+  {
+    "id": "slb/yqarch/ADT3T",
+    "name": "ADT3T",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT3T.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 237
+  },
+  {
+    "id": "slb/yqarch/ADT4D",
+    "name": "ADT4D",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT4D.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 297
+  },
+  {
+    "id": "slb/yqarch/ADT4Q",
+    "name": "ADT4Q",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT4Q.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 500
+  },
+  {
+    "id": "slb/yqarch/ADT4S",
+    "name": "ADT4S",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT4S.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 686
+  },
+  {
+    "id": "slb/yqarch/ADT4T",
+    "name": "ADT4T",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT4T.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 389
+  },
+  {
+    "id": "slb/yqarch/ADT6Q",
+    "name": "ADT6Q",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT6Q.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 98
+  },
+  {
+    "id": "slb/yqarch/ADT6T",
+    "name": "ADT6T",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT6T.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 92
+  },
+  {
+    "id": "slb/yqarch/ADT8D",
+    "name": "ADT8D",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT8D.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 4194
+  },
+  {
+    "id": "slb/yqarch/ADT7D",
+    "name": "ADT7D",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT7D.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 82
+  },
+  {
+    "id": "slb/yqarch/ADT2",
+    "name": "ADT2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 197
+  },
+  {
+    "id": "slb/yqarch/ADT4",
+    "name": "ADT4",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 228
+  },
+  {
+    "id": "slb/yqarch/ADT5",
+    "name": "ADT5",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT5.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 155
+  },
+  {
+    "id": "slb/yqarch/ADT6",
+    "name": "ADT6",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT6.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 146
+  },
+  {
+    "id": "slb/yqarch/ADT1",
+    "name": "ADT1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 183
+  },
+  {
+    "id": "slb/yqarch/ADT3",
+    "name": "ADT3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 185
+  },
+  {
+    "id": "slb/yqarch/ADT7",
+    "name": "ADT7",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT7.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 127
+  },
+  {
+    "id": "slb/yqarch/ADT8",
+    "name": "ADT8",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT8.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 7259
+  },
+  {
+    "id": "slb/yqarch/OPEN",
+    "name": "OPEN",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/OPEN.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 11
+  },
+  {
+    "id": "slb/yqarch/BY",
+    "name": "BY",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/BY.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 106
+  },
+  {
+    "id": "slb/yqarch/ADT23",
+    "name": "ADT23",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT23.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 203
+  },
+  {
+    "id": "slb/yqarch/ADT24",
+    "name": "ADT24",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT24.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 227
+  },
+  {
+    "id": "slb/yqarch/ADT25",
+    "name": "ADT25",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT25.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 214
+  },
+  {
+    "id": "slb/yqarch/ADT26",
+    "name": "ADT26",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT26.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 211
+  },
+  {
+    "id": "slb/yqarch/ADT27",
+    "name": "ADT27",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADT27.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 80
+  },
+  {
+    "id": "slb/yqarch/DF0",
+    "name": "DF0",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DF0.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 88
+  },
+  {
+    "id": "slb/yqarch/DF1",
+    "name": "DF1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DF1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 82
+  },
+  {
+    "id": "slb/yqarch/DF2",
+    "name": "DF2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DF2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 89
+  },
+  {
+    "id": "slb/yqarch/DF3",
+    "name": "DF3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DF3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 89
+  },
+  {
+    "id": "slb/yqarch/AAVERTEX",
+    "name": "AAVERTEX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AAVERTEX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 13
+  },
+  {
+    "id": "slb/yqarch/ADE",
+    "name": "ADE",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 607
+  },
+  {
+    "id": "slb/yqarch/TCC13",
+    "name": "TCC13",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC13.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 92
+  },
+  {
+    "id": "slb/yqarch/TCC14",
+    "name": "TCC14",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC14.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 128
+  },
+  {
+    "id": "slb/yqarch/TCC15",
+    "name": "TCC15",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC15.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 114
+  },
+  {
+    "id": "slb/yqarch/TCC16",
+    "name": "TCC16",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC16.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 85
+  },
+  {
+    "id": "slb/yqarch/GZE0",
+    "name": "GZE0",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/GZE0.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 160
+  },
+  {
+    "id": "slb/yqarch/GZE1",
+    "name": "GZE1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/GZE1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 513
+  },
+  {
+    "id": "slb/yqarch/GZE2",
+    "name": "GZE2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/GZE2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 561
+  },
+  {
+    "id": "slb/yqarch/GZE3",
+    "name": "GZE3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/GZE3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 557
+  },
+  {
+    "id": "slb/yqarch/GZE4",
+    "name": "GZE4",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/GZE4.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 660
+  },
+  {
+    "id": "slb/yqarch/TURN180",
+    "name": "TURN180",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TURN180.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 56
+  },
+  {
+    "id": "slb/yqarch/TURNLEFT",
+    "name": "TURNLEFT",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TURNLEFT.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 35
+  },
+  {
+    "id": "slb/yqarch/TURNRIGHT",
+    "name": "TURNRIGHT",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TURNRIGHT.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 35
+  },
+  {
+    "id": "slb/yqarch/TCC17",
+    "name": "TCC17",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC17.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 123
+  },
+  {
+    "id": "slb/yqarch/SXL",
+    "name": "SXL",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SXL.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 648
+  },
+  {
+    "id": "slb/yqarch/CLB",
+    "name": "CLB",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/CLB.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1492
+  },
+  {
+    "id": "slb/yqarch/GX",
+    "name": "GX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/GX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 100
+  },
+  {
+    "id": "slb/yqarch/YQ_TITLE1",
+    "name": "YQ_TITLE1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/YQ_TITLE1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1
+  },
+  {
+    "id": "slb/yqarch/YQ_TITLE2",
+    "name": "YQ_TITLE2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/YQ_TITLE2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 40
+  },
+  {
+    "id": "slb/yqarch/YQ_TITLE3",
+    "name": "YQ_TITLE3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/YQ_TITLE3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 39
+  },
+  {
+    "id": "slb/yqarch/AAXX",
+    "name": "AAXX",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AAXX.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 9
+  },
+  {
+    "id": "slb/yqarch/AAYY",
+    "name": "AAYY",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AAYY.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 9
+  },
+  {
+    "id": "slb/yqarch/ADS",
+    "name": "ADS",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1464
+  },
+  {
+    "id": "slb/yqarch/ADS0",
+    "name": "ADS0",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADS0.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1705
+  },
+  {
+    "id": "slb/yqarch/TCC18",
+    "name": "TCC18",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/TCC18.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 86
+  },
+  {
+    "id": "slb/yqarch/WDS",
+    "name": "WDS",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WDS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 191
+  },
+  {
+    "id": "slb/yqarch/WTS",
+    "name": "WTS",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/WTS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 294
+  },
+  {
+    "id": "slb/yqarch/AAJ",
+    "name": "AAJ",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/AAJ.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 72
+  },
+  {
+    "id": "slb/yqarch/BSK",
+    "name": "BSK",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/BSK.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 364
+  },
+  {
+    "id": "slb/yqarch/MBL",
+    "name": "MBL",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MBL.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 178
+  },
+  {
+    "id": "slb/yqarch/DMF",
+    "name": "DMF",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/DMF.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 2
+  },
+  {
+    "id": "slb/yqarch/CBZX0",
+    "name": "CBZX0",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/CBZX0.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 84
+  },
+  {
+    "id": "slb/yqarch/CBZX1",
+    "name": "CBZX1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/CBZX1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 76
+  },
+  {
+    "id": "slb/yqarch/CBZY0",
+    "name": "CBZY0",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/CBZY0.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 84
+  },
+  {
+    "id": "slb/yqarch/CBZY1",
+    "name": "CBZY1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/CBZY1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 76
+  },
+  {
+    "id": "slb/yqarch/MQS",
+    "name": "MQS",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MQS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 94
+  },
+  {
+    "id": "slb/yqarch/MQSE",
+    "name": "MQSE",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MQSE.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 911
+  },
+  {
+    "id": "slb/yqarch/MQSS",
+    "name": "MQSS",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/MQSS.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1131
+  },
+  {
+    "id": "slb/yqarch/SY3",
+    "name": "SY3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/SY3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 22715
+  },
+  {
+    "id": "slb/yqarch/ZL",
+    "name": "ZL",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ZL.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 321
+  },
+  {
+    "id": "slb/yqarch/BWMDCL",
+    "name": "BWMDCL",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/BWMDCL.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 888
+  },
+  {
+    "id": "slb/yqarch/ADE1",
+    "name": "ADE1",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADE1.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1186
+  },
+  {
+    "id": "slb/yqarch/ADE2",
+    "name": "ADE2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADE2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1332
+  },
+  {
+    "id": "slb/yqarch/ADE3",
+    "name": "ADE3",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/ADE3.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 1727
+  },
+  {
+    "id": "slb/yqarch/KD2",
+    "name": "KD2",
+    "source": "yqarch.slb",
+    "svg": "thumbnails/slb/yqarch/KD2.svg",
+    "dwg": null,
+    "pattern": null,
+    "segments": 59
+  }
+]

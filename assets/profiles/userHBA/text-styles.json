@@ -1,0 +1,203 @@
+{
+  "source": "userHBA/styles.txt",
+  "data": [
+    {
+      "name": "SIMSUN",
+      "fonts": [
+        "宋体"
+      ],
+      "isTrueType": true
+    },
+    {
+      "name": "SIMHEI",
+      "fonts": [
+        "黑体"
+      ],
+      "isTrueType": true
+    },
+    {
+      "name": "SIMKAI",
+      "fonts": [
+        "楷体"
+      ],
+      "isTrueType": true
+    },
+    {
+      "name": "SIMFANG",
+      "fonts": [
+        "仿宋"
+      ],
+      "isTrueType": true
+    },
+    {
+      "name": "SIMLI",
+      "fonts": [
+        "隶书"
+      ],
+      "isTrueType": true
+    },
+    {
+      "name": "SIMYOU",
+      "fonts": [
+        "幼圆"
+      ],
+      "isTrueType": true
+    },
+    {
+      "name": "simplex",
+      "fonts": [
+        "simplex.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "romanc",
+      "fonts": [
+        "romanc.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "romand",
+      "fonts": [
+        "romand.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzdxgc",
+      "fonts": [
+        "superos.shx",
+        "hzdxgc.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzdx",
+      "fonts": [
+        "superos.shx",
+        "hzdx.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzst",
+      "fonts": [
+        "romand.shx",
+        "hzst.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzfs",
+      "fonts": [
+        "txt2.shx",
+        "hzfs.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzkt",
+      "fonts": [
+        "txt2.shx",
+        "hzkt.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzxk",
+      "fonts": [
+        "txt2.shx",
+        "hzxk.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzwb",
+      "fonts": [
+        "txt2.shx",
+        "hzwb.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzls",
+      "fonts": [
+        "txt2.shx",
+        "hzls.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzxy",
+      "fonts": [
+        "txt2.shx",
+        "hzxy.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzht",
+      "fonts": [
+        "txt2.shx",
+        "hzht.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzhp",
+      "fonts": [
+        "txt2.shx",
+        "hzhp.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzzy",
+      "fonts": [
+        "txt2.shx",
+        "hzzy.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzhtf",
+      "fonts": [
+        "txt2.shx",
+        "hzhtf.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzhpf",
+      "fonts": [
+        "txt2.shx",
+        "hzhpf.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "_hzzyf",
+      "fonts": [
+        "txt2.shx",
+        "hzzyf.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "新GB",
+      "fonts": [
+        "gbenor.shx",
+        "gbcbig.shx"
+      ],
+      "isTrueType": false
+    },
+    {
+      "name": "新黑体",
+      "fonts": [
+        "黑体"
+      ],
+      "isTrueType": true
+    }
+  ]
+}

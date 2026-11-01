@@ -1,0 +1,752 @@
+{
+  "source": "user2/patterns1.txt",
+  "data": [
+    {
+      "pattern": "SOLID",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": "说明要自己写，按[确定]钮后才能保存"
+    },
+    {
+      "pattern": "ACAD_ISO02W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO03W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO04W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO05W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO06W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO07W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO08W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO09W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO10W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO11W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO12W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO13W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO14W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ACAD_ISO15W100",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ANGLE",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ANSI31",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ANSI32",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ANSI33",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ANSI34",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ANSI35",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ANSI36",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ANSI37",
+      "fields": [
+        "0",
+        "0",
+        "50"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ANSI38",
+      "fields": [
+        "0",
+        "0",
+        "50"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "AR-B816",
+      "fields": [
+        "0",
+        "0",
+        "1"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "AR-B816C",
+      "fields": [
+        "0",
+        "0",
+        "1"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "AR-B88",
+      "fields": [
+        "0",
+        "0",
+        "1"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "AR-BRELM",
+      "fields": [
+        "0",
+        "0",
+        "2"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "AR-BRSTD",
+      "fields": [
+        "0",
+        "0",
+        "2"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "AR-CONC",
+      "fields": [
+        "0",
+        "0",
+        "2"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "AR-HBONE",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "AR-PARQ1",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "AR-RROOF",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "AR-RSHKE",
+      "fields": [
+        "0",
+        "0",
+        "1"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "AR-SAND",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "BOX",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "BRASS",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "BRICK",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "BRSTONE",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "CLAY",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "CORK",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "CROSS",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "DASH",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "DOLMIT",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "DOTS",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "EARTH",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ESCHER",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "FLEX",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "GOST_GLASS",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "GOST_GROUND",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "GOST_WOOD",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "GRASS",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "GRATE",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "GRAVEL",
+      "fields": [
+        "0",
+        "0",
+        "20"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "HEX",
+      "fields": [
+        "0",
+        "0",
+        "20"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "HONEY",
+      "fields": [
+        "0",
+        "0",
+        "20"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "HOUND",
+      "fields": [
+        "0",
+        "0",
+        "20"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "INSUL",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "JIS_LC_20",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "JIS_LC_20A",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "JIS_LC_8",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "JIS_LC_8A",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "JIS_RC_10",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "JIS_RC_15",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "JIS_RC_18",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "JIS_RC_30",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "JIS_STN_1E",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "JIS_STN_2.5",
+      "fields": [
+        "0",
+        "0",
+        "50"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "JIS_WOOD",
+      "fields": [
+        "0",
+        "0",
+        "100"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "LINE",
+      "fields": [
+        "0",
+        "0",
+        "20"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "MUDST",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "NET",
+      "fields": [
+        "0",
+        "0",
+        "50"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "NET3",
+      "fields": [
+        "0",
+        "0",
+        "50"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "PLAST",
+      "fields": [
+        "0",
+        "0",
+        "20"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "PLASTI",
+      "fields": [
+        "0",
+        "0",
+        "20"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "SACNCR",
+      "fields": [
+        "0",
+        "0",
+        "50"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "SQUARE",
+      "fields": [
+        "0",
+        "0",
+        "40"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "STARS",
+      "fields": [
+        "0",
+        "0",
+        "40"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "STEEL",
+      "fields": [
+        "0",
+        "0",
+        "20"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "SWAMP",
+      "fields": [
+        "0",
+        "0",
+        "10"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "TRANS",
+      "fields": [
+        "0",
+        "0",
+        "20"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "TRIANG",
+      "fields": [
+        "0",
+        "0",
+        "20"
+      ],
+      "description": ""
+    },
+    {
+      "pattern": "ZIGZAG",
+      "fields": [
+        "0",
+        "0",
+        "20"
+      ],
+      "description": ""
+    }
+  ]
+}

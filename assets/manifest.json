@@ -1,0 +1,229 @@
+{
+  "generator": "yqweb-cad phase1 pipeline",
+  "generatedAt": "2026-11-01T01:24:18.343Z",
+  "source": {
+    "path": "Jdjdjehfjthgfh",
+    "files": 656,
+    "byExtension": {
+      ".gif": 1,
+      ".txt": 88,
+      ".pat": 23,
+      ".lsp": 15,
+      ".dwg": 261,
+      ".sld": 220,
+      ".chm": 2,
+      ".shx": 13,
+      ".dll": 2,
+      ".mnl": 2,
+      ".mnu": 2,
+      ".vlx": 3,
+      ".slb": 2,
+      ".ctb": 1,
+      ".lin": 1,
+      ".exe": 4,
+      ".yqs": 5,
+      ".zip": 1,
+      ".pgp": 4,
+      ".cuix": 2,
+      ".mnr": 2,
+      ".bat": 1,
+      ".doc": 1
+    }
+  },
+  "steps": [
+    {
+      "step": "commands",
+      "counts": {
+        "categories": 22,
+        "commands": 477,
+        "withDescription": 477,
+        "panels": 8,
+        "panelButtons": 694
+      },
+      "outputs": [
+        "commands.json",
+        "panels.json"
+      ],
+      "warnings": 0
+    },
+    {
+      "step": "profiles",
+      "counts": {
+        "profiles": 4,
+        "files": 76
+      },
+      "outputs": [
+        "profiles/user1/config.json",
+        "profiles/user1/layers.json",
+        "profiles/user1/layer-relay.json",
+        "profiles/user1/text-styles.json",
+        "profiles/user1/quick-hatch.json",
+        "profiles/user1/pattern-picks-1.json",
+        "profiles/user1/pattern-picks-2.json",
+        "profiles/user1/pattern-picks-3.json",
+        "profiles/user1/hatch-keys.json",
+        "profiles/user1/linetype-keys.json",
+        "profiles/user1/layer-keys.json",
+        "profiles/user1/wildcard-layer-keys.json",
+        "profiles/user1/numbers.json",
+        "profiles/user1/dictionary.json",
+        "profiles/user1/drawing-titles.json",
+        "profiles/user1/user-panels.json",
+        "profiles/user1/pgp-aliases.json",
+        "profiles/user1/command-settings.json",
+        "profiles/user1/alias-overrides.json",
+        "profiles/user2/config.json",
+        "profiles/user2/layers.json",
+        "profiles/user2/layer-relay.json",
+        "profiles/user2/text-styles.json",
+        "profiles/user2/quick-hatch.json",
+        "profiles/user2/pattern-picks-1.json",
+        "profiles/user2/pattern-picks-2.json",
+        "profiles/user2/pattern-picks-3.json",
+        "profiles/user2/hatch-keys.json",
+        "profiles/user2/linetype-keys.json",
+        "profiles/user2/layer-keys.json",
+        "profiles/user2/wildcard-layer-keys.json",
+        "profiles/user2/numbers.json",
+        "profiles/user2/dictionary.json",
+        "profiles/user2/drawing-titles.json",
+        "profiles/user2/user-panels.json",
+        "profiles/user2/pgp-aliases.json",
+        "profiles/user2/command-settings.json",
+        "profiles/user2/alias-overrides.json",
+        "profiles/userCCD/config.json",
+        "profiles/userCCD/layers.json",
+        "profiles/userCCD/layer-relay.json",
+        "profiles/userCCD/text-styles.json",
+        "profiles/userCCD/quick-hatch.json",
+        "profiles/userCCD/pattern-picks-1.json",
+        "profiles/userCCD/pattern-picks-2.json",
+        "profiles/userCCD/pattern-picks-3.json",
+        "profiles/userCCD/hatch-keys.json",
+        "profiles/userCCD/linetype-keys.json",
+        "profiles/userCCD/layer-keys.json",
+        "profiles/userCCD/wildcard-layer-keys.json",
+        "profiles/userCCD/numbers.json",
+        "profiles/userCCD/dictionary.json",
+        "profiles/userCCD/drawing-titles.json",
+        "profiles/userCCD/user-panels.json",
+        "profiles/userCCD/pgp-aliases.json",
+        "profiles/userCCD/command-settings.json",
+        "profiles/userCCD/alias-overrides.json",
+        "profiles/userHBA/config.json",
+        "profiles/userHBA/layers.json",
+        "profiles/userHBA/layer-relay.json",
+        "profiles/userHBA/text-styles.json",
+        "profiles/userHBA/quick-hatch.json",
+        "profiles/userHBA/pattern-picks-1.json",
+        "profiles/userHBA/pattern-picks-2.json",
+        "profiles/userHBA/pattern-picks-3.json",
+        "profiles/userHBA/hatch-keys.json",
+        "profiles/userHBA/linetype-keys.json",
+        "profiles/userHBA/layer-keys.json",
+        "profiles/userHBA/wildcard-layer-keys.json",
+        "profiles/userHBA/numbers.json",
+        "profiles/userHBA/dictionary.json",
+        "profiles/userHBA/drawing-titles.json",
+        "profiles/userHBA/user-panels.json",
+        "profiles/userHBA/pgp-aliases.json",
+        "profiles/userHBA/command-settings.json",
+        "profiles/userHBA/alias-overrides.json",
+        "profiles/index.json"
+      ],
+      "warnings": 0
+    },
+    {
+      "step": "patterns",
+      "counts": {
+        "duplicates": 237,
+        "files": 23,
+        "patterns": 461,
+        "lines": 18149
+      },
+      "outputs": [
+        "patterns.json"
+      ],
+      "warnings": 0
+    },
+    {
+      "step": "linetypes",
+      "counts": {
+        "linetypes": 42,
+        "complex": 41
+      },
+      "outputs": [
+        "linetypes.json"
+      ],
+      "warnings": 1
+    },
+    {
+      "step": "thumbnails",
+      "counts": {
+        "sld": 220,
+        "slbEntries": 552,
+        "slb:library/patterns.slb": 200,
+        "slb:yqarch.slb": 352,
+        "svg": 772,
+        "linkedToDwg": 216,
+        "linkedToPattern": 11
+      },
+      "outputs": [
+        "thumbnails/index.json",
+        "thumbnails/**/*.svg (772)"
+      ],
+      "warnings": 0
+    },
+    {
+      "step": "fonts",
+      "counts": {
+        "fonts": 13,
+        "glyphs": 8575
+      },
+      "outputs": [
+        "fonts/H1.json",
+        "fonts/HBSMALL.json",
+        "fonts/HZDX.json",
+        "fonts/Romane.json",
+        "fonts/SOLID1.json",
+        "fonts/SOLID2.json",
+        "fonts/SOLID3.json",
+        "fonts/SUPEROS.json",
+        "fonts/TXT1.json",
+        "fonts/TXT2.json",
+        "fonts/archs.json",
+        "fonts/romand.json",
+        "fonts/yqshape.json",
+        "fonts/index.json"
+      ],
+      "warnings": 3
+    }
+  ],
+  "blocks": {
+    "files": 261,
+    "failed": 0,
+    "generatedBy": "tools/dwg-convert"
+  },
+  "excludedBinaries": [
+    "360误报说明.gif",
+    "donate.chm",
+    "gyqarch.dll",
+    "install.vlx",
+    "library/ss139.VLX",
+    "setup.exe",
+    "sys.zip",
+    "uninst.exe",
+    "yqarch.bak.cuix",
+    "yqarch.cuix",
+    "yqarch.dll",
+    "yqarch.mnr",
+    "yqarch.vlx",
+    "yqarch_light.mnr",
+    "yqhelp.chm",
+    "浩辰gsetup.exe",
+    "浩辰guninst.exe",
+    "源泉删除CAD病毒程序.bat",
+    "源泉设计快捷键.doc"
+  ],
+  "durationMs": 1377
+}

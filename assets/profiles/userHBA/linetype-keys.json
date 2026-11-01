@@ -1,0 +1,37 @@
+{
+  "source": "userHBA/ltypekey.txt",
+  "data": [
+    {
+      "alias": "xcen",
+      "linetype": "CENTER",
+      "scale": 10,
+      "extra": [
+        "1"
+      ]
+    },
+    {
+      "alias": "xhid",
+      "linetype": "HIDDEN",
+      "scale": 20,
+      "extra": [
+        "2"
+      ]
+    },
+    {
+      "alias": "xcon",
+      "linetype": "Continuous",
+      "scale": 1,
+      "extra": [
+        "1"
+      ]
+    },
+    {
+      "alias": "xbyl",
+      "linetype": "Bylayer",
+      "scale": 1,
+      "extra": [
+        "1"
+      ]
+    }
+  ]
+}

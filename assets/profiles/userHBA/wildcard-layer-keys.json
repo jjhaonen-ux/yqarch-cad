@@ -1,0 +1,25 @@
+{
+  "source": "userHBA/wlaykey.txt",
+  "data": [
+    {
+      "alias": "wrc",
+      "pattern": "rc*",
+      "description": "天花图层"
+    },
+    {
+      "alias": "wfc",
+      "pattern": "fc*",
+      "description": "地面图层"
+    },
+    {
+      "alias": "wdt",
+      "pattern": "dt*",
+      "description": "大样图层"
+    },
+    {
+      "alias": "wff",
+      "pattern": "ff*",
+      "description": "家具图层"
+    }
+  ]
+}
