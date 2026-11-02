@@ -15,6 +15,7 @@ import { hatchSegments } from '../render/hatch';
 import { layoutMText, resolveFonts } from '../render/text';
 import { stretchGrips } from '../edit/grips';
 import { kw, type CommandDef, type CommandEngine, type Keyword } from './engine';
+import { detachArchitecturalCopy, eraseArchitecturalSelection, expandArchitectureTransformTargets, restoreErasedEntities, synchronizeArchitecture } from '../architecture/geometry';
 
 const strip = (e: Entity | NewEntity): NewEntity => { const { id: _id, ...rest } = e as Entity; return rest as NewEntity; };
 
@@ -37,18 +38,32 @@ const previewOf = (c: CommandEngine, ids: number[], m: Mat, limit = PREVIEW_LIMI
 };
 const report = (c: CommandEngine, n: number) => c.print([`${n} object(s)`, `${n} كائن`]);
 const apply = (c: CommandEngine, ids: number[], m: Mat, copy: boolean) => {
-  for (const id of ids) {
+  const targets = copy ? ids : expandArchitectureTransformTargets(c.doc, ids);
+  const changed: number[] = [];
+  for (const id of targets) {
     const e = c.doc.get(id); if (!e) continue;
-    if (copy) c.doc.add(strip(xform(c.doc, e, m))); else c.doc.update(id, (x) => xform(c.doc, x, m));
+    if (copy) {
+      const clone = detachArchitecturalCopy(strip(xform(c.doc, e, m)));
+      changed.push(c.doc.add(clone).id);
+    } else {
+      c.doc.update(id, (x) => xform(c.doc, x, m));
+      changed.push(id);
+    }
   }
+  synchronizeArchitecture(c.doc, changed);
 };
 
 export const ERASE: CommandDef = {
   name: 'ERASE', names: ['DELETE'], title: ['Erase', 'مسح'], group: 'modify',
   async run(c) {
     const ids = await c.getSelection();
-    const gone: Entity[] = [];
-    for (const id of ids) { const e = c.doc.get(id); if (e) { gone.push(structuredClone(e)); c.doc.remove(id); } }
+    const architecture = eraseArchitecturalSelection(c.doc, ids);
+    const gone: Entity[] = [...architecture.gone];
+    for (const id of ids) {
+      if (architecture.handled.has(id)) continue;
+      const e = c.doc.get(id);
+      if (e) { gone.push(structuredClone(e)); c.doc.remove(id); }
+    }
     if (gone.length) { c.memory.lastErased = gone; report(c, gone.length); }
   },
 };
@@ -58,7 +73,7 @@ export const OOPS: CommandDef = {
   async run(c) {
     const gone = c.memory.lastErased as Entity[] | undefined;
     if (!gone?.length) { c.print(['Nothing to restore.', 'لا يوجد ما يُستعاد.']); return; }
-    const ids = gone.map((e) => c.doc.add(strip(e)).id);
+    const ids = restoreErasedEntities(c.doc, gone);
     c.previousSelection = ids;
     c.memory.lastErased = undefined;
     report(c, ids.length);
