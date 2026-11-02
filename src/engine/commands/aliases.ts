@@ -36,6 +36,8 @@ export const BUILTIN_ALIASES: Record<string, string> = {
   U: 'U', Z: 'ZOOM', P: 'PAN', RE: 'REGEN', LA: 'LAYER', '-LA': '-LAYER', COL: 'COLOR', LT: 'LINETYPE', LTS: 'LTSCALE', UN: 'UNITS',
   OS: 'OSNAP', SN: 'SNAP', DI: 'DIST', LI: 'LIST', LS: 'LIST', PR: 'PROPERTIES', CH: 'PROPERTIES', ED: 'DDEDIT', X: 'EXPLODE',
   O: 'OFFSET', TR: 'TRIM', EX: 'EXTEND', F: 'FILLET', CHA: 'CHAMFER', AR: 'ARRAY', S: 'STRETCH', BR: 'BREAK', J: 'JOIN',
+  WA: 'WALL', WFROM: 'WALLFROM', WTHICK: 'WALLTHICK', WDEL: 'WALLDELETE',
+  AX: 'AXIS', AG: 'AXISGRID', COLN: 'COLUMN', DR: 'DOOR', WN: 'WINDOW', DFLIP: 'FLIPDOOR',
 };
 
 export class AliasResolver {

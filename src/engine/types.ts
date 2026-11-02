@@ -6,10 +6,31 @@
  */
 export type Pt = [number, number];
 
+export interface ArchOpening {
+  id: number;
+  station: number;
+  width: number;
+  kind: 'door' | 'window';
+  side: 1 | -1;
+}
+
+/**
+ * Lightweight, persisted architectural relationships layered over ordinary CAD entities.
+ * Generated wall edges remain LINE entities so existing selection, snaps, DXF and render
+ * code continue to work without a second geometry pipeline.
+ */
+export type ArchEntityData =
+  | { role: 'wall-path'; thickness: number; openings: ArchOpening[] }
+  | { role: 'wall-edge' | 'wall-jamb'; wallId: number }
+  | { role: 'opening-symbol'; wallId: number; openingId: number; station: number; width: number; kind: 'door' | 'window'; side: 1 | -1 }
+  | { role: 'column'; shape: 'square' | 'circle' | 'L' | 'T' | 'cross' };
+
 export interface EntBase {
   id: number;
   type: string;
   layer: string;
+  /** Optional YQArch web-CAD architectural association. */
+  arch?: ArchEntityData;
   /** ACI color: absent/256 = ByLayer, 0 = ByBlock, 1..255 = index. */
   color?: number;
   trueColor?: string;
