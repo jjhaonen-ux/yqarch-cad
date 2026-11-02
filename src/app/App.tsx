@@ -4,6 +4,7 @@ import { CadDocument } from '../engine/model/document';
 import { UNIT_NAMES } from '../engine/model/settings';
 import { CommandEngine } from '../engine/commands/engine';
 import { registerAll } from '../engine/commands';
+import { ARCHITECTURE_COMMANDS } from '../engine/commands/architecture';
 import { AliasResolver } from '../engine/commands/aliases';
 import { CanvasRenderer, DARK, type Overlay } from '../engine/render/renderer';
 import { Viewport } from '../engine/render/view';
@@ -27,6 +28,11 @@ const blankDrawing = (): DrawingJson => ({ format: 'yqweb-drawing@1', name: 'Dra
 const pointEntity = (p: Pt, layer = '0'): NewEntity => ({ type: 'POINT', layer, p });
 const distance = (a: Pt, b: Pt) => Math.hypot(a[0] - b[0], a[1] - b[1]);
 const insideInput = (target: EventTarget | null) => target instanceof HTMLElement && !!target.closest('input,textarea,select,[contenteditable="true"]');
+
+const ARCHITECTURE_COMMAND_CATALOG = ARCHITECTURE_COMMANDS.map((command) => {
+  const [en, zh] = typeof command.title === 'string' ? [command.title, command.title] : command.title;
+  return { id: command.name, alias: command.names?.[0] ?? '', en, zh, category: 'architecture', stars: 5 };
+});
 
 function createDocument() {
   const doc = new CadDocument();
@@ -476,6 +482,11 @@ export default function App() {
         <button className="rail-button" title="إدراج بلوك" onClick={() => startInsert()}><Icon name="block" /></button>
         <button className="rail-button" title="تهشير" onClick={() => run('HATCH')}><Icon name="hatch" /></button>
         <button className="rail-button" title="القياس" onClick={() => run('DIST')}><Icon name="measure" /></button>
+        <span className="rail-separator" />
+        <button className="rail-button" title="جدار معماري" onClick={() => run('WALL')}><Icon name="line" /></button>
+        <button className="rail-button" title="شبكة محاور" onClick={() => run('AXISGRID')}><Icon name="select" /></button>
+        <button className="rail-button" title="عمود معماري" onClick={() => run('COLUMN')}><Icon name="rect" /></button>
+        <button className="rail-button" title="باب" onClick={() => run('DOOR')}><Icon name="arc" /></button>
         <div className="rail-bottom"><button className="rail-button" title="الأوامر" onClick={() => setDialog({ type: 'commands' })}><Icon name="help" /></button></div>
       </aside>
 
@@ -532,7 +543,7 @@ export default function App() {
     <input ref={fileInputRef} type="file" accept=".yqd,.json,application/json" className="hidden-file-input" onChange={onFileSelected} />
     {dialog?.type === 'insert' && <div className="modal-backdrop" onMouseDown={(e) => { if (e.target === e.currentTarget) finishInsertDialog(null); }}><div className="modal-card library-modal"><div className="modal-head"><div><span className="modal-icon"><Icon name="block" /></span><div><strong>إدراج كتلة</strong><small>اختر كتلة من مكتبة الموارد</small></div></div><button onClick={() => finishInsertDialog(null)} aria-label="إغلاق">×</button></div><div className="modal-body"><div className="search-box"><Icon name="search" /><input autoFocus value={blockSearch} onChange={(e) => setBlockSearch(e.target.value)} placeholder="ابحث في مكتبة الكتل" /></div><div className="blocks-grid modal-blocks">{filteredThumbnails.slice(0, 36).map((item) => <BlockCard key={item.id} item={item} onInsert={() => finishInsertDialog(item.name)} />)}</div></div><div className="modal-foot"><span>اختر العنصر ثم حدّد نقطة الإدراج في مساحة الرسم.</span><button className="secondary-button" onClick={() => finishInsertDialog(null)}>إلغاء</button></div></div></div>}
     {dialog?.type === 'mtext' && <MTextDialog initial={dialog} onCancel={() => finishMtextDialog(null)} onSubmit={(value) => finishMtextDialog(value)} />}
-    {dialog?.type === 'commands' && <CommandBrowser commands={assets?.aliases.yqCommands ?? []} query={commandSearch} setQuery={setCommandSearch} onClose={() => setDialog(null)} onRun={(id) => { setDialog(null); run(id); }} />}
+    {dialog?.type === 'commands' && <CommandBrowser commands={[...(assets?.aliases.yqCommands ?? []), ...ARCHITECTURE_COMMAND_CATALOG]} query={commandSearch} setQuery={setCommandSearch} onClose={() => setDialog(null)} onRun={(id) => { setDialog(null); run(id); }} />}
     {toast && <div className="toast"><Icon name="check" />{toast}</div>}
   </div>;
 }
